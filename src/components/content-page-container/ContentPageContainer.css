@@ -1,0 +1,184 @@
+.content-page-title {
+  font-weight: 600;
+}
+
+.wrapper {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+@media screen and (min-width: 600px) {
+	.content-page-videos {
+		display: flex;
+		flex-direction: row;
+	}
+	.tabContent img {
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.wrapper {
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+	.tabContent img {
+		width: 100%;
+	}
+}
+
+.wrapper.right-align {
+  text-align: right;
+}
+
+.panel {
+	border-radius: 0;
+}
+
+.tab {
+	color: white;
+}
+
+.tab-style-1 {
+	background-color: #a7d28d;
+	border: 2px solid #a7d28d;
+	border-bottom: none;
+}
+
+.tab-style-1.RRT__tab--selected {
+	background-color: #f5faf3;
+	color: #a7d28d;
+}
+
+.panel-style-1 {
+	background-color: #f5faf3;
+	border: 2px solid #a7d28d;
+}
+
+.panel-style-1 a:link {
+	color: #a7d28d;
+}
+
+.panel-style-1 a:visited {
+	color: #a7d28d;
+}
+
+.tab-style-2 {
+	background-color: #86D3EC;
+	border: 2px solid #86D3EC;
+	border-bottom: none;
+}
+
+.tab-style-2.RRT__tab--selected {
+	background-color: #f2fafd;
+	color: #86D3EC;
+}
+
+.panel-style-2 {
+	background-color: #f2fafd;
+	border: 2px solid #86D3EC;
+}
+
+.panel-style-2 a:link {
+	color: #86D3EC;
+}
+
+.panel-style-2 a:visited {
+	color: #86D3EC;
+}
+
+.tab-style-3 {
+	background-color: #f37a7f;
+	border: 2px solid #f37a7f;
+	border-bottom: none;
+}
+
+.tab-style-3.RRT__tab--selected {
+	background-color: #fef0ee;
+	color: #f37a7f;
+}
+
+.panel-style-3 {
+	background-color: #fef0ee;
+	border: 2px solid #f37a7f;
+}
+
+.panel-style-3 a:link {
+	color: #f37a7f;
+}
+
+.panel-style-3 a:visited {
+	color: #f37a7f;
+}
+
+.tab-style-4 {
+	background-color: #fdb83d;
+	border: 2px solid #fdb83d;
+	border-bottom: none;
+}
+
+.tab-style-4.RRT__tab--selected {
+	background-color: #fff6e9;
+	color: #fdb83d;
+}
+
+.panel-style-4 {
+	background-color: #fff6e9;
+	border: 2px solid #fdb83d;
+}
+
+.panel-style-4 a:link {
+	color: #fdb83d;
+}
+
+.panel-style-4 a:visited {
+	color: #fdb83d;
+}
+
+.tab-style-5 {
+	background-color: #aea8d2;
+	border: 2px solid #aea8d2;
+	border-bottom: none;
+}
+
+.tab-style-5.RRT__tab--selected {
+	background-color: #f6f5fa;
+	color: #aea8d2;
+}
+
+.panel-style-5 {
+	background-color: #f6f5fa;
+	border: 2px solid #aea8d2;
+}
+
+.panel-style-5 a:link {
+	color: #aea8d2;
+}
+
+.panel-style-5 a:visited {
+	color: #aea8d2;
+}
+
+.content-page-title-style-1 {
+  color: #A9D192;
+}
+
+.content-page-title-style-2 {
+  color: #86D3EC;
+}
+
+.content-page-title-style-3 {
+  color: #EE7B83;
+}
+
+.content-page-title-style-4 {
+  color: #fdb83d;
+}
+
+.content-page-title-style-5 {
+  color: #AEAACF;
+}
+
+.content-page-title-style-6 {
+  color: #B95C66;
+}

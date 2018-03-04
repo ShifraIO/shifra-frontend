@@ -1,0 +1,16 @@
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .image-desktop {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .image-mobile {
+    display: none;
+  }
+}

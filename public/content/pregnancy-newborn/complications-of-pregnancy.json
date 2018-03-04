@@ -1,0 +1,225 @@
+{
+  "arabicComplete": false,
+  "style": 3,
+  "title": {
+    "en": "Complications of Pregnancy",
+    "ar": "مضاعفات الحمل" 
+  },
+  "summary": {
+    "en": "",
+    "ar": "" 
+  },
+  "topLevelVideo": "",
+  "tab": [
+		{
+      "title": {
+        "en": "Miscarriage",
+        "ar": "الإجهاض:" 
+      },
+      "text": {
+        "en": "<p><ul><li>Miscarriage occurs when a pregnancy stops growing, and the pregnancy tissue that would have become the baby passes out of the body.<ul><li>1 in 3 will experience a miscarriage at some point in her life.</li><li>This can be a very sad and emotional time for a woman and her family.</li><li>This is a common experience and usually cannot be prevented.</li></ul></li><li>It is recommended to wait at least 3-6 months between a miscarriage and getting pregnant again.</li><li>If you think you are having a miscarriage (you are having a lot of pain and/or are bleeding), you should call or visit your GP/doctor.</li><li>For some women, your doctor will recommend  waiting until the bleeding stops but for others they may need to take medication or have a surgical procedure to remove any blood clots still inside the uterus.</li></ul></p>",
+        "ar": ""
+
+      },
+      "image": "",
+      "video" : "",
+      "links": [
+        {
+          "title": {
+            "en": "Early Pregnancy Loss (Miscarriage) - Mercy Health (PDF | English)",
+            "ar": "" 
+          },
+          "url": "http://www.mercyhealth.com.au/hcmhs/services/Documents/Early%20Pregnancy%20English_June2015.pdf"
+        },
+        {
+          "title": {
+            "en": "After A Miscarriage - The Women's (PDF | English)",
+            "ar": "" 
+          },
+          "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/After-a-miscarriage.pdf"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Ectopic Pregnancy",
+        "ar": "الحمل خارج الرحم" 
+      },
+      "text": {
+        "en": "<p><ul><li>An ectopic pregnancy occurs when the cells that will become the baby start to grow outside the uterus or womb.<ul><li>These cells usually grow in the fallopian tube (see below) but sometime the cells may grow elsewhere (though this is very rare).</li></ul></li><li>This type of pregnancy can not continue and it can lead to pain and the fallopian tube rupturing (breaking apart). If this happens, you will need immediate surgery to remove that fallopian tube.</li><li>Your other fallopian tube is not usually affected, so you can still get pregnant in the future.</li></ul></p>",
+        "ar": ""
+      },
+      "image": "http://healthywa.wa.gov.au/~/media/Images/HealthyWA/Articles/Having%20a%20baby/ectopic-pregnancy-diagram.ashx",
+      "video" : "",
+      "links": [
+        {
+          "title": {
+            "en": "Ectopic pregnancy - The Women's",
+            "ar": "" 
+          },
+          "url": "https://www.thewomens.org.au/health-information/pregnancy-and-birth/pregnancy-problems/early-pregnancy-problems/ectopic-pregnancy"
+				},
+				{
+          "title": {
+            "en": "Ectopic pregnancy - Health WA",
+            "ar": "" 
+          },
+          "url": "http://healthywa.wa.gov.au/Articles/A_E/Ectopic-pregnancy"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Gestational Diabetes Mellitus",
+        "ar": "السکري الحملي:" 
+      },
+      "text": {
+        "en": "<p><ul><li>If you develop diabetes in pregnancy this is known as gestational diabetes mellitus (GDM) occurs<br>GDM results from when body loses its ability to control the level of sugar it has in its blood  during pregnancy.</li><li>GDM increases your risk for developing Type 2 diabetes later in life.</li><li>You will have a blood test for GDM around 28 weeks<ul><li>Here, you will be asked to sit still for 1-2 hours between blood tests which are taken before and after having a sugary drink</li></ul></li><li>If your test is positive for GDM, you will see a GDM educator and have more regular blood tests until your baby is born</li><li>Some women will take care of their GDM with healthy changes to their diet and exercise plans, others may to to take medicine called insulin, everyday.</li><li>After your baby is born, your GDM will go away but you are are increased risk of having it again in future pregnancies.</li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video" : "",
+      "links": [
+        {
+          "title": {
+            "en": "Diabetes in pregnancy – gestational diabetes (PDF | English)",
+            "ar": "" 
+          },
+          "url": "http://www.mhcs.health.nsw.gov.au/publicationsandresources/pdf/publication-pdfs/diabetes/5590/bhc-5590-eng.pdf"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Pre-Eclampsia/Eclampsia",
+        "ar": "التسمم الحملي :" 
+      },
+      "text": {
+        "en": "<p><ul><li>Pre-Eclampsia is a problem related to the kidneys, the liver and the brain that women can develop in pregnancy or immediately after birth that can affect both mother and baby.</li><li>Some warning signs include:<ul><li>high blood pressure (this is why your blood pressure is taken each time you visit the clinic)</li><li>protein in the urine (this is tested using a urine sample at the clinic)</li><li>leg or foot swelling (more than what is usual during pregnancy)</li><li>blurry vision (you may see sparkles, stars or bright lights)</li><li>Your baby’s growth is slowed down (this is why they measure your tummy at each visit).</li></ul></li><li>Pre-eclampsia can get bad very quickly.<ul><li>If pre-eclampsia is not treated it can lead to seizures (violent shaking) and this can harm both mother and baby.</li><li>Sadly, in rare cases, mothers and babies can die which is why it is important to contact your GP or midwife if you have any of the symptoms above</li></ul></li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video" : "",
+      "links": [
+        {
+          "title": {
+            "en": "Explaining Pre-eclampsia - The Women's (PDF | English)",
+            "ar": "" 
+          },
+          "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Pre-eclampsia.pdf"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Pre-term Labor/Birth",
+        "ar": "المخاض المبكر / الولادة قبل الأوان/" 
+      },
+      "text": {
+        "en": "<p><ul><li>Preterm labor is when you start having signs of labor before 37 weeks.</li><li>These signs can include:<ul><li>contractions</li><li>increased pressure in the lower pelvis especially around your bottom (like you need to do a poo)</li><li>fluid or blood coming from the vagina</li></ul></li><li>A baby is born before to 37 weeks gestation can need extra help breathing and feeding<ul><li>If you are having any of these symptoms before 37 weeks, it is important to contact your midwife or go to the hospital immediately</li></ul></li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video" : "",
+      "links": [
+        {
+          "title": {
+            "en": "Premature labour, birth and babies - Raising Children",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/premature_birth.html"
+        }
+      ]
+		},
+    {
+      "title": {
+        "en": "Bleeding in pregnancy",
+        "ar": ""
+      },
+      "text": {
+        "en": "<p><ul><li>Some women will experience bleeding during their pregnancy.<ul><li>This is not normal but does not mean you are having a miscarriage or preterm labour.</li></ul></li><li>Depending on the amount of bleeding you may be asked to have more regular ultrasounds or you may be admitted to hospital in case the baby needs to be born quickly.</li><li>This bleeding is usually because the placenta or blood vessels in the baby’s umbilical cord are close to or covering the cervix (the opening of the uterus or womb).</li><li>Towards the end of your pregnancy, the placenta will move up the wall of the uterus a little but this may not be high enough to allow you to have a vaginal birth.</li><li>If your placenta is too close to the cervix, you will need to have a cesarean section.<ul><li>This is called a placenta praevia.</li><li>There are four levels of placenta praevia:<ul><li>Stage I: Low Lying - placenta is close to cervix</li><li>Stage II: Marginal - placenta is next to cervix</li><li>Stage III: Partial - placenta is covering part of the cervix</li><li>Stage IV: Complete - placenta is covering the whole cervix</li></ul></li></ul></li></ul><p><img style=\"width: 50%;\"  src=\"/img/pregnancy/stages-placenta-praevia.png\" alt=\"Four stages of placenta praevia\"></p><ul><li>A vasa previa is when the blood vessels inside the umbilical cord or placenta are lying across the cervix.<ul><li>This can lead to bleeding or a cord prolapse (where the cord enters the cervix before the baby’s head does and this is a medical emergency).</li></ul></li></ul><p><img src=\"/img/pregnancy/vasa-previa.png\" alt=\"Diagram of Vasa Previa\"><br/>Image courtesy of: <a href=\"http://vasaprevia.com/\">http://vasaprevia.com/</a></p><ul><li><p>In rare cases, the placenta may start to cross over into the wall of the uterus.</p><ul><li>This is known as placenta accreta, increta or percreta, depending on how far in it grows (see image below).</li><li>This will also require you to give birth by caesarean section.</li></ul></li><li><p>If the placenta comes off the wall of the uterus during pregnancy or labour, this will also cause bleeding.</p><ul><li>This is known as  a placental abruption and is a medical emergency, usually requiring birth by caesarean section.</li></ul></li></ul><p><img style=\"width: 50%;\" src=\"/img/pregnancy/placental-abruption.png\" alt=\"Placental Abruption\"><br/>Image Courtesy of: <a href=\"http://perinatology.com/wordpress/?p=109\">http://perinatology.com/wordpress/?p=109</a></p></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video" : "",
+      "links": []
+		},
+		{
+      "title": {
+        "en": "Breech",
+        "ar": ""
+      },
+      "text": {
+        "en": "<p><ul><li>Towards the end of your pregnancy your baby should be facing head down.</li><li>Sometimes babies can move around so that they are sitting with their head under your rib cage and their bottom or feet are closest to the opening of the uterus.<ul><li>This is known as breech position.</li></ul></li></ul><p><img style=\"width: 50%;\" src=\"/img/pregnancy/breech.png\" alt=\"Variations of the breech presentation\"></p><p>Image courtesy of: Chelsea and Westminster Hospital <a href=\"http://www.chelwest.nhs.uk/services/maternity-obstetrics/your-pregnancy/breech\">http://www.chelwest.nhs.uk/services/maternity-obstetrics/your-pregnancy/breech</a></p><ul><li>If this happens, most doctors will recommend a caesarean section however there are doctors who will offer support for a breech vaginal birth depending on the exact position of the baby.</li><li>Some doctors will also offer a procedure called a “external cephalic version” where they will attempt to turn the baby around in the last few weeks of your pregnancy.<ul><li>They do this with an ultrasound and using their hands on your abdomen (or tummy) to move the baby around from the outside.</li></ul></li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video" : "",
+      "links": [
+				{
+          "title": {
+            "en": "External Cephalic Version Guidelines",
+            "ar": "" 
+          },
+          "url": "http://www.kemh.health.wa.gov.au/development/manuals/O&G_guidelines/sectionb/2/b2.10.2.pdf"
+        }
+			]
+    },
+    {
+      "title": {
+        "en": "Perinatal Depression & Anxiety",
+        "ar": "مقياس الاكتئاب بعد الولادة" 
+      },
+      "text": {
+        "en": "<p><ul><li>Experiencing depression and anxiety during pregnancy and after birth is common.<ul><li>You may have feelings of sadness or worry that lasts more than a few days, this is not normal and it is OK to ask for help</li><li>Sometimes these feelings can last for weeks or months and it is OK to ask for help then too.</li><li>Many mothers do not seek help because they believe that parenthood should only be a happy occasion and are afraid other people with judge them.</li></ul></li><li>If you ask for help or display signs of depression or anxiety your midwife or doctor may ask you to answer some questions on a form.<ul><li>This is known as the Edinburgh Postnatal Depression Scale (EPDS).</li><li>The EPDS is a set of 10 screening questions that your midwife will ask you to fill out early in your pregnancy.</li><li>You may be asked to repeat the EPDS closer to birth or after your baby is born if they have concerns but they will talk to you about this.</li><li>Your doctor or maternal child health nurse may also ask you to fill out once you’ve had your baby.</li></ul></li><li>No one has the right to take your baby away from you because you are sad or worried about things.<ul><li>There are programs that can help you feel better and bond with your baby, some will even let you and your baby stay overnight in a care setting, together.</li></ul></li><li>You have a right to seek help and feel better.<ul><li>Seeking help early on can speed up recovery and make pregnancy and motherhood a more enjoyable experience.</li></ul></li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video" : ["https://www.youtube.com/embed/FjqOqJLkyFs", "https://www.youtube.com/embed/Mfopcvxjyw8", "https://www.youtube.com/embed/8Hew8Fhbf3g"],
+      "links": [
+        {
+          "title": {
+            "en": "Understanding perinatal depression and anxiety - beyondblue (PDF | English)",
+            "ar": "" 
+          },
+          "url": "http://resources.beyondblue.org.au/prism/file?token=BL/0940"
+        },
+        {
+          "title": {
+            "en": "Self-help for anxiety - Reach Out",
+            "ar": "" 
+          },
+          "url": "https://au.reachout.com/articles/self-help-for-anxiety"
+        },
+        {
+          "title": {
+            "en": "Panda",
+            "ar": "" 
+          },
+          "url": "http://www.panda.org.au/info-support"
+        },
+        {
+          "title": {
+            "en": "Edinburgh Postnatal Depression Scale (EPDS) (PDF | English)",
+            "ar": "" 
+          },
+          "url": "http://www.mhcs.health.nsw.gov.au/publicationsandresources/pdf/publication-pdfs/7000/ahs-7000-eng.pdf"
+        },
+        {
+          "title": {
+            "en": "St John of God Mother Baby Unit",
+            "ar": "" 
+          },
+          "url": "https://www.sjog.org.au/our-locations/st-john-of-god-burwood-hospital/our-services/mental-health-and-therapy/perinatal-mental-health"
+        },
+        {
+          "title": {
+            "en": "Masada Mother Baby Unit",
+            "ar": "" 
+          },
+          "url": "http://www.masadaprivate.com.au/Our%20Services/Mother%20Baby%20Unit/Introduction"
+        }
+      ]
+    }
+  ]
+}

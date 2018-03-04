@@ -1,0 +1,159 @@
+.item {
+  display: inline-block;
+  width: calc(100% / 6);
+  text-align: center;
+  text-overflow: ellipsis;
+  word-wrap: normal;
+  white-space: nowrap;
+  color: white;
+}
+
+.menu :hover .item-overhang {
+  display: block;
+}
+
+.item .item-text {
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 40%;
+  margin-top: 0.5em;
+  padding-top: 0.5em;
+}
+
+.mobile-item {
+  padding-top: 0.35em;
+  display: block; 
+  width: 100%;
+  text-align: center;
+  text-overflow: ellipsis;
+  word-wrap: normal;
+  white-space: nowrap;
+  color: white;
+}
+
+.item-1 {
+  background-color: #A9D192;
+}
+
+.item-2 {
+  background-color: #86D3EC;
+}
+
+.item-3 {
+  background-color: #EE7B83;
+}
+
+.item-4 {
+  background-color: #fdb83d;
+}
+
+.item-5 {
+  background-color: #AEAACF;
+}
+
+.item-6 {
+  background-color: #B95C66;
+}
+
+@media screen and (min-width: 600px) {
+  .item {
+    border-bottom: 0;
+    height: 8rem;
+    padding-top: 5px;
+  }
+  .mobile-menu {
+    display: none;
+  }
+  .toggleMenu {
+    display: none;
+  }
+  .menu {
+    display: block;
+    position: absolute;
+    margin-top: 70px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu {
+    display: none;
+  }
+  .toggleMenu {
+    width: 100%;
+    margin-top: 70px;
+    border: none;
+    background-color: darkslategrey;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .toggleMenuButton {
+    background-color: darkslategrey;
+    border: none;
+    margin: 0.3rem 1rem 0.3rem 0.3rem;
+    width: 4rem;
+    transition: all 0.2s;
+  }
+
+  .rotate {
+    transform: rotate(90deg);
+  }
+
+  .toggleMenuButton:hover {
+     background-color: rgba(0,0,0,0.2);
+  }
+
+  .bar {
+    width: 100%;
+    margin: 6px 0 6px 0;
+    background-color: white;
+    border: 1.5px solid white;
+    border-radius: 2px;
+    text-align: center;
+  }
+
+  .mobile-item {
+    display: block;
+		height: 8rem;
+		padding-top: 2.5rem;
+	}
+	
+	.mobile-item > p {
+		margin: 0;
+	}
+
+  .item-text {
+    display: inline-block;
+    vertical-align: middle;
+	}
+
+  .icon {
+    height: 80%;
+  }
+
+}
+
+.icon {
+  height: 50%;
+  padding-right: 5px;
+}
+
+a {
+  text-decoration-line: none !important;
+}
+
+.item-overhang {
+  display: none;
+  margin-top: 5px;
+  height: 8px;
+  background-color: inherit;
+}
+
+.menuWrapper {
+  display: flex;
+  flex-direction: column;
+}

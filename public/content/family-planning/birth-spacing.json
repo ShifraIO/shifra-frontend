@@ -1,0 +1,18 @@
+{
+	"arabicComplete": true,
+	"style": 2,
+	"title": {
+		"en": "Birth Spacing and Planning",
+		"ar": "المباعدة بين الولادات والتخطيط الأسري"
+	},
+	"summary": {
+		"en": "<h4><strong>What is birth spacing?</strong></h4><ul><li>In Australia, all women have the right to choose:</li><ul><li>when they have their children;</li><li>how many children they want to have; or</li><li>if they want to have any children at all.</li></ul><li>Pregnancies that are at least 18 months (ideally 24 months) apart are safer for both mother and baby. This is an international recommendation by the World Health Organisation</li><li>When a pregnancy ends in miscarriage or termination, the recommended minimum space to next pregnancy is at least 6 months as this is also safer for both mother and baby.</li><li>The average woman from an English-speaking, Australian-born background has 2-3 children and usually starts having her children in her late 20s or early 30s.</li><li>Women can use a variety of methods to prevent an unplanned pregnancies. These methods are called Contraceptives.</li></ul><h4><strong>Benefits</strong></h4><ul><li>Spacing your births apart can reduce the risk of:</li><ul><li>having a baby that weighs less than 2.5kg;</li><li>having a baby born before 37 weeks of pregnancy;</li><li>excessive bleeding during pregnancy and birth;</li><li>depression related to pregnancy and being a mother.</li></ul><li>Birth spacing allows breastfeeding mothers more time to restore important nutrients such as folic acid and iron, and strengthen your abdominal and pelvic floor muscles.</li></ul>",
+		"ar": "<p>لتخطيط والتباعد بين الحمل والآخر مفيد لك ولطفلك. يمكن أن يقلل من خطر انخفاض الوزن عند الولادة (وزن الطفل أقل من 2.5 كجم)، أو الولادة قبل الأوان (الطفل المولود قبل  الأسبوع 37من الحمل)، تمزق الرحم، وقضايا الصحة العقلية مثل الاكتئاب بعد الولادة أو الإجهاد. بالإضافة إلى ذلك، إذا كنت الأم المرضعة، يمكنك الاستفادة من المباعدة بين الولادات التي تسمح لجسمك لتجديد المواد الغذائية الهامة مثل حمض الفوليك والحديد، في حين تعزز أيضا عضلات البطن والحنجرة.</p><p>تشير البحوث إلى أن تباعد الحمل على الأقل من 18- 24 شهراًهو الأفضل.</p>"
+	},
+	"topLevelVideo": ["https://www.youtube.com/embed/UpkltFvBAXI"],
+	"tab": [],
+	"notes": {
+		"en": "<h3>Resources</h3><ul><li><a href=\"https://www.mayoclinic.org/healthy-lifestyle/getting-pregnant/in-depth/family-planning/art-20044072\">The Mayo Clinic Birth Spacing Facts</a></li><li><a href=\"http://http://dhss.delaware.gov/dph/files/birthspacingfaq.pdf\">Delaware Health and Social Services Birth Spacing FAQ</a></li></ul>",
+		"ar": "<h3>موارد</h3><ul><li><a href=\"https://www.fphandbook.org/sites/default/files/ar004-handbook-2007.pdf\">خطة العائلة</a></li> <li><a href=\"https://www.fphandbook.org/sites/default/files/wallchart_arabic_2012.pdf\">موانع الحمل للنساء</a></li></ul>"
+	}
+}

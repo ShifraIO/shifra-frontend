@@ -1,0 +1,81 @@
+.footer {
+  padding: 0;
+  color: white;
+  flex-shrink: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.footerCore {
+  padding: 5px 0 0 0;
+  background-color: #58585A;
+  position: absolute;
+  width: 100%;
+}
+
+.footerEmergencyBanner {
+  background-color: #5F6062;
+  padding: 5px;
+  text-align: center;
+}
+
+.footerEmergencyBanner a {
+  padding: 0 5px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.footer a {
+  color: white;
+}
+
+.footerItem {
+  display: inline-block;
+  padding: 5px;
+}
+
+.footerItem a{
+  font-size: 12px;
+}
+
+.footerItem h4{
+  font-size: 12px;
+  margin: 5px auto;
+}
+
+.footerItemBorder {
+  border-left: 1px solid;
+}
+
+.social {
+  float: right;
+  padding: 0px 5px;
+}
+
+.social .footerIcons{
+  float: right;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footerCopyright {
+  background-color: #454547;
+  width: 100%;
+  padding: 5px;
+  text-align: right;
+  font-size: 12px;
+}
+
+.footerIcons li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+
+@media screen and (max-width: 600px) {
+	.footerEmergencyBanner a {
+    display: block;
+  }
+}

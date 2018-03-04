@@ -1,0 +1,14 @@
+{
+  "arabicComplete": false,
+  "style": 3,
+  "title": {
+    "en": "Models of Maternity Care",
+    "ar": ""
+  },
+  "summary": {
+    "en": "<table class=\"table\"><thead><tr><th><strong>Type of Care</strong></th><th><strong>Cost</strong></th><th><strong>Location</strong></th><th><strong>Education</strong></th><th><strong>Support at Time of Birth</strong></th><th><strong>Location of Birth</strong></th></tr></thead><tbody><tr><td>GP Shared Care (shared between your local doctor and the hospital clinic)</td><td>Hospital = free</td><td></td><td></td><td></td><td></td></tr><tr><td>GP = fee for service</td><td>GP and Hospital</td><td>Hospital-based classes available for fee</td><td>Midwife (doctors available in case of complication)</td><td>Public hospital</td><td></td></tr><tr><td>Public hospital clinic</td><td>Free</td><td>Hospital outpatients or antenatal clinic</td><td>Hospital-based classes available for fee</td><td>Midwife (doctors available in case of complication)</td><td>Public hospital</td></tr><tr><td>Midwifery Group Practice / Caseload Midwifery</td><td>Free</td><td>Birth centre or private clinic on/off hospital</td><td>Continuous, one- on-one +</td><td></td><td></td></tr><tr><td>hospital-based classes available for fee</td><td>Midwife (doctors available in case of complication)</td><td>Public hospital/ birth centre affiliated with same</td><td></td><td></td><td></td></tr><tr><td>Private Midwife</td><td>$3500-6000 out of pocket average (some Medicare rebates)</td><td>Home, birth centre or private clinic</td><td>Continuous, one- on-one, + hospital-based classes available for fee</td><td>Midwife (if homebirth, transfer to hospital occurs in case of complication)</td><td>Home, public hospital or birth centre affiliated with same</td></tr><tr><td>Private Obstetrician</td><td>$4000+ average out of pocket (some Medicare/private health rebates)</td><td>Private clinic</td><td>Minimal education depending on OB + hospital-based classes available for fee</td><td>Midwife until end of pushing stage, OB usually visits during labour 1-2 times depending on length</td><td>Private hospital (unless major complication then possible transfer to public system)</td></tr></tbody></table>",
+    "ar": "" 
+  },
+  "topLevelVideo": "",
+  "tab": []
+}

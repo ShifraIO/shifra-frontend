@@ -1,0 +1,134 @@
+{
+	"arabicComplete": true,
+	"style": 2,
+	"title": {
+		"en": "Contraception",
+		"ar": "وسائل منع الحمل"
+	},
+	"summary": {
+		"en": "<ul><li>Contraception (also called birth control) can help you avoid pregnancy if you have sex without a condom (this is known as unprotected sex).</li></ul><ul><li>There are several methods of contraception that are safe, effective and easy to use prior to having sex.</li></ul><ul><li>Contraceptives can have side-effects so you should see you GP or Family Planning doctor to decide which one is best for you.</li></ul><ul><li>These include:<ul><li>condoms;</li><li>the oral contraceptive pill (known as &ldquo;The Pill&rdquo;);</li><li>hormonal implants (e.g. Implanon, Nexplanon);</li><li>hormonal injections (e.g. Depo Provera);</li><li>Intrauterine devices (IUDs);</li><li>diaphragms and cervical caps;</li><li>vaginal rings (e.g. Nuva Ring);</li><li>Lactational Amenorrhea Method (LAM);</li><li>male and female sterilisation.</li></ul></li></ul><p>You may also use emergency contraception (also known as the morning after pill or Plan B) up to 72 hours after unprotected sex however it is most effective if taken immediately.</p><p><a href=\"https://www.fpv.org.au/for-you/contraception/key-facts-about-contraception\">Contraception Facts</a></p><p><a href=\"https://www.fpv.org.au/for-you/pregnancy/unplanned-pregnancy\">Unplanned Pregnancy</a></p>",
+		"ar": "<p> تساعدك وسائل منع الحمل على تجنب الحمل بعد ممارسة الجنس دون بدون وقاية</p><p> هناك عدة طرق لمنع الحمل تكون آمنة وفعالة وسهلة الاستخدام قبل ممارسة الجنس مثل الواقي الذكري والحبوب والزرع والحقن واللولب والحجاب الحاجز والحلقات المهبلية والطرق الطبيعية. بالإضافة إلى ذلك، يمكنك استخدام وسائل منع الحمل في حالات الطوارئ حتى 5 أيام بعد ممارسة الجنس غير المحمي.</p>"
+	},
+	"topLevelVideo": "",
+	"tab": [{
+			"title": {
+				"en": "IUD",
+				"ar": "اللولب"
+			},
+			"text": {
+				"en": "<p><u>What is it:</u></p><ul><li>An IUD is a copper or hormone releasing device in the shape of the &ldquo;T&rdquo;.</li><li>It is placed inside the uterus and creates an environment which makes it difficult for a sperm to reach the egg and create a pregnancy</li><li>The IUD is inserted by a health practitioner and can stay in place for up to 10 years depending on which type is used.</li><li>The IUD can be removed at any time by visiting your GP.</li><li>The IUD works in 99% of cases and is the most effective form of contraception.</li><li>You can speak to your GP, obstetrician, midwife or maternal child health nurse about whether an IUD is right for you and how to get one.</li><li><strong>The injection does NOT protect you from sexually transmissible infections</strong></li></ul><p><u>Where to find it:</u></p><ul><li>Speak to your GP or Family Planning doctor. They may require you pick up the IUD from a chemist or they may have it available at the clinic.</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/long-acting-reversible-contraception-larc/iud-contraception-intra-uterine-device\">IUD</a></p><p><a href=\"https://www.fpv.org.au/for-you/contraception/long-acting-reversible-contraception-larc/long-acting-reversible-contraception-larc\">Long Acting Reversible Contraception- LARC</a></p>",
+				"ar": "<p>اللولب هو قطعة نحاسية أو جهاز يحرر هرمون يتم وضعه داخل الرحم ويخلق بيئة تضمن عدم إمكانية حدوث الحمل.</p><p>كيفية استخدامه: يتم تركيب اللولب من قبل طبيب الصحة ويمكن أن تبقى في مكانه لمدة تصل إلى 10 سنوات اعتمادا على النوع المستخدم, ويمكن إزالة اللولب في أي وقت عن طريق زيارة الطبيب.</p><p> فعاليته 99% كوسيلة لمنع الحمل.</p>"
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/pCXUUj4OVxw"]
+		},
+		{
+			"title": {
+				"en": "Condoms",
+				"ar": "الواقي"
+			},
+			"text": {
+				"en": "<p><u>What is it: </u></p><ul><li>A male condom is a physical barrier, usually made of latex, that cover the penis when it is erect.</li><li>It is placed on the penis before sex and taken off afterward to prevent the man&rsquo;s sperm from entering his partner&rsquo;s body.</li><li>Condoms can protect women from getting pregnant and from transmitting infections (known as STIs) including HIV, between the two people having sex.</li><li>Female condoms are also available for women to insert into their vagina, prior to having sex and like, condoms, they should not be removed until after sex has finished.</li><li>Male condom- 98% effective when used correctly</li><li>Female condom- 95% effective when used correctly</li></ul><p><u>How to use it:</u></p><ul><li>Male condom- the male condom is put over the erect penis and should be used every time you have sex.</li><li>Female condom- The female condom which is stronger than the male latex condom sits in the vagina using the flexible ring.</li></ul><p><u>Where to find it:</u></p><ul><li>You can order female condoms from Family Planning Victoria, online and at some health clinics (see the Clinic Locations section for more).</li><li>Male condoms can be bought online, at the supermarket, chemists and some convenience stores</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/barriers-you-will-need-to-use-every-time-you-have-sex/condom-female\">Female Condom</a></p><p><a href=\"https://www.fpv.org.au/for-you/contraception/barriers-you-will-need-to-use-every-time-you-have-sex/condom-male\">Male Condom</a></p>",
+				"ar": "<p>ما هذا:</p><p>حاجز يمنع الحيوانات المنوية من دخول الرحم وإلقاح البويضة. ويمكن أن يقلل استعماله أيضا من خطر الإصابة بالأمراض المنقولة بالاتصال الجنسي، بما في ذلك فيروس نقص المناعة البشرية, هناك نوعان له ذكري وأنثوي.</p><p>كيفية استخدامها:</p><p> الواقي الذكري - يتم وضع الواقي الذكري على القضيب المنتصب، ويجب استخدامه في كل مرة يمارس فيها الجنس.</p><p> الواقي الأنثوي - الواقيات الأنثوية التي تكون المطاط المستعمل بها أقوى من واقي الذكري يوضع في المهبل باستخدام الحلقة المرنة. يمكنك شراء الواقي الذكري الأنثوي من منظمة تنظيم الأسرة  بفيكتوريا، محلات البيع ، العيادات الصحية و الانترنت. </p><p>فعالية:</p><p> الواقي الذكري - 98 في المائة فعالة عند استخدامها بشكل صحيح</p><p>الواقي الأنثوي - 95 في المائة فعالة عند استخدامها بشكل صحيح</p>"
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/-NbpQv3dJ1c"]
+		},
+		{
+			"title": {
+				"en": "The Pill",
+				"ar": "حبوب منع الحمل"
+			},
+			"text": {
+				"en": "<p><u>What is it: </u></p><ul><li>Contraceptive pills prevent pregnancy by releasing hormones into a woman&rsquo;s body that prevent her from experiencing her normal ovulation (when a woman&rsquo;s hormones release and egg from their ovary) and menstrual cycle.</li><li>Different types of The Pill have different levels of hormones so it&rsquo;s important you and your GP decide on which one that&rsquo;s right for you.</li><li>It can take a few months (or cycles) to get used to it and some people experience different side effects more often than others.</li><li>If you miss a pill and have unprotected sex, you may become pregnant.</li><li>The Mini Pill, contains only the progesterone hormone and is used for breastfeeding mothers</li><li>The pill is 99% effective when used correctly</li><li><strong>The Pill does NOT protect you from sexually transmissible infections</strong></li></ul><p><u>How to use it: </u></p><ul><li>The Pill should be swallowed at the same time every day.</li></ul><p><u>Where to find it:</u></p><ul><li>The Pill is available with a doctor&rsquo;s prescription.</li><li>Some brands are more expensive than others but you can ask your doctor for one you can afford. Check with your chemist if they have the generic version (non-brand name) as this will make it cheaper too.</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/daily-contraceptive-pills/the-mini-pill\">The Mini Pill</a></p><p><a href=\"https://www.fpv.org.au/for-you/contraception/daily-contraceptive-pills/contraceptive-pill\">The Oral Contraceptive Pill</a></p>",
+				"ar": "<p>ما هذا:</p><p>هي وسيلة لمنع الحمل باستخدام هرمونات اصطناعية.</p><p>كيفية استخدامها:</p><p>يقوم الطبيب بوصف حبوب منع الحمل مع وصفة طبية ، وينبغي أن تؤخذ عن طريق الفم كل يوم في نفس الوقت.</p><p>فعالية:</p><p>99 في المائة فعالة عندما تستخدم بشكل صحيح.</p>"
+			},
+			"image": "https://3.bp.blogspot.com/-jrvYC131CYY/V4mwbPWJZpI/AAAAAAAAAzg/FIiKH2vrAjcEVx6tS3mu4NRfUAuy6P9RwCLcB/s1600/xxxx.png",
+			"video": ["https://www.youtube.com/embed/67Xvbahh8Is"]
+		},
+		{
+			"title": {
+				"en": "Injections",
+				"ar": "حقن"
+			},
+			"text": {
+				"en": "<p><u>What is it:</u></p><ul><li>The hormonal injection (also called &ldquo;Depo&rdquo;) stops ovulation (when a woman&rsquo;s hormones release and egg from their ovary). It also makes the fluid or mucus at the opening to the uterus thicker preventing sperm from entering.</li><li>Once you stop taking Depo you can fall pregnant however if you&rsquo;ve been on it a long time, it can take longer before your normal ovulation cycle to return than it would if you had been on The Pill or had an Implant.</li></ul><p><u>How to use it:</u></p><ul><li>Depo is an injection given to you by your doctor or nurse every 12-14 weeks</li></ul><p><u>Where to find it:</u></p><ul><li>Speak to your GP or Family Planning doctor. They may require you pick up the injection from a chemist or they may have it available at the clinic.</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/long-acting-reversible-contraception-larc/contraceptive-injection-depo\">Contraceptive Injection</a></p>",
+				"ar": "<p>ما هذا:</p><p>الحقن هو حقنة هرمونية توقف الإباضة لمدة تصل إلى ثلاثة أشهر. كما أنه يجعل السائل في عنق الرحم سمكياً، وبالتالي تمنع الحيوانات المنوية من الدخول.</p><p>كيفية استخدامه:</p><p>يتم  الحقن من قبل ممارس صحي كل 12-14 أسابيع.</p><p>الفعالية:</p><p>94 في المائة فعالة</p>"
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/93VgngakeMU"]
+		},
+		{
+			"title": {
+				"en": "Implants",
+				"ar": "الزرعات"
+			},
+			"text": {
+				"en": "<p><u>What is it: </u></p><ul><li>The implant is a small thin rod, about 4cm long,&nbsp; that is placed under the skin of the upper arm of a woman.</li><li>It acts similar to The Pill in that it releases synthetic hormones into the body to prevent normal ovulation from occurring (when a woman&rsquo;s hormones release and egg from their ovary) and this prevents you from getting pregnancy</li><li>Many women use this method because it lasts for 3 years and doesn&rsquo;t need daily attention like The Pill does.</li><li>It is 99% effective.</li><li><strong>The implant does NOT protect you from sexually transmissible infections</strong></li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/long-acting-reversible-contraception-larc/contraceptive-implant-implanon\">Contraceptive Implant</a></p><p><a href=\"https://www.fpv.org.au/for-you/contraception/long-acting-reversible-contraception-larc/long-acting-reversible-contraception-larc\">Long Acting Reversible Contraception- LARC</a></p><p><u>How to use it: </u></p><ul><li>To get an implant you need to see your GP who may be trained to insert it. If they are not, you can visit your local Family Planning clinic and see one of their friendly doctors.</li><li>Once inserted the implant will last for 3 years but needs to be replaced just before it expires to ensure you won&rsquo;t get pregnant if you have unprotected sex around this time.</li><li>Some nurses and midwives are being trained to remove the implant.</li><li>You may get pregnant immediately after having the rod removed.</li></ul><p><u>Where to find it:</u></p><ul><li>Speak to your GP or Family Planning doctor. You may need to buy the prescribed implant yourself and then bring it to the clinic where you are having it inserted</li></ul>",
+				"ar": "<p>ما هذا:</p><p>الزرع هو جهاز هرموني يتم وضعه على الجزء العلوي من الذراع تحت الجلد. هو خيار جيد للنساء الذين لا يستطيعون أخذ الأستروجين الاصطناعي.</p><p>كيفية استخدامه:</p><p>يتم إدخال الغرسة من قبل طبيب الصحة ويمكن أن تترك في مكان لمدة تصل إلى ثلاث سنوات.</p><p>الفعالية:</p><p>99 في المائة فعالة</p>"
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/4RBnQKPbBy4"]
+		},
+		{
+			"title": {
+				"en": "Vaginal ring",
+				"ar": "حلقات مهبلية"
+			},
+			"text": {
+				"en": "<p><u>What is it: </u></p><ul><li>The vaginal ring is placed into the vagina and slowly releases hormones which prevent pregnancy.</li><li>The ring stays at the far end of your vagina, underneath your cervix (the opening of the uterus) for 3 weeks before being removed for a week to allow you to bleed.</li><li>Once you have finished bleeding, replace with a new ring.</li><li>Many women prefer the ring instead of remembering to take a pill every day</li><li>In Australia, the only brand of vaginal ring is the NuvaRing.</li><li>If used correctly, the ring is 99.7% effective from preventing pregnancy.</li><li><strong>The ring does NOT protect you from sexually transmissible infections</strong></li></ul><p><u>How to use it: </u></p><ul><li>The ring can easily be inserted into your vagina in the privacy of your own bathroom at home</li><li>After three weeks, it should be removed and replaced one week later.</li></ul><p><u>Where to find it:</u></p><ul><li>Speak to your GP or Family Planning doctor for a script. You can then buy it from your local chemist. Shop around for the most affordable chemist.</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/other-methods/nuvaring-vaginal-ring\">Nuva Ring</a></p>",
+				"ar": "<p>ما هذا:</p><p>يتم وضع حلقة المهبل في المهبل ويتحرر منها الهرمونات التي تمنع الحمل ببطء.</p><p>كيفية استخدامه:</p><p>يمكن بسهولة استخدامها وتطبيقها في المنزل, ينبغي إزالتها بعد ثلاثة أسابيع، واستبدالها بعد أسبوع واحد من نهاية الدورة الفترة.</p><p>فعالية:</p><p>99 في المائة فعالة إذا ما استخدمت بشكل صحيح.</p>"
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/JFjD9vSNdC8"]
+		},
+		{
+			"title": {
+				"en": "Diaphragm",
+				"ar": "الأغشية"
+			},
+			"text": {
+				"en": "<p><u>What is it: </u></p><ul><li>The diaphragm is a soft dome that is fitted in the vagina providing a barrier from the uterus.</li></ul><p><u>How to use it: </u></p><ul><li>The diaphragm should be fitted by a health practitioner though they need to be trained to do this. Your local Family Planning clinic should have doctors or nurses who can help you.</li><li>It&rsquo;s good to practice inserting and removing it before you have sex.</li><li>The diaphragm should remain in the vagina for up to 6 hours after having sex.</li><li>The diaphragm 94% effective when used correctly.</li><li><strong>The diaphragm does NOT protect you from sexually transmissible infections</strong></li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/barriers-you-will-need-to-use-every-time-you-have-sex/diaphragms\">Diaphragm</a></p><p><u>Where to find it:</u></p><p>Speak to your GP or Family Planning doctor for a fitting</p>",
+				"ar": "<p>ما هذا:</p><p>ما هو الغشاء  هو قطعة  لينة التي يتم تركيبها في المهبل تعمل حاجز يفصل الرحم.</p><p>كيفية استخدامه:</p><p>يجب أن يتم تركيب الغشاء من قبل ممارس صحي ويجب أن يبقى في المهبل لمدة تصل إلى 6 ساعات بعد ممارسة الجنس. هذا الغشاء لا يحمي من الأمراض المنتقلة عن طريق الاتصال الجنسي.</p><p>الفعالية:</p><p>94 في المائة فعالة عند استخدامها بشكل صحيح.</p>"
+			},
+			"image": "",
+			"video": ""
+		},
+		{
+			"title": {
+				"en": "Emergency Contraception Pill",
+				"ar": "وسائل منع الحمل في حالات الطوارئ"
+			},
+			"text": {
+				"en": "<p><u>What is it: </u></p><ul><li>Emergency contraception (ECP) is also known as &ldquo;the morning after pill.&rdquo;</li><li>ECP can be taken to prevent pregnancy if you had unprotected sex or if the condom breaks.</li><li>ECP is most effective when taken within 24 hours of unprotected sex but can be taken up to 96 hours later.</li><li>ECP is 85% effective in preventing pregnancy if taken within 3 days but can be more effective if taken sooner.</li><li><strong>ECP does NOT protect you from sexually transmissible infections</strong></li></ul><p><u>How to use it:</u></p><ul><li>You do not need to see a doctor to get ECP</li><li>Although you should take it as soon as possible, ECP can be effective up to 96 hours after having sex.</li><li><strong>ECP does NOT protect you from sexually transmissible infections</strong>.</li></ul><p><u>Where to find it:</u></p><ul><li>You can buy ECP from most pharmacies/chemists. If they refuse to sell it to you or make you feel embarrassed for asking for it, find a different chemist.</li><li><strong>You have a right to access this medication.</strong></li><li><strong>You should not be made to feel judged or ashamed for doing so.</strong></li></ul><p>&nbsp;**Some doctors will offer to insert a Copper IUD if you have had unprotected sex within the past 5 days. Please see the section on IUDs for more information&nbsp;.&nbsp;</p><p>&nbsp;</p><p><a href=\"https://www.fpv.org.au/for-you/contraception/emergency-contraception/morning-after-pill-emergency-contraception\">Emergency Contraception (Morning After Pill)</a></p>",
+				"ar": "<p>ما هذا:</p><p>وسائل منع الحمل في حالات الطوارئ المعروف أيضا باسم  حبوب منع الحمل في الصباح. هذه الحبوب تمنع الحمل لأنها توقف الإباضة ويمكن اتخاذها لمنع الحمل إذا كان لديك ممارسة جنسية دون وقاية أو إذا كان الواقي الذكري معطلا أوغير صالح للاستخدام.</p><p>كيفية استخدامها:</p><p>يمكنك شراء هذه الحبوب من معظم الصيدليات ولكن الصيدلي سوف يسألك بعض الأسئلة و ممكن أن يرفض الصيدلي إعطائها لك، قم بشرائها لدى صيدلي آخر. </p><p>من حقك الحصول على هذا النوع من تنظيم الأسرة.</p><p>فعالية:</p><p>هذه الطريقة لن تكون فعالة جدا إذا ما استخدمت بعد ٩٦ ساعة من ممارسة الجنس</p>"
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/YGc92_b0lbk?list=PL_0c66FsSFAIevxnol1LzZxigrwTwPJhf"]
+		},
+		{
+			"title": {
+				"en": "Lactational Amenorrhea Method (LAM)",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Your body offers natural contraception after you have your baby if:<ul><li>You haven&rsquo;t yet had a monthly period yet</li><li>You are exclusively breastfeeding (this means all feeds and through the night also)</li><li>Your baby is less than 6 months old</li></ul></li></ul><ul><li>LAM is 98% effective in preventing pregnancy</li><li><strong>LAM does NOT protect you from sexually transmissible infections</strong></li></ul><p><a href=\"https://www.plannedparenthood.org/learn/birth-control/breastfeeding\">LAM</a></p>",
+				"ar": ""
+			}
+		},
+		{
+			"title": {
+				"en": "Sterilisation",
+				"ar": ""
+			},
+			"text": {
+				"en": "<p><strong>Vasectomy (men)</strong></p><p><u>What is it:</u></p><ul><li>A vasectomy is a permanent method of contraception.</li></ul><ul><li>It is an minor procedure that cuts the tubes that carry sperm from a man&rsquo;s testicles to the penis preventing him from being able to get a woman pregnant..</li></ul><ul><li>After a vasectomy, a man can still make male sex hormones, enjoy sex and have orgasms.</li></ul><ul><li>A vasectomy can be reversed but being able to get a woman pregnant after this reversal is not always possible.</li></ul><ul><li>A man needs to get a test 3 months after the procedure to make sure he is not producing any more sperm.</li></ul><ul><li><strong>A vasectomy does not protect you from sexually transmissible infections</strong></li></ul><p><u>Where to find it:</u></p><ul><li>Only some doctors perform vasectomies. You may need to see your GP first to get a referral to a specialist and to talk through other contraceptive options if you are not sure this is what you want.</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/other-methods/vasectomy\">Vasectomy</a></p><p><strong>Tubal ligation and occlusion (women)</strong></p><ul><li>Tubal ligation is a permanent method of contraception.</li></ul><ul><li>There are two types of sterilisation procedures:<ul><li>Tubal ligation, where clips are put on the fallopian tubes</li></ul></li></ul><ul><li>Tubal occlusion, where a tiny, flexible device is put into each tube to block an egg from meeting a sperm and preventing fertilisation and pregnancy from occuring .</li></ul><ul><li><strong>Tubal ligation does not protect you from sexually transmissible infections</strong></li></ul><p><u>Where to find it:</u></p><ul><li>Only some doctors perform tubal ligations or occlusions. You may need to see your GP first to get a referral to a specialist and to talk through other contraceptive options if you are not sure this is what you want.</li></ul><p><a href=\"https://www.fpv.org.au/for-you/contraception/other-methods/tubal-ligation-sterilisation\">Tubal ligation</a></p>",
+				"ar": ""
+			}
+		}
+	],
+	"notes": {
+		"en": "",
+		"ar": "<h3>موارد</h3><ul><li><a href=\"http://www.ceh.org.au/wp-content/uploads/2016/09/Contraception_Arabic.pdf\">للنساءموانع الحمل</a></li><li><a href=\" https://www.fpnsw.org.au/sites/default/files/assets/Contraceptive-zcard-20160628%28Arabic%29.pdf\">ڃڄتكم إعرٺوا </a></li><li><a href=\"https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Contraception-choices-Arabic-110517.pdf\">منع الحمل – خياراتك</a></li></ul>"
+	}
+}

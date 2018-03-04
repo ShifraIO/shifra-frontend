@@ -1,0 +1,178 @@
+{
+  "arabicComplete": false,
+  "style": 3,
+  "title": {
+    "en": "Postnatal",
+    "ar": "بعد الولادة"
+  },
+  "summary": {
+    "en": "",
+    "ar": "" 
+  },
+  "topLevelVideo": "",
+  "tab": [
+    {
+      "title": {
+        "en": "How long will it take to recover?",
+        "ar": "" 
+      },
+      "text": {
+        "en": "<p><ul><li>After you give birth it is important for you to rest and give your body time to recover.</li><li>You can put ice in the maternity pad in your underwear, for 20 minutes at a time every 2-3 hours to reduce swelling and pain. You can also ask for regular pain relief.</li><li>Wearing compression underwear can offer support and reduce pain.</li><li>Most public hospitals will let you stay for 2-3 days after the birth of your baby. This will depend on whether you had a vaginal birth or a c-section.</li><li>Private hospitals will let you stay longer, and many will let you stay in a hotel for some of the stay.</li><li>You can eat and drink whatever you want however it is not recommended to drink alcohol, drinks with lots of caffeine in them or smoke cigarettes.</li><li>It is important for you to drink lots of water when you are breastfeeding as this helps you heal, feel better and it also helps you produce breast milk.</li></ul></p>",
+        "ar": "" 
+      },
+      "image": "",
+      "video": "",
+      "links": [
+				{
+					"title": {
+						"en": "Raising Children Network: Recovery after caesarean: The first 6 weeks",
+						"ar": ""
+					},
+					"url": "http://raisingchildren.net.au/articles/after_caesarean.html/context/1549"
+				}
+      ]
+    },
+    {
+      "title": {
+        "en": "What medicines will I need?",
+        "ar": "" 
+      },
+      "text": {
+        "en": "<p><ul><li>Your doctor or nurse might recommend Vitamin C or iron tablets for the first 6 weeks after birth.</li><li>They may also offer you immunisations like Measles, Mumps, Rubella (MMR) or Whooping Cough (Pertussis) if your immunity is low. Your family and anyone who will be around the baby a lot should get the same.</li><li>If you had a vaginal birth try lying flat for 30 minutes twice a day to reduce pain in your pelvic area.</li><li>If your nipples hurt during breastfeeding, you can buy special pads to help them heal. Leaving some breast milk to dry on the nipple, will also help you heal faster.</li></ul></p>",
+        "ar": "" 
+      },
+      "image": "",
+      "video": [],
+      "links": [
+        {
+          "title": {
+            "en": "Raising Children Network- New baby checklist: home and baby equipment",
+            "ar": ""
+          },
+          "url": "http://raisingchildren.net.au/articles/baby_equipment_checklist.html/context/1555"
+        },
+        {
+          "title": {
+            "en": "Raising Children Network - Pelvic Floor Care",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/pelvic_floor_care_pip.html/context/1546"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "What happens when I go home?",
+        "ar": "" 
+      },
+      "text": {
+        "en": "<p><ul><li>When you get home, the maternal child health nurse will come visit you within the first week of coming home.</li><li>You will attend your local MCH clinic for all other mother and baby checks. You should also visit your GP or MCH nurse, around 6 weeks after birth for a health check.</li><li>You can join a mothers’ or parents’; group in your local area to meet other people with children the same age as yours.</li></ul></p>",
+        "ar": "" 
+      },
+      "image": "",
+      "video": "",
+      "links": [
+        {
+          "title": {
+            "en": "Raising Children Network -  Newborns health and daily care",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/health_daily_care/newborns_health_daily_care.html"
+				},
+				{
+          "title": {
+            "en": "Raising Children Network - Benefits of a mothers' group",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/mothers_fathers_groups.html"
+				},
+				{
+          "title": {
+            "en": "Raising Children Network - Becoming a Confident Parent",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/parents_building_confidence_video.html"
+				},
+				{
+          "title": {
+            "en": "Raising Children Network - After birth: services and support",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/after_birth_services_video.html"
+				}
+      ]
+    },
+    {
+      "title": {
+        "en": "Feeding your baby",
+        "ar": ""
+      },
+      "text": {
+        "en": "<p><ul><li>Breastfeeding gives your baby all the nutrients he or she needs. It can also help you both to bond (get closer to each other emotionally).</li><li>Learning to breastfeed is difficult for many mothers and can be a frustrating and emotional experience at the beginning. This usually gets better after the first few days.</li><li>Your midwife, maternal child health nurse and lactation consultant (breastfeeding specialist) can help you and your baby get more experience. You should be given information as to how to access these services on the postnatal ward, after you have your baby.</li><li>Here are some demonstrations on the best positions for initiating breastfeeding.</li><li>Breastfeeding is recommended for up to two years and you can start offering solid food slowly, from 6 months.</li><li>If you are unable to breastfeed or choose not to, formula will give your baby the nutrients he or she needs to grow.</li><li>Speak with your midwife or maternal child health nurse to choose what formula is best for you and your baby.</li><li>Water is in both breastmilk and formula so you baby does not need to be offered water (including coconut or sugar cane water) until 6 months of age.</li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "links": [
+        {
+          "title": {
+            "en": "Raising Children Network- How to breastfeed: getting a good attachment",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/breastfeeding_attachment_video.html"
+        },
+        {
+          "title": {
+            "en": "Raising Children Network- Bottle and formula preparation",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/articles/dads_formula_preparation_video.html/context/1081"
+        }
+      ]
+		},
+		{
+      "title": {
+        "en": "Sleeping",
+        "ar": "" 
+      },
+      "text": {
+        "en": "<p><ul><li>Babies sleep a lot in the first few weeks but this isn’t always at times that are convenient for parents.</li><li>It’s important to try and take lots of little naps when your baby is napping.</li><li>Learning to read your baby’s tired signs is important and this can be difficult in the first few weeks.</li><li>It’s OK to not always know if your baby is crying because she is hungry, tired or needs a nappy change.</li></ul></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video": "",
+      "links": [
+        {
+          "title": {
+            "en": "Raising Children Network- Newborns sleep",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/sleep/newborns_sleep.html"
+				},
+				{
+          "title": {
+            "en": "Raising Children Network- Baby Cues video guide",
+            "ar": "" 
+          },
+          "url": "http://raisingchildren.net.au/baby_cues/baby_cues.html"
+        }
+      ]
+		},
+		{
+      "title": {
+        "en": "Family Planning and Contraception Choices",
+        "ar": "" 
+      },
+      "text": {
+        "en": "<p><ul><li><p>After you have your baby it is important to give your body the appropriate time it needs to heal before you get pregnant again.</p></li><li><p>Even if you are breastfeeding there is still a chance that you could become pregnant after birth if you have unprotected sex (sex without using a condom or birth control).</p></li><li><p>Most women in Australia wait 6-12 weeks before having sex after their baby is born.</p></li><li><p>It is good to know your family planning options so that you can choose what works best for you and plans for having more children in the future.</p></li><li><p>Contraception can help you avoid pregnancy resulting from unprotected sex.</p></li><li><p>If you are breastfeeding, you may want to use the “Mini-Pill” as it has less hormones than the regular pill.</p></li><li><p>There are several other methods of contraception that are safe, effective and easy to use prior to having sex such as:</p><ul><li>condoms;</li><li>the oral contraceptive pill (known as “the pill”);</li><li>hormonal implants (e.g. Implanon, Nexplanon);</li><li>hormonal injections (e.g. Depo Provera);</li><li>intrauterine devices (IUDs);</li><li>diaphragms and cervical caps;</li><li>vaginal rings (e.g. Nuva Ring)</li><li>Lactational Amenorrhea Method (LAM)</li></ul></li><li><p>Additionally, you may use emergency contraception (also called, the morning after pill) up to 5 days after engaging in unprotected sex.</p></li><li><p>See Shifra’s <a href=\"/family-planning/contraception\">Contraception Types</a> section for more and speak to your midwife, maternal child health nurse or GP if you want to use any of these methods so you don’t get pregnant again too soon.</p></li></ul><p><strong>Only the condom will protect you from sexually transmissible infections.</strong></p></p>",
+        "ar": ""
+      },
+      "image": "",
+      "video": "",
+      "links": []
+    }
+  ],
+  "notes": {
+    "en": "<h3>Resources</h3><ul><li><a href=\"http://raisingchildren.net.au/videos/videos.html\">Raising Children Network- Videos</a></li><li><a href=\"http://raisingchildren.net.au/articles/bathing_newborn_video.html\">Raising Children Network - Bathing a newborn safely</a></li><li><a href=\"http://raisingchildren.net.au/articles/dressing_newborn_video.html\">Raising Children Network -Raising Children Network - Dressing a Newborn</a></li><li><a href=\"http://raisingchildren.net.au/articles/nappy_changing_video.html\">Raising Children Network - Changing a nappy</a></li><li><a href=\"http://raisingchildren.net.au/articles/wrapping_a_newborn_video.html\">Raising Children Network - Wrapping a newborn</a></li></ul>",
+    "ar": ""
+  }
+}

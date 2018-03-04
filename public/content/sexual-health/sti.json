@@ -1,0 +1,109 @@
+{
+	"arabicComplete": true,
+	"style": 4,
+	"title": {
+		"en": "Sexually Transmissible Infections",
+		"ar": "الأمراض المنتقلة عن طريق الجنس"
+	},
+	"summary": {
+		"en": "<p><p>Sexually transmissible infections (STIs) can be transmitted via unprotected sexual intercourse.</p><p>&nbsp;</p><ul><li>STIs are caused by bacteria, viruses or parasites.</li><li>Most STIs are spread through unprotected vaginal, anal and oral sex, and also via sex toys.</li><li>Intimate genital contact with someone already infected can also spread STIs such as herpes and genital warts.</li><li>As some STIs show no symptoms, it is important to always use condoms during sex with someone new</li><li>If you don&rsquo;t know if your partner/s have an STI, have regular STI tests in order to prevent transmission, as well as receive necessary treatment.</li><li>There are lots of different types of STIs, the most common ones in Australia are listed below.</li></ul><p><a href=\"https://www.thewomens.org.au/health-information/sex-sexuality/sexually-transmitted-infections/about-stis/\">Prevention, Symptoms, Testing, Care and Support</a></p><p><a href=\"http://www.fpv.org.au/for-you/sexually-transmissible-infections-blood-borne-viruses/sti-bbv-get-the-facts\">STIs and testing information</a></p><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/tabid/109/Default.aspx#.WVSRXxOGP-Y\">STIs fact sheet</a></p><p><a href=\"http://www.fpv.org.au/for-you/sexually-transmissible-infections-blood-borne-viruses/sti-bbv-testing-what-to-expect-at-fpv\">Testing</a></p></p>",
+		"ar": "<p>الأمراض المعدية المنتقلة بالاتصال الجنسي مثل الهربس وفيروس الورم الحليمي البشري, والزهري والكلاميديا ​​والسيلان وفيروس نقص المناعة البشرية والتهاب الكبد B والتهاب الكبد الوبائي C هي عدوى تنتقل من شخص إلى آخر من خلال النشاط الجنسي بما في ذلك الفم، المهبل، و الجنس الشرجي أو الدم الملوث.</p><p>ويمكن أيضا أن تنتقل الأمراض المنقولة بالاتصال الجنسي عن طريق الاتصال الجنسي للبشرة التناسلية، والسوائل، أو تبادل الألعاب الجنسية الملوثة.</p><p>وبما أن بعض الأمراض التي تنتقل عن طريق الاتصال الجنسي لا تظهر أي أعراض، فمن المهم دائما استخدام الواقي الذكري أثناء ممارسة الجنس وإجراء اختبارات منتظمة لمنع انتقال المرض، فضلا عن تلقي العلاج اللازم.</p>"
+	},
+	"topLevelVideo": ["https://www.youtube.com/embed/pBMhfIHUP8M"],
+	"tab": [{
+			"title": {
+				"en": "Herpes",
+				"ar": "الهربس"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;Genital herpes is a sexually transmitted viral infection.</p><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>Many people who have the herpes virus don&rsquo;t experience any symptoms, so it&rsquo;s always important to use a condom.</li><li>Some symptoms can include sores around the genitals, fever and body aches.</li><li>Some people can experience periodic outbreaks of sores when they are stressed or unwell, these outbreaks can be sporadic and decline over time.</li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>Although outbreaks can be managed with oral antivirals, herpes can&rsquo;t be cured.</li><li>Even if someone isn&rsquo;t having an outbreak, they can spread the virus to a sexual partner.</li><li>Using a condom won&rsquo;t always prevent spread of the virus, as the virus may be present on parts of the genitals other than the penis or vagina.</li><li>Nevertheless, anyone infected with herpes should use a condom or oral barrier method during sex and avoid sex during outbreak.</li></ul><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/Herpes/tabid/268/Default.aspx#.WhmAt7SZ18c\">Melbourne Sexual Health Centre -&nbsp; Herpes</a></p></p>",
+				"ar": "<p> الهربس التناسلي هو عدوى فيروسية تنتقل عن طريق الاتصال الجنسي.</p><p>الأعراض: العديد من المصابين بفيروس الهربس لا يعانون من أي أعراض واضحة، لذلك فمن المهم دائما اتباع قواعد الجنس الآمن. وتشمل بعض الأعراض، القروح حول الأعضاء التناسلية، والحمى وآلام في الجسم. ويمكن تفشي القروح بشكل قروح متفرقة تتعافى ​​بمرور الوقت.</p><p>العلاج: على الرغم من إمكانية علاج  تفشي الهربس  عن طريق مضادات الفيروسات الفموية ، لا يمكن شفاء الهربس. يجب على أي شخص مصاب بالهربس استخدام الواقي الذكري أو طريقة الحاجز الفموي أثناء ممارسة الجنس وتجنب ممارسة الجنس أثناء الإصابة بالمرض.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		},
+		{
+			"title": {
+				"en": "HPV",
+				"ar": "فيروس الورم الحليمي البشري"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;</p><ul><li>Human Papilloma Virus (HPV) is the most common sexually transmitted viral infection. About 80% of people will be infected with HPV at some point in their life.</li><li>For most people, their body will fight and destroy the infection before they ever knew they had it.</li><li>There are many different strains of HPV.</li><li>Certain strains of HPV can cause cancer of the cervix. Other strains of HPV can cause genital warts.</li><li>There are vaccines available that protect against certain strains of HPV that cause cervical cancer and genital warts.</li></ul><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>Bumps (warts) around genitals.</li><li>Cancer of the cervix often has no symptoms until the disease is very advanced.</li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>Although most cases of HPV go unnoticed and heal over a period of time without any medication.</li><li>It is very important that women have regular cervical cancer screening tests to identify HPV and any abnormal cell changes on the cervix.</li><li>Genital warts are treated with a medicated cream or with freezing.</li></ul><p><a href=\"http://www.cancerscreening.gov.au/internet/screening/publishing.nsf/Content/about-cervical-screening\">HPV and cervical cancer </a></p><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/Humanpapillomavirus(HPV)/tabid/261/Default.aspx#.WhmAsrSZ18c\">Melbourne Sexual Health Centre - HPV</a></p></p>",
+				"ar": "<p>فيروس الورم الحليمي البشري هو واحد من الأمراض الفيروسية المنتقلة جنسياً الأكثر شيوعاً. بعض السلالات تؤثر على الخلايا داخل عنق الرحم، والتي يمكن أن تؤدي في بعض الأحيان إلى سرطان عنق الرحم. في الحالات المنخفضة الخطورة، يمكن أن تؤدي العدوى إلى الثآليل التناسلية. لقاحات غارداسيل و سيرفاريكس تحمي ضد سلالات معينة من فيروس الورم الحليمي البشري التي تسبب سرطان عنق الرحم والثآليل التناسلية</p><p>الأعراض: الثآليل حول الأعضاء التناسلية</p><p>العلاج: على الرغم من أن معظم حالات فيروس الورم الحليمي البشري تزول دون أن يلاحظها أحد والشفاء على مدى فترة من الزمن دون أي علاج، فإن اختبار مسحة عنق الرحم  تمكن من التعرف على فيروس الورم الحليمي البشري وأي تغييرات غير طبيعية في الخلية. يتم علاج الثآليل التناسلية عن طريق التجميد، والحرق.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Syphilis",
+				"ar": "الزهري"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;</p><ul><li>Syphilis is a sexual transmitted bacterial infection, which can also be transmitted from mother to baby during pregnancy.</li><li>Syphilis occurs in four stages known as primary, secondary, latent, and tertiary.</li><li>If untreated, tertiary stage syphilis can damage other organs in the body including the heart and brain.</li></ul><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>Although the symptoms in the early stages may be mild, they can change as the infection progresses.<ul><li><strong>Primary stage:</strong><ul><li>Painless sores around the genital and anal region, as well as the mouth. These sores can clear in a few weeks, but that doesn&rsquo;t mean the infection is gone.</li></ul></li><li><strong>Secondary stage:</strong><ul><li>Skin rash, fever, swollen glands, weight loss, headaches, hair loss, and extreme tiredness.</li></ul></li><li><strong>Latent stage:</strong><ul><li>There are no symptoms during this stage, however the infection is still present and can still be spread to sexual partners.</li></ul></li><li><strong>Tertiary stage:</strong><ul><li>This stage can occur 10- 30 years after infection and lead to serious medical complications, damage to body organs, and death.</li></ul></li></ul></li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>After taking a blood sample or fluids from a sore, your GP can test and treat syphilis by prescribing antibiotics.</li></ul><p><a href=\"http://www.mshc.org.au/HealthProfessional/MSHCTreatmentGuidelines/Syphilis#.WhmCGbSZ18c\">Melbourne Sexual Health Centre - Syphillis</a></p></p>",
+				"ar": "<p>الزهري هو مرض جرثومي منتقل جنسياً،  يمكن أيضا أن ينتقل من الأم إلى الطفل أثناء فترة الحمل. يحدث الزهري في أربع مراحل تعرف باسم البدئي، الثانوي، الكامن، والثالث. إذا لم يعالج، فمن الممكن أن مرض الزهري بالمرحلة الثالثة أن يتلف الأجهزة الأخرى في الجسم بما في ذلك القلب والدماغ.</p><p>الأعراض: على الرغم من أن الأعراض في المراحل المبكرة قد تكون خفيفة، فإنها يمكن أن تتغير مع تقدم العدوى.</p><p>المرحلة البدئية: قروح غير مؤلمة حول المنطقة التناسلية والشرج، وكذلك الفم. هذه القروح يمكن أن تكون واضحة في غضون بضعة أسابيع، ولكن يجب أن يتم علاجها.</p><p>المرحلة الثانوية: طفح جلدي، حمى، تورم الغدد، فقدان الوزن، الصداع، فقدان الشعر، والتعب الشديد.</p><p>المرحلة الكامنة: لا توجد أعراض خلال هذه المرحلة، ولكن العدوى لا تزال موجودة.</p><p>المرحلة الثالثة: يمكن أن تحدث هذه المرحلة بعد 10 - 30 سنة من العدوى وتؤدي إلى مضاعفات طبية خطيرة، وتلف أعضاء الجسم، والموت.</p><p>العلاج: بعد أخذ عينة الدم أو السوائل من منطقة التقرحات، يصف طبيبك العام المضادات الحيوية كعلاج لمرض الزهري.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Chlamydia",
+				"ar": "الكلاميديا"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;</p><ul><li>Chlamydia is the most common sexually transmitted bacterial infection in Australia.</li><li>If untreated chlamydia can cause pelvic inflammatory disease (PID) and infertility.</li></ul><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>The majority of women with chlamydia don&rsquo;t experience any symptoms.</li><li>However, some symptoms include change in vaginal discharge, irregular vaginal bleeding, pelvic pain, painful periods and pain during sex.</li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>If you are sexually active, it is important to have a regular chlamydia test as part of your STI screen</li><li>Make an appointment with your GP who can perform a urine or swab test and prescribe the appropriate treatment.</li></ul><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/Chlamydia/tabid/136/Default.aspx#.WhmAsLSZ18c\">Melbourne Sexual Health Centre - Chlamydia</a></p></p>",
+				"ar": "<p>الكلاميديا ​​هي واحدة من الأمراض البكتيرية المنتقلة جنسياً الأكثر شيوعاً. وفي حال عدم معالجتها يمكن أن تسبب مرض التهاب الحوض أو العقم.</p><p>الأعراض: غالبية النساء المصابات بالكلاميديا ​​لا يعانين من أي أعراض. ومع ذلك فإن بعض الأعراض تشمل تغيير الإفرازات المهبلية، والنزيف المهبلي غير المنتظم، وآلام الحوض، ودورة شهرية مؤلمة والألم أثناء ممارسة الجنس.</p><p>العلاج: إذا كنت تعتقدين أنك قد تكونين مصابة بالكلاميديا، عليك تحديد موعد مع طبيبك العام الذي يمكنه بإجراء اختبار البول أو المسحة من وصف العلاج المناسب.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Gonorrhea",
+				"ar": "السيلان"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;</p><ul><li>Gonorrhea is a sexually transmitted bacterial infection.</li><li>If untreated gonorrhea can lead to pelvic inflammatory disease (PID) and infertility.</li></ul><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>Many women do not experience any symptoms.</li><li>Some symptoms include unusual vaginal or anal discharge, pelvic pain, pain during period, sex or while urinating, and sore throat.</li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>If you are sexually active, it is important to have a regular gonorrhea test as part of your STI screen</li><li>Make an appointment with your GP who can perform a urine or swab test and provide treatment or further testing as needed.</li></ul><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/Gonorrhoea/tabid/263/Default.aspx#.WhmAs7SZ18c\">Melbourne Sexual Health Centre - Gonorrhea</a></p></p>",
+				"ar": "<p>السيلان هو عدوى جرثومية تنتقل عن طريق الاتصال الجنسي. إذا لم تتم معالجة مرض السيلان بشكل كامل من الممكن أن يؤدي إلى مرض التهاب الحوض أو العقم.</p><p>الأعراض: العديد من النساء لا يعانين من أي أعراض, ومع ذلك فإن بعض الأعراض تشمل الإفرازات المهبلية أو الشرجية غير العادية، وآلام بالحوض، والألم خلال الدورة الشهرية، وأثناء الجماع أو أثناء التبول، والتهاب الحلق.</p><p>العلاج: إذا كنت تعتقدين أنك قد تكونين مصابة بمرض السيلان عليك تحديد موعد مع طبيبك العام الذي يمكنه بإجراء اختبار البول أو المسحة من وصف العلاج المناسب, أو يقوم بمزيد من الاختبارات حسب الحاجة.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		},
+		{
+			"title": {
+				"en": "HIV",
+				"ar": "فيروس نقص المناعة البشرية"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;</p><ul><li>Human Immunodeficiency Virus (HIV), which can lead to Acquired Immune Deficiency Syndrome (AIDS)</li><li>HIV makes the body&rsquo;s immune system weaker over time leading to different types of illnesses.</li><li>It is transmitted by unprotected sex, sharing needles and other unsterile injection equipment</li><li>It can be transmitted through blood transfusions (very rare), and mother-to-child during pregnancy, childbirth or breastfeeding (also very uncommon in Australia).</li></ul><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>A person with HIV may not always show symptoms, however, some symptoms include:<ul><li>flu-like symptoms</li><li>sudden weight loss</li><li>extreme tiredness</li><li>swollen glands</li><li>white spots in mouth</li><li>Diarrhoea</li><li>loss of appetite,</li><li>rash on the skin.</li></ul></li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>Although there is currently no cure for HIV or AIDS, treatment is available to improve health and prevent the transmission from mother-to-child during pregnancy and childbirth.</li><li>Make an appointment with your GP to get tested, for consultation, and treatment.</li></ul><p><a href=\"http://www.mhahs.org.au/index.php/en/hiv/introduction\">Prevention, Symptoms, Testing, Care and Support for HIV</a></p><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/HIVtestingandresults/tabid/270/Default.aspx#.WhmAubSZ18c\">Melbourne Sexual Health Centre - HIV testing and results</a></p></p>",
+				"ar": "<p>فيروس نقص المناعة البشرية، والتي يمكن أن تؤدي إلى الإيدز، الذي يضعف الجهاز المناعي في الجسم مؤدي إلى أنواع مختلفة من الأمراض مع مرور الوقت. ينتقل عن طريق الجنس غير المحمي، استعمال الإبر الملوثة وغيرها من معدات الحقن غير المعقمة، ونقل الدم، وينتقل من الأم المصابة إلى الطفل أثناء الحمل والولادة أو الرضاعة الطبيعية.</p><p>الأعراض: الشخص المصاب بفيروس العوز المناعي البشري قد لا يظهر دائما الأعراض، ولكن بعض الأعراض تشمل أعراض تشبه الأنفلونزا، وفقدان الوزن المفاجئ، والتعب الشديد، والغدد المنتفخة، والبقع البيضاء في الفم، والإسهال، وفقدان الشهية، والطفح الجلدي.</p><p>العلاج: على الرغم من عدم وجود علاج حاليا لفيروس نقص المناعة البشرية / الإيدز، فإن العلاج متاح لتحسين الصحة العامة ومنع انتقال المرض من الأم إلى الطفل أثناء الحمل والولادة. تحديد موعد مع طبيبك العام للحصول على اختبار، للتشاور، والعلاج.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Hepatitis B and C",
+				"ar": "التهاب الكبد B و C"
+			},
+			"text": {
+				"en": "<p><p><strong>What it is:</strong>&nbsp;</p><ul><li>Hepatitis B and C are viral infections that affect the liver and can be spread through contaminated blood, through practices such as sharing needles and other unsterile injection equipment and blood transfusions.</li><li>Hepatitis B can also be spread through semen, vaginal fluids and saliva, as well as from mother to baby during or after birth.</li><li>While some cases of hepatitis B and C can heal without treatment, there is the possibility that some cases can turn into chronic hepatitis, liver disease and liver cancer.</li></ul><p><strong>Symptoms:</strong>&nbsp;</p><ul><li>Most people experience no symptoms after they are infected and recover after a few weeks.</li><li>In chronic cases, people may experience:<ul><li>Tiredness</li><li>loss of appetite</li><li>nausea and vomiting</li><li>pain on the right side under the ribs</li><li>joint pain</li><li>flu-like symptoms.</li></ul></li></ul><p><strong>Treatment:</strong>&nbsp;</p><ul><li>The body can clear both hepatitis B and C on its own without treatment</li><li>For those who develop chronic hepatitis, the infection can only be managed, not cured.</li><li>Make an appointment to see your GP if you think you need to be tested or have any concerns.</li></ul><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/HepatitisB/tabid/265/Default.aspx#.WhmAtbSZ18c\">Melbourne Sexual Health Centre - Hepatitis B</a></p><p><a href=\"http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/HepatitisC/tabid/266/Default.aspx#.WhmAtrSZ18c\">Melbourne Sexual Health Centre - Hepatitis C</a></p></p>",
+				"ar": "<p>التهابات فيروسية تؤثر على الكبد ويمكن أن تنتشر عن طريق الدم الملوث والسائل المنوي واللعاب. وكذلك من الأم للطفل أثناء أو بعد الولادة. إن بعض حالات التهاب الكبد B و C يمكن أن تشفي دون علاج، وهناك احتمال أن بعض الحالات (وخاصة فيما يتعلق بالتهاب الكبد C) أن تتحول إلى التهاب الكبد مزمن.</p><p>الأعراض: معظم الناس لا يعانون من أي أعراض بعد إصابتهم ويعودون للوضع الطبيعي بعد بضعة أسابي ، في الحالات المزمنة، يشعر المصاب بالتعب، وفقدان الشهية، والغثيان والقيء، والألم على الجانب الأيمن تحت الأضلاع، وآلام المفاصل وأعراض تشبه أعراض الانفلونزا.</p><p>العلاج: كل من حالات التهاب الكبد B و C يمكن علاجها. عليك تحديد موعد لرؤية طبيبك العام إذا كنت تعتقد أنك بحاجة إلى اختبار أو لديك أية مخاوف من المرض.</p>"
+			},
+			"image": "",
+			"video": "",
+			"links": []
+		}
+	],
+	"notes": {
+		"en": "<h2>Resources</h2><ul>  <li><a href='https://www.thewomens.org.au/health-information/sex-sexuality/sexually-transmitted-infections/about-stis/'>Prevention, Symptoms, Testing, Care and Support</a></li>  <li><a href='http://www.fpv.org.au/for-you/sexually-transmissible-infections-blood-borne-viruses/sti-bbv-get-the-facts'>STIs and testing information</a></li>  <li><a href='http://www.mshc.org.au/SexualHealthInformation/SexualHealthFactSheets/tabid/109/Default.aspx#.WVSRXxOGP-Y'>STIs fact sheet</a></li>  <li><a href='http://www.fpv.org.au/for-you/sexually-transmissible-infections-blood-borne-viruses/sti-bbv-testing-what-to-expect-at-fpv'>Testing</a></li>  <li><a href='http://www.mhahs.org.au/index.php/en/hiv/introduction'>Prevention, Symptoms, Testing, Care and Suppor for HIV</a></li></ul>",
+		"ar": "<h3>Resources</h3><ul><li><a href=\"http://www.healthtranslations.vic.gov.au/bhcv2/bhcht.nsf/PresentDetail?Open&s=Sexually_Transmissible_Infections_booklet\">العدوى المنقولة جنسيا</a></li></ul>"
+	}
+}

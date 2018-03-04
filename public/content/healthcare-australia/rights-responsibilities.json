@@ -1,0 +1,39 @@
+{
+	"arabicComplete": false,
+	"style": 1,
+	"title": {
+		"en": "Your Rights and Responsibilities",
+		"ar": "حقوقك ومسؤولياتك"
+	},
+	"summary": {
+		"en": "",
+		"ar": ""
+	},
+	"tab": [{
+			"title": {
+				"en": "What are my health rights?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>In Australia, everyone has health rights. This means you can expect to receive an equal level of care to everyone else in the country.</li><li>Everyone a right to expect quality and safe health care at every visit.</li><li>You have a right to have an interpreter available, by phone or in person, during any health encounter (in the hospital or at the doctor).</li><li>Quality and safe health care health care requires a partnership between patients and their health care providers to ensure everyone is happy with the support being offered.</li><li>The <a href=\"https://www.safetyandquality.gov.au/wp-content/uploads/2012/01/Charter-PDf.pdf\">Australian Charter of Healthcare Rights</a> describes the rights of patients and other people using the Australian health system.</li></ul><p><img  style=\"width: 30%;\" src=\"/img/healthcare-australia/charter-health-rights.png\" alt=\"Australian Charter of Healthcare Rights\"></p>",
+				"ar": ""
+			},
+			"image": ""
+		},
+		{
+			"title": {
+				"en": "What are my responsibilities?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>It is your responsibility to inform your health care provider of any concerns you have.</li><li>All hospitals and health clinics in Australia have a “zero-tolerance” policy towards violence, abuse and disrespect towards staff, patients and visitors.</li><li>This means that if you are, violent, aggressive or speak rudely, you may be asked to leave or security/the police may be called to remove you from the building.</li><li>If you are unhappy with the health service you were provided with or wish to discuss your experiences further, you can contact the local Health Care Complaints Commission, listed below, in your state or territory</li></ul><table class=\"table\"><thead><tr><th><strong>Local HCCC</strong></th><th><strong>Phone</strong></th><th><strong>Website</strong></th></tr></thead><tbody><tr><td>ACT Human Rights Commission</td><td><a href=\"tel:0262052222\">02 6205 2222</a></td><td><a href=\"http://www.hrc.act.gov.au\">www.hrc.act.gov.au</a></td></tr><tr><td>NSW Health Care Complaints Commission</td><td><a href=\"tel:1800043159\">1800 043 159</a></td><td><a href=\"http://www.hccc.nsw.gov.au\">www.hccc.nsw.gov.au</a></td></tr><tr><td>NT Health and Community Services Complaints Commission</td><td><a href=\"tel:1800806380\">1800 806 380</a></td><td><a href=\"http://www.hcscc.nt.gov.au\">www.hcscc.nt.gov.au</a></td></tr><tr><td>QLD Health Quality and Complaints Commission</td><td><a href=\"tel:1800077308\">1800 077 308</a></td><td><a href=\"http://www.hqcc.qld.gov.au\">www.hqcc.qld.gov.au</a></td></tr><tr><td>SA Health and Community Services Complaints Commission</td><td><a href=\"tel:1800232007\">1800 232 007</a></td><td><a href=\"http://www.hcscc.sa.gov.au\">www.hcscc.sa.gov.au</a></td></tr><tr><td>TAS Office of the Health Complaints Commissioner</td><td><a href=\"tel:1300766725\">1300 766 725</a></td><td><a href=\"http://www.healthcomplaints.tas.gov.au\">www.healthcomplaints.tas.gov.au</a></td></tr><tr><td>VIC Office of the Health Services Commissioner</td><td><a href=\"tel:1800136066\">1800 136 066</a></td><td><a href=\"http://www.health.vic.gov.au/hsc\">www.health.vic.gov.au/hsc</a></td></tr><tr><td>WA Office of Health Review</td><td><a href=\"tel:1800813583\">1800 813 583</a></td><td><a href=\"http://www.healthreview.wa.gov.au\">www.healthreview.wa.gov.au</a></td></tr></tbody></table>",
+				"ar": ""
+			},
+			"image": ""
+		}
+	],
+	"notes": {
+		"en": "<h3>Resources</h3><ul><li>The Beginning a Life in Australia booklet, produced by the Department of Social Services (DSS). Available <a href=\"http://www.dss.gov.au/our-responsibilities/settlement-services/beginning-a-life-in-australia\">here</a>.</li><li>The Australian Charter of Healthcare Rights, produced by the Australian Commission on Safety and Quality in Healthcare. Available <a href=\"http://www.safetyandquality.gov.au\">here</a>.</li></ul>",
+		"ar": ""
+	}
+}

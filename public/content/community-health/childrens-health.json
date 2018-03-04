@@ -1,0 +1,200 @@
+{
+	"arabicComplete": false,
+	"style": 5,
+	"title": {
+		"en": "Children's Health",
+		"ar": "صحة الأطفال"
+	},
+	"summary": {
+		"en": "<ul><li>It is important for you and your child to visit a maternal and child health nurse regularly to monitor their health and development during the early stages of life.</li><li>Visits are free for families with children under 6 years of age.</li><li>A maternal and child health nurse will help keep your child healthy but it is important to visit a doctor if your child is sick or you are worried about them.</li></ul>",
+		"ar": ""
+	},
+	"topLevelVideo": "",
+	"tab": [{
+			"title": {
+				"en": "Milestones",
+				"ar": ""
+			},
+			"text": {
+				"en": "<table class='table'><thead><tr><th></th><th>18 Months</th><th>2 Years</th><th>3 Years</th><th>3-4 Years</th><th>4-5 Years</th></tr></thead><tbody><tr><td><b>Physical</b></td><td><ul><li>Walking</li><li>Climbing</li><li>Wants to do things without help</li><li>Playing alone</li></ul></td><td><ul><li>Walking up stairs</li><li>Squatting and standing without hands</li><li>Able to kick/throw a ball</li></ul></td><td><ul><li>Identifying pictures with names</li><li>Walking on tiptoes and balancing on one foot</li><li>Wash/Dry hands</li></ul></td><td><ul><li>Shares and plays with other children</li><li>Able to use hands and fingers well</li><li>Able to hold a pencil correctly</li></ul></td><td><ul><li>Improved walking, running and climbing skills</li><li>Rides a bike with training wheels</li><li>Able to write some numbers and letters</li><li>Increased speed in physical skills</li></ul></td></tr><tr><td><b>Verbal</b></td><td><ul><li>Saying 6-12 words</li><li>Repeating the last word in sentences</li></ul></td><td><ul><li>Saying 50 or more words</li><li>Singing nursery rhymes</li></ul></td><td><ul><li>Asks a lot of questions</li><li>Listens to and tells stories</li><li>Listens to and tells stories</li><li>Speaks more clearly</li></ul></td><td><ul><li>Speaks well and can be understood</li></ul></td><td><ul><li>Asks more questions</li><li>Understands numbers</li><li>Able to have a conversation</li></ul></td></tr><tr><td><b>Emotional</b></td><td><ul><li>Showing personality traits</li><li>Plays with objects for comfort purposes</li><li>Becomes easily frustrated and throws temper tantrums</li></ul></td><td><ul><li>Clings tightly to parent if scared, tired or showing affection</li><li>Throws temper tantrums when frustrated</li><li>Developing imagination</li></ul></td><td><ul><li>Throws less temper tantrums</li><li>Developing fears</li></ul></td><td><ul><li>Socialises with more people</li><li>Has a sense of humour</li><li>Shows worry for other people</li></ul></td><td><ul><li>Develops friendships</li><li>Shows frustration when tired, angry or embarrassed</li></ul></td></tr></tbody></table>",
+				"ar": ""
+			},
+			"image": "",
+			"video": "",
+			"links": [{
+				"title": {
+					"en": "Milestones Source",
+					"ar": ""
+				},
+				"url": "https://www.communities.qld.gov.au/resources/childsafety/practice-manual/physical-cognative-milestones.pdf"
+			}]
+		},
+		{
+			"title": {
+				"en": "What to do if my child is sick?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<p><strong>Who do I contact if my child is sick?</strong></p><ul><li>In an emergency, call <a href='tel:000'>000</a> for an ambulance</li><li>Call Healthdirect on [1800 022 222](tel:1800 022 222) to speak to a nurse about health advice</li><li>Call the Poisons Information Centre on [13 11 26](tel:13 11 26) if you think your child may have been poisoned</li><li>If it is not urgent, contact your local doctor or maternal and child health nurse</li></ul><p><strong>When to call for immediate help?</strong></p><ul><li>They are having trouble breathing, breathing very fast or making grunting noises when they breathe</li><li>They have a temperature higher than 38°C</li><li>They have a purple or red rash that doesn’t go away when you press it</li><li>They have pale or blue skin colour</li><li>They are more sleepy than usual or they are floopy</li><li>They are not drinking, passing urine (wee) or have less than half the usual number of wet nappies</li><li>They cannot stop vomiting</li><li>They have a loud, continuous cry</li><li>The soft spot on your baby’s head is swollen or bulging</li><li>They are having a seizure or fit (shaking uncontrollably and not responding)</li><li>They are having an allergic reaction (healthdirect)</li></ul><p><strong>It is important to call for help if your child is experiencing anything mentioned above because they will need to be seen by a doctor and given the right treatment to get better.</strong></p><p>Here is a website that offers free online learning activities on basic life support for emergencies: <a href='http://kidshealth.schn.health.nsw.gov.au/cpr'>http://kidshealth.schn.health.nsw.gov.au/cpr</a></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": "",
+			"links": [{
+				"title": {
+					"en": "Allergic Reactions",
+					"ar": ""
+				},
+				"url": "https://www.healthline.com/health/allergies/allergic-reaction#overview1"
+			}]
+		},
+		{
+			"title": {
+				"en": "Maternal and Child Health Nurse",
+				"ar": ""
+			},
+			"text": {
+				"en": "<p><strong>Your maternal and child health nurse can provide you with help about:</strong></p><ul><li>Your own health and wellbeing</li><li>Breastfeeding</li><li>Coping with sleeping and crying (for you and your baby)</li><li>Your baby’s growth and development</li><li>Vaccinations</li><li>Playing with your baby or toddler</li></ul><p><strong>When to visit your maternal and child health nurse?</strong>After you have had your baby and are at home, the nurse will visit you. Then, you will visit the nurse at their clinic at these milestones for your child:</p><ul><li>2 weeks</li><li>4 weeks</li><li>8 weeks</li><li>4 months</li><li>8 months</li><li>12 months</li><li>18 months</li><li>2 years</li><li>3.5 years(Victoria State Government)</li></ul>",
+				"ar": ""
+			},
+			"image": "",
+			"video": "",
+			"links": [{
+				"title": {
+					"en": "Home visit",
+					"ar": ""
+				},
+				"url": "http://www.education.vic.gov.au/childhood/parents/mch/Pages/homevisit.aspx"
+			}]
+		},
+		{
+			"title": {
+				"en": "Personal Health Record",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>A personal health record is a coloured book that will be given to you by a midwife after you have given birth.</li><li>This book contains important information about your child’s health, illnesses, injuries and growth and development. Bring this book with you each time you visit any health service, doctor or hospital with your child.</li><li>After you have your baby, your midwife will give you a Personal Health Record Book before you leave hospital, to help you keep up with your new baby's health.<ul><li>It is important to keep up with this book and have it available for all appointments.</li><li>This book is coloured differently in each state. For example in Victoria, this book is green, in NSW, it is blue and QLD it is red.</li></ul></li></ul><p><img src='/img/pregnancy/personal-health-record.png' alt='Personal Health Record'></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": "",
+			"links": [{
+				"title": {
+					"en": "Blue book",
+					"ar": ""
+				},
+				"url": "http://www.health.nsw.gov.au/kidsfamilies/MCFhealth/Pages/child-blue-book.aspx"
+			}]
+		},
+		{
+			"title": {
+				"en": "Sleeping",
+				"ar": ""
+			},
+			"text": {
+				"en": "<p><strong>In the first 6 months, it is normal for your baby to wake regularly at night. They will need you to feed them or help them settle. Your child might have a problem with sleep if they are older than 6 months and:</strong></p><ul><li>Consistently wake up more than 3 times a night</li><li>Consistently take more than 30 minutes to settle</li><li>Have difficulties with sleeping and settling that cause you a lot of distress</li></ul><p><strong>If you are unsure about your baby’s sleeping habits, talk to your maternal and child health nurse.</strong></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/2iVmu6a-B6g"],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Feeding your baby",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li><p>Breastfeeding gives your baby all the nutrients he or she needs. It can also help you both to bond (get closer to each other emotionally).</p></li><li><p>The World Health Organization recommends that all women planning to breastfeed do so within the first two hours of birth. Whilst this is not always possible, hospital staff should be encouraged and supported to take time to assist the mother to do so if she needs it.</p></li><li><p>Learning to breastfeed is difficult for many mothers and can be a frustrating and emotional experience at the beginning. This usually gets better after the first few days.</p></li><li><p>Your midwife, maternal child health nurse and lactation consultant (breastfeeding specialist) can help you and your baby get more experience. You should be given information as to how to access these services on the postnatal ward, after you have your baby.</p></li><li><p>Here are some demonstrations on the best positions for initiating breastfeeding.<a href='http://raisingchildren.net.au/articles/breastfeeding_attachment_video.html'>Raising Children Network- How to breastfeed: getting a good attachment</a></p></li><li><p>Breastfeeding is recommended for up to two years and you can start offering solid food slowly, from 6 months.</p></li><li><p>If you are unable to breastfeed or choose not to, formula will give your baby the nutrients he or she needs to grow.</p></li><li><p>Speak with your midwife or maternal child health nurse to choose what formula is best for you and your baby.</p></li><li><p>Water is in both breastmilk and formula so you baby does not need to be offered water (including coconut or sugar cane water) until 6 months of age.</p></li></ul><p><a href='http://raisingchildren.net.au/articles/dads_formula_preparation_video.html/context/1081'>Raising Children Network- Bottle and formula preparation</a><a href='https://www.thewomens.org.au/health-information/breastfeeding/'>Breastfeeding</a><a href='http://raisingchildren.net.au/nutrition/newborns_nutrition.html'>Newborn Nutrition</a><a href='https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Breastfeeding-your-baby1.pdf'>Breastfeeding Your Baby (English)</a></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/QJ86pzZUkic"],
+			"links": [{
+				"title": {
+					"en": "Toddler not eating? Ideas and tips",
+					"ar": ""
+				},
+				"url": "http://raisingchildren.net.au/articles/toddler_not_eating.html"
+			},
+			{
+				"title": {
+					"en": "Baby food 6 months+",
+					"ar": ""
+				},
+				"url": "https://www.woolworths.com.au/shop/browse/baby/baby-food/baby-food-6-months-"
+			},
+			{
+				"title": {
+					"en": "Homemade baby food: in pictures",
+					"ar": ""
+				},
+				"url": "http://raisingchildren.net.au/articles/pip_homemade_baby_food.html"
+			},
+			{
+				"title": {
+					"en": "Baby’s first foods",
+					"ar": ""
+				},
+				"url": "https://www.childrens.health.qld.gov.au/chq/our-services/community-health-services/centre-childrens-health-wellbeing/babys-first-foods/"
+			},
+			{
+				"title": {
+					"en": "Breastfeeding attachment techniques",
+					"ar": ""
+				},
+				"url": "http://raisingchildren.net.au/articles/breastfeeding_techniques_article.html"
+			},
+			{
+				"title": {
+					"en": "Breast is best: advantages of breastfeeding",
+					"ar": ""
+				},
+				"url": "http://www.australianunity.com.au/health-insurance/existing-members/wellplan-online/childrens-health/advantages-of-breastfeeding"
+			},
+			{
+				"title": {
+					"en": "The healthy school lunchbox",
+					"ar": ""
+				},
+				"url": "http://www.australianunity.com.au/health-insurance/existing-members/wellplan-online/childrens-health/the-healthy-school-lunchbox"
+			}]
+		},
+		{
+			"title": {
+				"en": "Vaccination",
+				"ar": ""
+			},
+			"text": {
+				"en": "<p><strong>Vaccinations are a simple, safe and effective way of protecting yourself, your child and others from dangerous diseases.</strong></p><p><strong>If you choose not to have your child immunised it can potentially put them at risk and other:</strong></p><ul><li>Babies</li><li>Young children</li><li>Old people</li><li>Sick people with poor immune systems</li></ul>",
+				"ar": ""
+			},
+			"image": "",
+			"video": "",
+			"links": [{
+				"title": {
+					"en": "National Immunisation Program Schedule (From November 2016)",
+					"ar": ""
+				},
+				"url": "http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/national-immunisation-program-schedule"
+			}]
+		},
+		{
+			"title": {
+				"en": "Sudden Infant Death Syndrome",
+				"ar": ""
+			},
+			"text": {
+				"en": "<p>Sudden Infant Death Syndrome occurs when a child less than one years old, dies without suddenly and without any explanation. In 2013, 54 babies died of SIDS in Australia.Information sourced from <a href='https://www.healthdirect.gov.au/sudden-infant-death-syndrome-sids'>https://www.healthdirect.gov.au/sudden-infant-death-syndrome-sids</a></p><p>The cause of SIDS is not known but it is rare and there are many ways to lower the risk. These include:</p><ol><li>Put your baby on their back to sleep from birth</li><li>Do not cover your baby’s face while they are sleeping</li><li>Do not smoke near your baby</li><li>Have a safe cot, mattress, bed and environment for your baby at night and during the day</li></ol>",
+				"ar": ""
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/rZ2NXdZ_sHo"],
+			"links": []
+		}
+	],
+	"notes": {
+		"en": "",
+		"ar": "<h3>موارد</h3><ul><li><a href=\"http://www.papscreen.org.au/downloads/resources/information_sheets/lote/Arabic-HPV-vaccine.pdf\">فيروس الورم الحليمي البشري</a></li> <li><a href=\"http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/IT0169-cnt/$File/Arabic-MMRV.PDF\">الحصبةالحصبة الالمانية</a></li> <li><a href=\"https://www.kidsafevic.com.au/images/stories/pdfs/factsheet/Kidsafe-0-9%20months_Arabic.pdf\">ومن أين ميكن أن أحصل على معلومات</a></li> <li><a href=\"http://www.deafness.org.au/wp-content/uploads/2014/11/Arabic.pdf\">الحصبة الالمانية</a></li></ul>"
+	}
+}

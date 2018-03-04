@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+- 6
+cache:
+  directories:
+  - node_modules
+script:
+- npm test
+- CI="" npm run build
+deploy:
+  provider: s3
+  access_key_id: AKIAJTP2V5UBC6GI5KYA
+  secret_access_key:
+    secure: nv58wXlMXISgFh7zz4zp3pRV8iHfwH6zzBibLnOLV2iW/aDW8TsLGCGpgWjIO6FknJOoqvdSfmSEG4NnVlTaxLs8oR+ZKxg6iALxXGqhRn56QKAYZe8d3JLXyUfo/W60dvhLtOSgRQ4DseTTirsaL08kqLg3R9YEJqEqis9YEvgUbRYnnjHbAyK4nzM15F2uBX3xQSavdRDDfMQD1znj9fZlADaK0VtN+jzm1WqdUoRgigwwycNV++Gji9iFT2UoRqcm110Ow2SX8wtQ3M+I8gRmTNiJ0mkau5u2aeQiWa+xdP48S+B3VFTfV7aGQjbZCVpdt1JSt2Ea/55mGK8cSn6vo3z+7xcNDrETkUz8Ki0gDnTzfbw1Hb/1uozZx/oKS09vu8RWEZKXAKNNSPgtPwEaDMyFAKC0rCFxMeTjoK5oQSd+76ENFBOqX8ewz3Dp2gwLEvh4h81Sjih5746fUW4qToQSiN3OUtX/vGZb8x355sog5zrC/K7QWAd+zo1Xpci/iTApLnktulaGRMEgN4dxR8q7g5bcNQ2lrPwbw/qMl/SgK9GQMvUBcpCp0cRbuHJPX+4yzC4MQZtU1j7TRVDnwG+pBhBr31udRP7TiUccrSU7PCoolEle5LDFRUWR4oH9yShszAJhVT3+ZaaXVT09+uY4ck7Uk4JkkbH+jWg=
+  bucket: shifra.io
+  acl: public_read
+  local_dir: build
+  skip_cleanup: true
+  region: ap-southeast-2
+  on:
+    repo: beccahbartlett/madapt-frontend
+    branch: master

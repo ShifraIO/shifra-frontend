@@ -1,0 +1,22 @@
+{
+	"arabicComplete": true,
+	"style": 1,
+  "title": {
+    "en": "Private vs. Public Access Maternity Care Options",
+    "ar": "العيادات الخاصة والعامة"
+  },
+  "topLevelImage": {
+    "en": {
+      "desktop": "/img/table_english_3.png",
+      "mobile": "/img/table_english_6.png"
+    },
+    "ar": {
+      "desktop": "/img/table_arabic_3.png",
+      "mobile": "/img/table_arabic_6.png"
+    }
+  },
+  "notes": {
+    "en": "",
+    "ar": "<h3>موارد</h3><ul><li><a href=\"https://www.humanservices.gov.au/sites/default/files/2017/01/9284-1607ar.pdf\">صحتك</a></li></ul>"
+  }
+}

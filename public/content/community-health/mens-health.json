@@ -1,0 +1,169 @@
+{
+	"arabicComplete": false,
+	"style": 5,
+	"title": {
+		"en": "Men's Health",
+		"ar": "صحة الرجال"
+	},
+	"summary": {
+		"en": "<p><strong>Right to Care</strong></p><ul><li>You have a right to understand your own health and to make informed decisions about your own body</li><li>All medical staff should communicate with you throughout your visit.</li><li>You have the right to an interpreter.</li><li>If you are unsure of anything that is happening to you have a right to ask them to stop and explain what is happening.</li><li>You also have a right to decline care or to ask for more information before consenting to any procedure or intervention.</li></ul><p><strong>Men’s Health</strong></p><ul><li>Men have unique health needs related to the sexual and reproductive health.</li><li>These are often ignored or overlooked and can leave men feeling alone and embarrassed</li><li>You have a right to seek care, to feel better and not to feel judged</li><li>If you are want more information or to speak to a men’s health specialist, you can visit your local GP or men’s health specialist</li><li>There are specialists out there who can discuss the following issues with you in a respectful and helpful way</li></ul><p><a href='https://www.andrologyaustralia.org/'>Andrology Australia</a></p><p><a href='https://www.mshc.org.au/'>Melbourne Sexual Health Centre</a></p>",
+		"ar": ""
+	},
+	"topLevelVideo": "",
+	"tab": [{
+			"title": {
+				"en": "Fertility",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Men may be infertile (unable to get a woman pregnant) for a number of reasons.</li><li>Male infertility is the root cause of infertility in about 1 in 5 infertile couples.</li><li>Your GP or men’s health specialist can perform tests to confirm this.</li><li>There are advanced medical technologies that can use a man’s sperm to fertilise a woman’s egg to assist with getting pregnant.</li><li>See <a href='/family-planning/fertility'>Shifra’s section on Fertility</a> for more on this.</li></ul>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": [{
+				"title": {
+					"en": "Male Infertility",
+					"ar": ""
+				},
+				"url": "https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_MaleInfertility.pdf"
+			},
+			{
+				"title": {
+					"en": "Fertility Preservation",
+					"ar": ""
+				},
+				"url": "https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_FertilityPreservation.pdf"
+			},
+			{
+				"title": {
+					"en": "Fertility Problems",
+					"ar": ""
+				},
+				"url": "https://www.thewomens.org.au/health-information/fertility-information/fertility-problems/"
+			},
+			{
+				"title": {
+					"en": "Fertility Treatment",
+					"ar": ""
+				},
+				"url": "https://www.ivf.com.au/fertility-treatment"
+			},
+			{
+				"title": {
+					"en": "Fertility Consultation",
+					"ar": ""
+				},
+				"url": "https://www.ivf.com.au/fertility-treatment/first-fertility-consultation"
+			}]
+		},
+		{
+			"title": {
+				"en": "Sexual Health and Sexuality",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Who a man is attracted to and chooses to have sex with is different for everyone.</li><li>Who you are attracted to is not something you can control and you have a right to be attracted to and have sex with who you choose as long as this sex is consensual for both/all partners. This means both (or all) partners want to have sex. See Shifra&rsquo;s section on Consensual Sex for more on this.</li><li>It is important to practice safe sex to prevent unplanned pregnancies or sexually transmissible infections including HIV.</li><li>To learn more about sexually transmitted infections, go to Shifra&rsquo;s page on <a href='http://www.shifra.io/sexual-health/sti'>Sexually Transmissible Infections</a>.</li><li>To find out where you can get an STI test, go to our <a href='http://www.shifra.io/clinics'>Clinic Locations</a></li><li>Please see the section on Sexual Health and the one on Unplanned Pregnanc&nbsp;y for more information on this.</li></ul><ul><li><a href='http://www.youthcentral.vic.gov.au/health-relationships/sexuality-relationships/same-sex-attraction'>Youth sexuality</a></li><li><a href='https://ygender.org.au/'>Gender diverse young people support group</a></li><li><a href='https://minus18.org.au/'>LGBTI youth</a></li><li><a href='https://gendercentre.org.au/'>Transgender resources and support specific to refugees</a></li><li><a href='http://www.fpv.org.au/courses/sexuality-support-services-for-lgbti-youth-in-a-group-setting?section=communities'>LGBTQ support group</a></li></ul>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Erectile and Ejaculation Problems",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Most men experience problems with getting or maintaining an erection at some point in their life.</li><li>This is usually temporary and can be due to stress, anxiety, depression, medication, tiredness or for some other unknown reason.</li><li>If you feel this is happening regularly or are worried, you can seek help from your local men&rsquo;s health specialist or GP.</li></ul><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/AA_Penis-Problems_2015.pdf'>Penis Problems</a></p><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_PrematureEjaculation.pdf'>Premature Ejaculation</a></p><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_EjaculationProblems.pdf'>Ejaculation Problems</a></p><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_ErectileDysfunction.pdf'>Erectile Dysfunction</a></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Testes",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Testicular cancer is the second most common cancer in young men between ages 18-39.</li><li>Sometimes there are no symptoms, but you may feel a lump or heaviness inside your testicle.</li><li>If you testicles have changed in size or shape or you have pain or swelling in this region you should see your GP or men&rsquo;s health specialist immediately.</li><li>If treated in time, the testicular cancer cure rate is very high.</li></ul><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_TSE_2017.pdf'>Testes Self Check</a></p><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_TesticularCancer.pdf'>Testicular Cancer</a></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Prostate and Urinary System",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>The prostate gland helps produce the fluid that feed and carries semen (sperm). It is about the size of a walnut in a young adult but gets larger as a man gets older.</li><li>It can affect your ability to pass urine and this can cause pain and irritation.</li><li>Men over 50 should have their prostate checked by their GP or men&rsquo;s health specialist yearly.</li><li>Prostate cancer affects 1 in 7 men over 75 years and 1 in 5 men over 85 years but it can also affect men who are much younger so it is important to see your doctor if you have any concerns or symptoms listed in links below.</li></ul><p><a href='https://www.andrologyaustralia.org/wp-content/uploads/Factsheet_LUTS.pdf'>Lower Urinary Tract Problems in Men</a></p><p><a href='https://www.andrologyaustralia.org/prostate-problems/'>Prostate Problems</a></p><p><a href='https://www.andrologyaustralia.org/prostate-problems/prostate-enlargement-or-bph/'>Prostate Enlargement </a></p><p><a href='https://www.andrologyaustralia.org/prostate-problems/prostate-cancer-diagnosis/'>Prostate Cancer</a></p><p><a href='https://www.andrologyaustralia.org/prostate-problems/prostate-cancer-treatment/'>Prostate Cancer- Treatment</a></p><p><a href='https://www.andrologyaustralia.org/prostate-problems/prostatitis/'>Prostatitis</a></p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Mental Health",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Men experience the same emotions as women however many men have been taught not to share these feelings.</li><li>Being open about experiencing difficult and frightening thoughts and emotions is hard but getting help is essential to getting better.</li><li>Men are at a high risk of suicide due to depression and anxiety especially men who have experienced traumatic events in their life or been discriminated against.</li><li>There are services that are specific for men who have experienced torture and trauma, both in Australia and overseas</li><li>There are also services for those who have been bullied or targeted due to their sexuality, disability or mental health concerns.</li></ul><p><strong></strong></p><p><strong><u>What support is there for people living with mental illness?</u></strong></p><ul><li>In Australia, It is not a crime to experience mental health issues.</li><li>You have a right to seek help and to be treated with dignity and respect.</li><li>Seeking help will not affect your visa status.</li><li>A number of services exist for people who need help for mental health concerns and mental illness.</li><li>In Australia, people with mental health concerns may be treated in the community or sometimes in hospital, but not in institutions.</li><li>In most common cases, people needing assistance for mental health difficulties should contact their GP/ family doctor or community health centre.</li><li>If you need urgent assistance, contact the mental health team at your nearest hospital or contact your doctor.</li><li>Information and assistance with mental health issues may be found through the agencies listed below.</li></ul><table width='444'><tbody><tr><td width='224'><p><strong>Service</strong></p></td><td width='86'><p><strong>Phone Number</strong></p></td><td width='134'><p><strong>Website</strong></p></td></tr><tr><td width='224'><p>Lifeline &ndash; 24 Hour Helpline</p></td><td width='86'><p>13 1114</p></td><td width='134'><p>www.lifeline.org.au</p></td></tr><tr><td width='224'><p>Kids Helpline &ndash; 24 Hour Helpline</p></td><td width='86'><p>1800 55 1800</p></td><td width='134'><p>www.kidshelp.com.au</p></td></tr><tr><td width='224'><p>Men&rsquo;s Helpline Australia &ndash; 24 Hour Crisis Line</p></td><td width='86'><p>1300 789 978</p></td><td width='134'><p>www.menslineaus.org.au</p></td></tr></tbody></table><p><a href='https://www.beyondblue.org.au/who-does-it-affect/men/what-causes-anxiety-and-depression-in-men'>What Causes Anxiety and Depression in Men?</a></p><p><a href='https://www.beyondblue.org.au/the-facts/depression/signs-and-symptoms'>Beyond Blue- Depression Signs and Symptoms</a></p><p><a href='https://www.beyondblue.org.au/who-does-it-affect/lesbian-gay-bi-trans-and-intersex-lgbti-people'>LGBTQI and Mental Health</a></p><p><strong><u>Depression</u></strong></p><ul><li>1 in 8 men will experience some level of depression at some point in their lives.</li><li>Depression occurs when you feel sad, lonely and sometimes hopeless for long periods of time (usually more than 2 weeks).</li><li>Some people have trouble doing everyday things like getting out of bed, working or socialising with family and friends.</li><li>Other people may force themselves to be very busy and socialise a lot but still have a constant feeling of sadness or being alone</li><li>Many men experience this for years without getting help</li><li>Men who have recently become fathers (whether it be the first time or not) may also experience these troubling feelings and not seek help.</li><li>For some people this can be managed with therapy or changes to diet and increasing your exercise. Other people might need medication for a period of time.</li></ul><p></p><p><strong><u>Anxiety</u></strong></p><ul><li>1 in 5 men will experience anxiety at some point in their lives.</li><li>Anxiety occurs when you have constant feelings of worry or stress that won&rsquo;t go away.</li><li>Sometimes these feelings get worse around certain stressors (e.g. job interviews, paying bills, moving, relationship problems)</li><li>For some people this can be managed with therapy or changes to diet and increasing your exercise. Other people might need medication for a period of time.</li></ul><ul><li>If you are worried about whether you have anxiety or depression you can fill in <a href='https://www.beyondblue.org.au/the-facts/anxiety-and-depression-checklist-k10'>this anonymous checklist</a> from Beyond Blue. Beyond Blue states:</li></ul><p></p><p><em>&ldquo;This </em><a href='https://www.beyondblue.org.au/the-facts/anxiety-and-depression-checklist-k10'><em>simple checklist</em></a><em> aims to measure whether you may have been affected by depression and anxiety during the past four weeks. The higher your score, the more likely you are to be experiencing depression and/or anxiety. Your answers and results are completely confidential and we don&rsquo;t store any of your information. After taking the test, you can print the results for your records or to give to your GP. These questions relate to how you've been feeling over the past four weeks. Tick a box next to each question that best reflects your thoughts, feelings and behaviour.&rdquo;</em></p><p><a href='https://ruwix.com/' rel='nofollow noopener'>Twisty puzzle solving</a> offers an entertaining way of improving your dexterity and problem solving skills.</p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Trauma",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Bring a refugee or asylum seeker, experiencing war, natural disasters, physical or sexual assault/abuse or constant discrimination just for being who you are can affect the way you think, feel and act.</li><li>Everyone experiences these feelings differently.</li><li><strong>It is OK to feel sad, scared, tired and angry about your experiences</strong></li><li><strong>You have right to get better and to not feel this way forever. </strong></li><li><strong>Getting help is important to moving on with your life and feeling safe and happy again</strong></li><li>Talking to someone,art therapy, exercise and meditation can also help.</li><li>Using drugs or alcohol to cope can make things more difficult so it is important to seek help if you are needing these things to get through each day.</li><li>There are specialised services throughout Australia to assist people who have experienced trauma and torture in your homeland.</li><li>Support for difficult experiences you may have had since arriving in Australia may not be offered by these same services.</li><li>Call <a href='https://www.lifeline.org.au/'>Lifeline</a> if you are unsure. You can use a TIS interpreter to speak to a trained counselling about any problem that is bothering you</li></ul><p><strong>You are not alone. There are people who can help you. </strong></p><p>See below to find out how to access these services in your state or territory.</p><table width='475'><tbody><tr><td width='216'><p><strong>Service</strong></p></td><td width='103'><p><strong>Phone Number</strong></p></td><td width='156'><p><strong>Website</strong></p></td></tr><tr><td width='216'><p>ACT Companion House &ndash; Assisting Survivors of Torture and Trauma</p></td><td width='103'><p><strong>02 6251 4550</strong></p></td><td width='156'><p>www.companionhouse.org.au</p></td></tr><tr><td width='216'><p>NSW Service for the Treatment and Rehabilitation of Torture and Trauma Survivors (STARTTS)</p></td><td width='103'><p><strong>02 9794 1900</strong></p></td><td width='156'><p>&nbsp;www.startts.org.au</p></td></tr><tr><td width='216'><p>QLD Queensland Program of Assistance to Survivors of Torture and Trauma (QPASTT)</p></td><td width='103'><p><strong>07 3391 6677</strong></p></td><td width='156'><p>&nbsp;www.qpastt.org.au</p></td></tr><tr><td width='216'><p>SA Survivors of Torture and Trauma Assistance and Rehabilitation Service (STTARS)</p></td><td width='103'><p><strong>08 8346 5433</strong></p></td><td width='156'><p>www.sttars.org.au</p></td></tr><tr><td width='216'><p>TAS Phoenix Centre &ndash; support Service for Survivors of Torture and Trauma</p></td><td width='103'><p><strong>03 6234 9138</strong></p></td><td width='156'><p>&nbsp;www.mrchobart.org.au</p></td></tr><tr><td width='216'><p>VIC Foundation House &ndash; Victorian Foundation for Survivors of Torture (&lsquo;Foundation House&rsquo;)</p></td><td width='103'><p><strong>03 9388 0022</strong></p></td><td width='156'><p>&nbsp;www.foundationhouse.com.au</p></td></tr><tr><td width='216'><p>WA Association for Services to Torture and Trauma Survivors (ASeTTS)</p></td><td width='103'><p><strong>08 9227 2700</strong></p></td><td width='156'><p>&nbsp;www.asetts.org.au</p></td></tr></tbody></table><p></p><p><strong>Some information adapted from:</strong> <a href='http://www.dss.gov.au/our-responsibilities/settlement-services/beginning-a-life-in-australia'>The Beginning a Life in Australia</a> booklet, produced by the Department of Social Services (DSS)</p><p></p><p><a href='https://www.beyondblue.org.au/the-facts/trauma'>Trauma</a></p><p><a href='https://www.beyondblue.org.au/who-does-it-affect/multicultural-people'>Depression and Anxiety in Multicultural Communities</a></p><p>Make sure to use the best <a href='http://html-css-js.com/'>HTML CSS JavaScript</a> tools to get the perfect code.</p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": ["https://player.vimeo.com/video/143217208"],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Grief",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Everyone experiences grief and loss at some point in their life.</li><li>Everyone copes with this experience differently</li><li>It is important to allow yourself time to grieve and heal.</li><li>You may feel differently about your experience at different times, so you can try different coping strategies that might work for you including:<ul><li>Grief time:<ul><li>Grieving can take time, so be patient as you work through your emotions.</li><li>Allow yourself up to 20 minutes each day to grieve by taking time to be alone.</li><li>You can think, cry, pray, meditate, write or any other method that helps you.</li></ul></li><li>Journal:<ul><li>Write about your feelings and about the person you are grieving.</li><li>This can help you relieve stored emotions and show your progress.</li><li>Allow yourself to cry and work through your grief. Don&rsquo;t worry if you can&rsquo;t cry, because people work through grief differently.</li></ul></li><li>Talk it out:<ul><li>Grieving can feel lonely, so talk to someone who may have been through a similar experience or consider joining a support group.</li></ul></li></ul></li></ul>",
+				"ar": ""
+			},
+			"image": "",
+			"video": [],
+			"links": []
+		},
+		{
+			"title": {
+				"en": "Self-care",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Self care is any activity that can help you feel healthy, relaxed and happt.</li><li>Making time for self-care regularly allows you to maintain good physical, emotional and mental health.</li><li>There are many ways to look after your health even when you don't think you need it. It helps if you can:<ul><li>Eat well and exercise regularly</li><li>Get enough sleep and set aside some time each day to relax</li><li>Put time into activities and relationships that make you feel good</li><li>Create some short-term and long-term goals to look forward to</li><li>Try to deal with problems instead of letting them build up</li><li>Be aware that alcohol and drugs can affect your state of mind and relationships.<strong><br /> <br /> </strong></li></ul></li><li>The New Roots app from Service Settlement International in Sydney, is focused on supporting men who speak Tamil, Farsi or Arabic.</li><li>The New Roots Project has been developed to build the mental health of men, aged 18-45, who have recently arrived in Australia on a humanitarian visa. The primary aim is to help men to stay physically, socially and emotionally strong.</li></ul><p><a href='https://www.ssi.org.au/news/ssi-news-blog/565-new-roots-using-smartphones-to-help-refugee-men-in-australia'>New Roots App</a></p><p><a href='https://play.google.com/store/apps/details?id=com.xenero.newroots'><strong>Android</strong></a></p><p><a href='https://itunes.apple.com/au/app/new-roots/id1029319390?mt=8'><strong>iOS</strong></a></p><p>Remember:</p><ul><li><strong>You have a right to seek help and to feel heard, safe and respected. </strong></li><li><strong>Help is out there and it&rsquo;s OK to ask for it. </strong></li><li><strong>Don&rsquo;t feel you have to deal with your worries alone. </strong></li><li><strong>You have a right to seek help and to feel heard, safe and respected. </strong></li><li><strong>Help is out there and it&rsquo;s OK to ask for it. </strong></li><li><strong>Don&rsquo;t feel you have to deal with your worries alone. </strong></li></ul><p>There are many other problems men may experience in relation to their sexual or reproductive health. See <a href='https://www.andrologyaustralia.org/your-health/'>https://www.andrologyaustralia.org/your-health/</a> for more.</p>",
+				"ar": ""
+			},
+			"image": "",
+			"video": ["https://www.youtube.com/embed/sTOc35H5Kxw"],
+			"links": []
+		}
+	],
+	"notes": {
+		"en": "",
+		"ar": "<h3>موارد</h3><ul><li><a href=\"http://www.mhcs.health.nsw.gov.au/publicationsandresources/pdf/publication-pdfs/5360/bhc-5360-ara.pdf/at_download/file\">الرجال و الطلاق</a></li></ul>"
+	}
+}

@@ -1,0 +1,41 @@
+.container-body {
+  width: 100%;
+  padding-top: 180px;
+  padding-bottom: 20px;
+  flex: 1 0 auto;
+  min-height: calc(100vh - 14rem);
+}
+
+@media screen and (max-width: 600px) {
+  .container-body {
+    padding-top: 1rem;
+  }
+}
+
+* {
+  font-family: 'Avenir', sans-serif;
+}
+
+.style-1 {
+  background-color: #F6FAF4;
+}
+
+.style-2 {
+  background-color: #F2FBFD;
+}
+
+.style-3 {
+  background-color: #FDF1F2;  
+}
+
+.style-4 {
+  background-color: #FFF8EE;  
+}
+
+.style-5 {
+  background-color: #EFEEF6;  
+}
+
+.style-6 {
+  background-color: #FFF8EE;  
+}

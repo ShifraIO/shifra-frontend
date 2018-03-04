@@ -1,0 +1,250 @@
+[
+	{
+		"type": "contentPage",
+		"section": "home",
+		"name": "Welcome to Shifra",
+		"contentUrl": "/content/home.json",
+		"displayUrl": "/",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "about",
+		"name": "About Us",
+		"contentUrl": "/content/about.json",
+		"displayUrl": "/about",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Health System Overview",
+		"contentUrl": "/content/healthcare-australia/health-system-overview.json",
+		"displayUrl": "/healthcare-australia/health-system-overview",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Translating and Interpreting Services",
+		"contentUrl": "/content/healthcare-australia/translating-interpreting.json",
+		"displayUrl": "/healthcare-australia/translating-interpreting",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Australian Norms",
+		"contentUrl": "/content/healthcare-australia/australian-norms.json",
+		"displayUrl": "/healthcare-australia/australian-norms",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Medicare and Centrelink",
+		"contentUrl": "/content/healthcare-australia/medicare-centrelink.json",
+		"displayUrl": "/healthcare-australia/medicare-centrelink",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Your Rights and Responsibilities",
+		"contentUrl": "/content/healthcare-australia/rights-responsibilities.json",
+		"displayUrl": "/healthcare-australia/rights-responsibilities",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Disability Access",
+		"contentUrl": "/content/healthcare-australia/disability.json",
+		"displayUrl": "/healthcare-australia/disability",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Private vs. Public Health Services",
+		"contentUrl": "/content/healthcare-australia/private-vs-public.json",
+		"displayUrl": "/healthcare-australia/private-vs-public",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Community Based Services",
+		"contentUrl": "/content/healthcare-australia/community-services.json",
+		"displayUrl": "/healthcare-australia/community-services",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "access",
+		"name": "Private Health Insurance",
+		"contentUrl": "/content/healthcare-australia/private-health.json",
+		"displayUrl": "/healthcare-australia/private-health",
+		"style": 1
+	},
+	{
+		"type": "contentPage",
+		"section": "familyPlanning",
+		"name": "Birth Spacing",
+		"contentUrl": "/content/family-planning/birth-spacing.json",
+		"displayUrl": "/family-planning/birth-spacing",
+		"style": 2
+	},
+	{
+		"type": "contentPage",
+		"section": "familyPlanning",
+		"name": "Contraception",
+		"contentUrl": "/content/family-planning/contraception.json",
+		"displayUrl": "/family-planning/contraception",
+		"style": 2
+	},
+	{
+		"type": "contentPage",
+		"section": "familyPlanning",
+		"name": "Unplanned Pregnancy",
+		"contentUrl": "/content/family-planning/unplanned-pregnancy.json",
+		"displayUrl": "/family-planning/unplanned-pregnancy",
+		"style": 2
+	},
+	{
+		"type": "contentPage",
+		"section": "familyPlanning",
+		"name": "Fertility",
+		"contentUrl": "/content/family-planning/fertility.json",
+		"displayUrl": "/family-planning/fertility",
+		"style": 2
+	},
+	{
+		"type": "contentPage",
+		"section": "pregnancyNewborn",
+		"name": "Pregnancy",
+		"contentUrl": "/content/pregnancy-newborn/pregnancy.json",
+		"displayUrl": "/pregnancy-newborn/pregnancy",
+		"style": 3
+	},
+	{
+		"type": "contentPage",
+		"section": "pregnancyNewborn",
+		"name": "Complications",
+		"contentUrl": "/content/pregnancy-newborn/complications-of-pregnancy.json",
+		"displayUrl": "/pregnancy-newborn/complications",
+		"style": 3
+	},
+	{
+		"type": "contentPage",
+		"section": "pregnancyNewborn",
+		"name": "Models of Maternity Care",
+		"contentUrl": "/content/pregnancy-newborn/models-maternity-care.json",
+		"displayUrl": "/pregnancy-newborn/models-maternity-care",
+		"style": 3
+	},
+	{
+		"type": "contentPage",
+		"section": "pregnancyNewborn",
+		"name": "Birth",
+		"contentUrl": "/content/pregnancy-newborn/birth.json",
+		"displayUrl": "/pregnancy-newborn/birth",
+		"style": 3
+	},
+	{
+		"type": "contentPage",
+		"section": "pregnancyNewborn",
+		"name": "Postnatal",
+		"contentUrl": "/content/pregnancy-newborn/postnatal.json",
+		"displayUrl": "/pregnancy-newborn/postnatal",
+		"style": 3
+	},
+	{
+		"type": "contentPage",
+		"section": "pregnancyNewborn",
+		"name": "Newborn",
+		"contentUrl": "/content/pregnancy-newborn/newborn.json",
+		"displayUrl": "/pregnancy-newborn/newborn",
+		"style": 3
+	},
+	{
+		"type": "contentPage",
+		"section": "sexualHealth",
+		"name": "Healthy Relationships",
+		"contentUrl": "/content/sexual-health/healthy-relationships.json",
+		"displayUrl": "/sexual-health/healthy-relationships",
+		"style": 4
+	},
+	{
+		"type": "contentPage",
+		"section": "sexualHealth",
+		"name": "Having Sex",
+		"contentUrl": "/content/sexual-health/safe-sex.json",
+		"displayUrl": "/sexual-health/safe-sex",
+		"style": 4
+	},
+	{
+		"type": "contentPage",
+		"section": "sexualHealth",
+		"name": "STI's/HIV",
+		"contentUrl": "/content/sexual-health/sti.json",
+		"displayUrl": "/sexual-health/sti",
+		"style": 4
+	},
+	{
+		"type": "contentPage",
+		"section": "sexualHealth",
+		"name": "STI's/HIV",
+		"contentUrl": "/content/sexual-health/sexuality.json",
+		"displayUrl": "/sexual-health/sexuality",
+		"style": 4
+	},
+	{
+		"type": "contentPage",
+		"section": "familyHealth",
+		"name": "Women's Health",
+		"contentUrl": "/content/community-health/womens-health.json",
+		"displayUrl": "/community-health/womens-health",
+		"style": 5
+	},
+	{
+		"type": "contentPage",
+		"section": "familyHealth",
+		"name": "Men's Health",
+		"contentUrl": "/content/community-health/mens-health.json",
+		"displayUrl": "/community-health/mens-health",
+		"style": 5
+	},
+	{
+		"type": "contentPage",
+		"section": "familyHealth",
+		"name": "Teen Health",
+		"contentUrl": "/content/community-health/teen-health.json",
+		"displayUrl": "/community-health/teen-health",
+		"style": 5
+	},
+	{
+		"type": "contentPage",
+		"section": "familyHealth",
+		"name": "Children's Health",
+		"contentUrl": "/content/community-health/childrens-health.json",
+		"displayUrl": "/community-health/childrens-health",
+		"style": 5
+	},
+	{
+		"type": "contentPage",
+		"section": "familyHealth",
+		"name": "Mental Health",
+		"contentUrl": "/content/community-health/mental-health.json",
+		"displayUrl": "/community-health/mental-health",
+		"style": 5
+	},
+	{
+		"type": "contentPage",
+		"section": "familyHealth",
+		"name": "Violence",
+		"contentUrl": "/content/community-health/violence.json",
+		"displayUrl": "/community-health/violence",
+		"style": 5
+	}
+]

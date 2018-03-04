@@ -1,0 +1,58 @@
+{
+	"arabicComplete": false,
+	"style": 1,
+	"title": {
+		"en": "Medicare and Centrelink",
+		"ar": "ميديكير و سينترلينك"
+	},
+	"summary": {
+		"en": "",
+		"ar": ""
+	},
+	"tab": [{
+			"title": {
+				"en": "How do I access health care in Australia?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>The Australian Government provides help with some medical, mental health, optometrist (eye health) and hospital costs through a program called Medicare.</li><li>The Medicare program provides free treatment as a public patient in a public hospital for Australian citizens as well as some visa card holders.</li><li>Medicare can help with some costs for private treatments by doctors and specialists such as psychologists.</li><li>It also covers some limited services by optometrists (eye health), nurse practitioners, midwives and dentists.</li><li>If you reach a Medicare Safety Net threshold, visits to your doctor or having tests may end up costing you even less.</li><li>Migrants, refugees and humanitarian entrants often have immediate access to health care under Medicare Australia.</li><li>If you are an asylum seeker, but don’t qualify for Medicare, you may be covered under IHMS insurance. Your caseworker can discuss this with you. You can also visit the Victorian Refugee Health Network for more.</li><li>To find out if you are eligible and to register with Medicare, you should go to a Medicare office with your passport, travel documents and permanent visa.</li><li>A staff member may want you to do this on a computer, you can ask for help.</li><li>If all eligibility requirements are met, you may be given a paper Medicare card number to use until your plastic card arrives in the mail in approximately three weeks. <img style=\"width: 20%;\" src=\"/img/healthcare-australia/medicare-card.png\" alt=\"Medicare card\"><br/>In many cases, you will pay for medical care first, and then receive some money back from Medicare once you put in your claim.</li><li>This can take 24 hours to process if your bank account is linked to Medicare or up to a couple of weeks if you mail your claim form in.</li></ul>",
+				"ar": ""
+			}
+		},
+		{
+			"title": {
+				"en": "Can I see a doctor for free?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li><p>Some medical clinics offer bulk billing. This means you will not have to pay for the service. The clinic may advertise this service but in case they do not, it is best to ask or look for a sign like this: <img style=\"width: 20%;\" src=\"/img/healthcare-australia/bulk-billing.png\" alt=\"Medicare Bulk Billing\"></p></li><li><p>If the doctor does not bulk bill, you will need to pay for your appointment (and treatment if you had any).</p></li><li><p>You may be able to claim some of the costs back from Medicare or your private health insurance fund, if you have one.</p></li><li><p>Medicare does not pay towards:</p><ul><li>ambulance costs;</li><li>most dental services;</li><li>Physiotherapy;</li><li>Spectacles;</li><li>Podiatry;</li><li>chiropractic services;</li><li>private hospital accommodation.</li></ul></li><li><p>You must show your Medicare card (and Centrelink Health Care Card, if you have one) when you visit your doctor.</p></li></ul><img style=\"width: 40%;\" src=\"/img/healthcare-australia/health-care-card.png\" alt=\"Health Care card\">",
+				"ar": ""
+			}
+		},
+		{
+			"title": {
+				"en": "What is a Centrelink Health Care Card?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Centrelink is the Australian government’s program for income support. You may be eligible for some financial assistance depending on your circumstances.</li><li>If you receive a Centrelink payment or earn a low income, you may be eligible for a Centrelink Health Care Card.</li><li>The card will reduce the cost of medicines and the health services: doctor, dentist and ambulance. It can also reduce the cost of an ambulance or public transport (buses, trains, trams etc.).</li><li>You need to present your Medicare card with your Centrelink Health Care Card for all basic hospital and medical treatment.</li></ul>",
+				"ar": ""
+			}
+		},
+		{
+			"title": {
+				"en": "How do I get medicine?",
+				"ar": ""
+			},
+			"text": {
+				"en": "<ul><li>Your doctor (also known as a GP) will give you a script which you take to a pharmacy, also known as a ‘chemist’.</li><li>Look for discount chemists as medication can be a lot cheaper here.</li><li>The Australian Government also helps with the cost of some medicines under the Pharmaceutical Benefits Scheme (PBS).</li><li>If you need a lot of medicine in a year, the PBS Safety Net may help you.</li><li>This means that once you’ve spent a certain amount of money on medicines a pharmacist can give you a PBS Safety Net Card and your PBS medicine will be cheaper or free for the rest of the year.</li><li>If you choose a more expensive brand of medicine, or your doctor prescribes one, you may need to pay more.</li><li>In Australia, the generic brand of medicine is as safe and effective as the more expensive brand name medicine.</li><li>For more information, please talk to your doctor or pharmacist.</li></ul>",
+				"ar": ""
+			}
+		}
+	],
+	"topLevelVideo": ["https://www.youtube.com/embed/zFah_YbVLjw", "https://www.youtube.com/embed/7uRFFoTpVRw"],
+	"notes": {
+		"en": "<h3>Resources</h3><ul><li><a href=\"https://www.dss.gov.au/our-responsibilities/settlement-services/beginning-a-life-in-australia\">Beginning a New LIfe in Australia</a></li><li><a href=\"http://docreader.readspeaker.com/docreader/?cid=brrmu&amp;lang=en_au&amp;url=https://www.dss.gov.au/sites/default/files/documents/09_2016/webready_balia_4a_120916.pdf\">Beginning a New LIfe in Australia (LISTEN)</a></li><li><a href=\"https://www.humanservices.gov.au/individuals\">Australian Government Department of Human Services Information for Individuals</a></li></ul>",
+		"ar": ""
+	}
+}
