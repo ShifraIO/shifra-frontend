@@ -1,4 +1,7 @@
+
+
 .sf-map-container {
+	padding-top: 2%;
 	width: 100vw;
 	height: 70vh;
 	display: flex;
