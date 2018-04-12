@@ -1,6 +1,6 @@
 .container-body {
   width: 100%;
-  padding-top: 180px;
+  padding-top: 130px;
   padding-bottom: 20px;
   flex: 1 0 auto;
   min-height: calc(100vh - 14rem);
@@ -25,17 +25,17 @@
 }
 
 .style-3 {
-  background-color: #FDF1F2;  
+  background-color: #FDF1F2;
 }
 
 .style-4 {
-  background-color: #FFF8EE;  
+  background-color: #FFF8EE;
 }
 
 .style-5 {
-  background-color: #EFEEF6;  
+  background-color: #EFEEF6;
 }
 
 .style-6 {
-  background-color: #FFF8EE;  
+  background-color: #FFF8EE;
 }

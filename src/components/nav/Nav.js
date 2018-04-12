@@ -1,29 +1,32 @@
 import React, { Component } from 'react';
 import './Nav.css';
 import { NavLink } from 'react-router-dom';
+import { Container, Row, Col } from 'reactstrap';
+
 // import images
-import imgHeader from '../../images/shifraLogo.png';
+import SiteLogo from '../logo/Logo';
+import Searchbar from '../searchbar/SearchBar';
+import LanguageButton from '../languageButton/languagebutton';
 
 class Nav extends Component {
-  componentDidMount() {
-    this.btnEnglish.addEventListener('click', e => e.preventDefault())
-    this.btnArabic.addEventListener('click', e => e.preventDefault())
-  }
   // remove it in componendWilluNmount
   render() {
     const lang = this.props.lang
+    const toggleLanguage = this.props.toggleLanguage
+    const style = this.props.style
+
     return (
-      <div className="nav">
-        <NavLink exact activeClassName='active' to='/'>
+        <NavLink exact activeClassName='active nav' to='/'>
           <div className={`nav-header style-${this.props.style}`}>
-            <h1 className="nav-header-title">
-              <button disabled={lang === 'en'} ref={ref => this.btnEnglish = ref} onClick={this.props.toggleLanguage} className="language-btn lang-en">English</button>
-              <button disabled={lang === 'ar'} ref={ref => this.btnArabic = ref} onClick={this.props.toggleLanguage} className="language-btn lang-ar">عربى</button>
-              <img className="image-banner" src={imgHeader} alt="Header" />
-            </h1>
+            <header className="nav-header-title">
+              <div>
+                <SiteLogo className="image-banner" alt="Header" />
+                <LanguageButton lang={lang} toggleLanguage={toggleLanguage} style={style}/>
+                <Searchbar/>
+              </div>
+            </header>
           </div>
         </NavLink>
-      </div>
     )
   }
 }

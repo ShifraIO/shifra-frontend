@@ -1,0 +1,11 @@
+.searchComponent {
+  position: relative;
+  padding-top: 10px;
+  padding-left: 150px;
+  padding-bottom: 10px;
+  padding-right: 100px;
+}
+
+.searchIcon {
+  height: 50px;
+}
