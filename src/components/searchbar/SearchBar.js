@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import './SearchBar.css';
 import searchButtonIcon from '../../images/icons/extraicons/search.png';
 import { Container, Row, Col } from 'reactstrap';
-import myData from './fake.json';
 
 export default class Searchbar extends Component {
   constructor() {
