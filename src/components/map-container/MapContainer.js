@@ -173,6 +173,20 @@ class MapContainer extends Component {
 			})
 	}
 
+	//for some reason, some results are nullified, temp fix this issue
+	removeNullMapMarkers() {
+		let max = this.state.mapMarkers.length;
+		let thisMkr = null;
+		for (let i = 0; i < max; i++) {
+			thisMkr = this.state.mapMarkers[i];
+			console.log(thisMkr);
+			if (!thisMkr) {
+				this.state.mapMarkers.splice(i, 1);
+				//--i;
+			}
+		}
+	}
+
 	render() {
 		var coords = this.state.coords
 		var zoomLevel = this.state.zoomLevel
@@ -180,9 +194,11 @@ class MapContainer extends Component {
 		var services = this.state.services
 		/*console.log(this.state)*/
 
-		this.state.mapMarkers.forEach(mkr => {
+		this.removeNullMapMarkers();
+
+		/*this.state.mapMarkers.forEach(mkr => {
 			console.log(mkr)
-		}) 
+		})*/ 
 
 		return (
 			<div className="sf-map-container">

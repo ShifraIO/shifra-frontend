@@ -13,7 +13,7 @@ class MapResult extends Component {
 	}
 
 	open(scroll) {
-		console.log('MapResult.open')
+		/*console.log('MapResult.open')*/
 		this.setState({
 			style: {
 				border: '5px dashed red'
@@ -23,7 +23,7 @@ class MapResult extends Component {
 	}
 
 	close() {
-		console.log('MapResult.close')
+		/*console.log('MapResult.close')*/
 		this.setState({
 			style: {
 				border: 'none'
