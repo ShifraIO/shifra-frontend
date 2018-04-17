@@ -1,12 +1,11 @@
 import React from 'react';
-import shifraLogo from '../../images/shifraLogo.png';
 
-class SiteLogo extends React.Component {
+class Logo extends React.Component {
   render() {
     return (
-        <img className="logo" src={shifraLogo} alt={this.props.alt} />
+        <img src={this.props.src} alt={this.props.alt} />
       );
     }
   }
 
-export default SiteLogo;
+export default Logo;

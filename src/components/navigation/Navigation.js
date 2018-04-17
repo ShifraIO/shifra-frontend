@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
-import './Nav.css';
+import './Navigation.css';
 import { NavLink } from 'react-router-dom';
 import { Container, Row, Col } from 'reactstrap';
+import shifraLogo from '../../images/shifraLogo.png';
 
 // import images
-import SiteLogo from '../logo/Logo';
+import Logo from '../logo/Logo';
 import Searchbar from '../searchbar/SearchBar';
 import LanguageButton from '../languageButton/languagebutton';
 
-class Nav extends Component {
+class Navigation extends Component {
   // remove it in componendWilluNmount
   render() {
     const lang = this.props.lang
@@ -20,7 +21,7 @@ class Nav extends Component {
           <div className={`nav-header style-${this.props.style}`}>
             <header className="nav-header-title">
               <div>
-                <SiteLogo className="image-banner" alt="Header" />
+                <Logo src={shifraLogo} alt="Header" />
                 <LanguageButton lang={lang} toggleLanguage={toggleLanguage} style={style}/>
                 <Searchbar/>
               </div>
@@ -31,4 +32,4 @@ class Nav extends Component {
   }
 }
 
-export default Nav
+export default Navigation
