@@ -226,9 +226,7 @@ class MapContainer extends Component {
 				<div className="sf-map-view">
 					<GoogleMapReact
 						bootstrapURLKeys={{
-							/* ORIGINAL -> key: "AIzaSyCBlA8RrGJKeWPM52vPQFASHZmpVCmuIdo",
-								REPLACE BELOW WITH PRODUCTION KEY */
-							key: "AIzaSyAIfJR4Epxh0pY3bhMHWteVCAnFApoki1c"
+							key: "AIzaSyDptJE8QzCZsetmJzepgvqRFWY0J0dt1bA"
 						}}
 						center={coords}
 						zoom={zoomLevel}
