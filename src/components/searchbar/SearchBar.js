@@ -2,7 +2,6 @@ import Search from 'react-search-box';
 import React, { Component } from 'react';
 import './SearchBar.css';
 import searchButtonIcon from '../../images/icons/extraicons/search.png';
-import { Container, Row, Col } from 'reactstrap';
 
 export default class Searchbar extends Component {
   constructor() {
@@ -28,21 +27,18 @@ export default class Searchbar extends Component {
 
   render() {
     return (
-      <Container fluid className="searchComponent">
-      <Row>
-        <Col lg="10">
-          <Search
-            data={ this.state.data }
-            onChange={ this.handleChange.bind(this) }
-            placeholder="Search for a string..."
-            class="search-class"
-            searchKey="full_name"/>
-        </Col>
-          <img className="searchIcon" src={searchButtonIcon} />
-        <Col>
-        </Col>
-      </Row>
-      </Container>
+      <div className="relative">
+        <Search
+          data={ this.state.data }
+          onChange={ this.handleChange.bind(this) }
+          placeholder="Search for a string..."
+          class="search-class"
+          searchKey="full_name"
+        />
+        <div className="absolute">
+        <img className="searchIcon" src={searchButtonIcon} />
+        </div>
+      </div>
     );
   }
 }

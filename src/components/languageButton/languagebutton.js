@@ -8,6 +8,7 @@ import {
   NavbarBrand,
   NavItem,
   UncontrolledDropdown} from 'reactstrap';
+  import './languagebutton.css';
 
 
 class LanguageButton extends React.Component {
@@ -19,19 +20,19 @@ class LanguageButton extends React.Component {
   render() {
     return (
       <div className="lngButton">
-            <UncontrolledDropdown>
-             <DropdownToggle caret>
-               Language
-             </DropdownToggle>
-             <DropdownMenu>
-              <DropdownItem>
-                <button disabled={this.props.lang === 'en'} ref={ref => this.btnEnglish = ref} onClick={this.props.toggleLanguage} className="language-btn lang-en">English</button>
-              </DropdownItem>
-              <DropdownItem>
-                <button disabled={this.props.lang === 'ar'} ref={ref => this.btnArabic = ref} onClick={this.props.toggleLanguage} className="language-btn lang-ar">عربى</button>
-              </DropdownItem>
-             </DropdownMenu>
-           </UncontrolledDropdown>
+        <UncontrolledDropdown direction="left">
+          <DropdownToggle caret>
+            Language
+          </DropdownToggle>
+          <DropdownMenu>
+            <DropdownItem>
+              <button disabled={this.props.lang === 'en'} ref={ref => this.btnEnglish = ref} onClick={this.props.toggleLanguage} className="language-btn lang-en">English</button>
+            </DropdownItem>
+            <DropdownItem>
+              <button disabled={this.props.lang === 'ar'} ref={ref => this.btnArabic = ref} onClick={this.props.toggleLanguage} className="language-btn lang-ar">عربى</button>
+            </DropdownItem>
+          </DropdownMenu>
+        </UncontrolledDropdown>
       </div>
       );
     }
