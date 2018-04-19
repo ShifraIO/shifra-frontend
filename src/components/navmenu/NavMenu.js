@@ -27,7 +27,7 @@ class NavMenu extends Component {
           icon: iconFamilyPlanning,
           name: {
             en: 'Family Planning',
-            ar: 'تنظيم الأسرة' 
+            ar: 'تنظيم الأسرة'
           },
           url: '/family-planning'
         },
@@ -35,7 +35,7 @@ class NavMenu extends Component {
           icon: iconPregnancy,
           name: {
             en: 'Pregnancy and Newborn',
-            ar: 'الحمل وحديثي الولادة' 
+            ar: 'الحمل وحديثي الولادة'
           },
           url: '/pregnancy-newborn'
         },
@@ -43,7 +43,7 @@ class NavMenu extends Component {
           icon: iconSexualHealth,
           name: {
             en: 'Sexual Health',
-            ar: 'الحياة الجنسية' 
+            ar: 'الحياة الجنسية'
           },
           url: '/sexual-health'
         },
@@ -95,10 +95,10 @@ class NavMenu extends Component {
                 </div>
               </Link>
             )
-          })}            
+          })}
         </div>
 
-        {this.state.menu && 
+        {this.state.menu &&
           <div className="mobile-menu">
              {this.state.menuItems.map((item, index) => {
               return (
@@ -109,7 +109,7 @@ class NavMenu extends Component {
                   </div>
                 </Link>
               )
-            })} 
+            })}
         </div>}
       </div>
     )

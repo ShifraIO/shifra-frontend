@@ -1,0 +1,13 @@
+div.relative {
+    position: relative;
+    padding-top: 80px;
+    padding-left: 150px;
+    padding-bottom: 20px;
+    width: 1265px;
+}
+
+div.absolute {
+    position: absolute;
+    top: 72px;
+    left: 1270px;
+}

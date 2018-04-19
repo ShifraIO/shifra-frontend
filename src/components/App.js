@@ -5,7 +5,7 @@ import FamilyPlanning from '../pages/family-planning/FamilyPlanning'
 import FamilyHealth from '../pages/family-health/FamilyHealth'
 import PregnancyNewborn from '../pages/pregnancy-newborn/PregnancyNewborn'
 import SexualHealth from '../pages/sexual-health/SexualHealth'
-import Nav from './nav/Nav'
+import Navigation from './navigation/Navigation'
 import NavMenu from './navmenu/NavMenu'
 import Footer from './footer/Footer'
 import MapContainer from './map-container/MapContainer'
@@ -54,7 +54,7 @@ class App extends Component {
     this.toggleLanguage = this.toggleLanguage.bind(this)
 		this.changeStyle = this.changeStyle.bind(this)
 	}
-	
+
 	getRoutes() {
 		// get data from JSON
     axios.get('/content/routes.json')
@@ -87,7 +87,7 @@ class App extends Component {
     return (
       <Router onUpdate={this.logPageView}>
         <div>
-          <Nav lang={this.state.lang} toggleLanguage={this.toggleLanguage} style={this.state.style}/>
+          <Navigation lang={this.state.lang} toggleLanguage={this.toggleLanguage} style={this.state.style}/>
           <NavMenu lang={this.state.lang} />
           <div className={`container-body style-${this.state.style}`}>
             <Switch>
@@ -100,7 +100,7 @@ class App extends Component {
 										component={(props) => <ContentPageContainer {...props} filePath={route.contentUrl} lang={this.state.lang} changeStyle={this.changeStyle} style={route.style} />} />
 								)
 							})}
-							
+
 							<Route
                 exact path='/healthcare-australia'
                 component={(props) => <HealthcareAustralia {...props}
