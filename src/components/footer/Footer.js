@@ -3,6 +3,11 @@ import { Link } from 'react-router-dom'
 import { SocialIcon } from 'react-social-icons';
 import IoPhone from 'react-icons/lib/io/ios-telephone-outline';
 import './Footer.css'
+import Logo from "../logo/Logo";
+import swinburneLogo from "../../images/swinburne.png";
+import monashLogo from "../../images/monash.png";
+import ygapLogo from "../../images/ygap.png";
+import gcgLogo from "../../images/gcgmonash.png";
 
 class Footer extends Component {
 
@@ -31,6 +36,15 @@ class Footer extends Component {
               {/* <li><SocialIcon url="https://twitter.com/mAdapt_app" network="twitter" color="white" style={{ height:23, width:23 }}/></li>
               <li><SocialIcon url="https://www.youtube.com/watch?v=fOcwWc9X8v4" network="youtube" color="white" style={{ height:23, width:23 }}/></li> */}
               <li><SocialIcon url="https://www.instagram.com/Shifra_au/" network="instagram" color="white" style={{ height:23, width:23 }}/></li>
+            </ul>
+          </div>
+
+          <div className="footerItem2">
+            <ul className="footerLogos">
+              <li><Logo src={swinburneLogo} alt="Swinburne Logo" /></li>
+              <li><Logo src={ygapLogo} alt="YGAP Logo" /></li>
+              <li><Logo src={monashLogo} alt="Monash Logo" /></li>
+              <li><Logo src={gcgLogo} alt="GCG Logo" /></li>
             </ul>
           </div>
 
