@@ -1,158 +1,142 @@
-.item {
-  display: inline-block;
-  width: calc(100% / 6);
-  text-align: center;
-  text-overflow: ellipsis;
-  word-wrap: normal;
-  white-space: nowrap;
-  color: white;
-}
-
-.menu :hover .item-overhang {
-  display: block;
-}
-
-.item .item-text {
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-  height: 40%;
-  margin-top: 0.5em;
-  padding-top: 0.5em;
-}
-
-.mobile-item {
-  padding-top: 0.35em;
-  display: block;
+.nav-menu {
+  padding: 2px;
+  display: flex;
   width: 100%;
-  text-align: center;
-  text-overflow: ellipsis;
-  word-wrap: normal;
-  white-space: nowrap;
+}
+
+@media only screen and (max-width: 768px) {
+  .nav-menu {
+    flex-direction: column;
+  }
+}
+
+.nav-menu_1 {
+  background: #f6faf4;
+}
+
+.nav-menu_2 {
+  background: #f2fbfd;
+}
+
+.nav-menu_3 {
+  background: #fdf1f2;
+}
+
+.nav-menu_4 {
+  background: #fff8ee;
+}
+
+.nav-menu_5 {
+  background: #efeef6;
+}
+
+.nav-menu_6 {
+  background: #fff8ee;
+}
+
+.nav-menu_item {
+  box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease-out;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  margin: 3px;
+}
+
+.nav-menu_item_hidden {
+  display: none;
+}
+
+.nav-menu_item:hover {
+  transform: scale(1.02);
+  text-decoration: none;
   color: white;
 }
 
-.item-1 {
-  background-color: #A9D192;
+.nav-menu_item:active {
+  box-shadow: inset 1px 2px 3px 0 rgba(0, 0, 0, 0.15);
 }
 
-.item-2 {
-  background-color: #86D3EC;
+.nav-menu_item_1 {
+  background-color: #a9d192;
 }
 
-.item-3 {
-  background-color: #EE7B83;
+.nav-menu_item_2 {
+  background-color: #86d3ec;
 }
 
-.item-4 {
+.nav-menu_item_3 {
+  background-color: #ee7b83;
+}
+
+.nav-menu_item_4 {
   background-color: #fdb83d;
 }
 
-.item-5 {
-  background-color: #AEAACF;
+.nav-menu_item_5 {
+  background-color: #aeaacf;
 }
 
-.item-6 {
-  background-color: #B95C66;
+.nav-menu_item_6 {
+  background-color: #b95c66;
 }
 
-@media screen and (min-width: 600px) {
-  .item {
-    border-bottom: 0;
-    height: 8rem;
-    padding-top: 5px;
-  }
-  .mobile-menu {
-    display: none;
-  }
-  .toggleMenu {
-    display: none;
-  }
-  .menu {
-    display: block;
-    position: absolute;
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .menu {
-    display: none;
-  }
-  .toggleMenu {
-    width: 100%;
-    margin-top: 70px;
-    border: none;
-    background-color: darkslategrey;
-    color: white;
-    font-weight: 600;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
-
-  .toggleMenuButton {
-    background-color: darkslategrey;
-    border: none;
-    margin: 0.3rem 1rem 0.3rem 0.3rem;
-    width: 4rem;
-    transition: all 0.2s;
-  }
-
-  .rotate {
-    transform: rotate(90deg);
-  }
-
-  .toggleMenuButton:hover {
-     background-color: rgba(0,0,0,0.2);
-  }
-
-  .bar {
-    width: 100%;
-    margin: 6px 0 6px 0;
-    background-color: white;
-    border: 150px solid white;
-    border-radius: 2px;
-    text-align: center;
-  }
-
-  .mobile-item {
-    display: block;
-		height: 8rem;
-		padding-top: 2.5rem;
-	}
-
-	.mobile-item > p {
-		margin: 0;
-	}
-
-  .item-text {
-    display: inline-block;
-    vertical-align: middle;
-	}
-
-  .icon {
-    height: 80%;
-  }
-
-}
-
-.icon {
-  height: 50%;
-  padding-right: 5px;
-}
-
-a {
-  text-decoration-line: none !important;
-}
-
-.item-overhang {
-  display: none;
-  margin-top: 5px;
-  height: 8px;
-  background-color: inherit;
-}
-
-.menuWrapper {
+.nav-menu_content-wrapper {
   display: flex;
+  flex: 1;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-menu_icon {
+  flex: 1;
+  max-height: 65px;
+}
+
+.nav-menu_text {
+  flex: 1;
+  font-weight: 600;
+  text-align: center;
+}
+
+.menu-toggle {
+  box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease-out;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  margin: 3px;
+  background: #454547;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+}
+
+.menu-toggle:hover {
+  transform: scale(1.02);
+  text-decoration: none;
+  color: white;
+}
+
+.menu-toggle:active {
+  box-shadow: inset 1px 2px 3px 0 rgba(0, 0, 0, 0.15);
+}
+
+.menu-toggle:focus {
+  outline: none;
+}
+
+@media only screen and (min-width: 769px) {
+  .menu-toggle {
+    display: none;
+  }
 }
