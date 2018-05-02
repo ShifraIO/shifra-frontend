@@ -12,6 +12,8 @@ import MapContainer from './map-container/MapContainer'
 import axios from 'axios'
 import './App.css';
 
+import PrivacyPolicy from './privacy-policy/PrivacyPolicy';
+
 var ReactRouter = require('react-router-dom');
 var Router = ReactRouter.BrowserRouter;
 var Route = ReactRouter.Route;
@@ -107,36 +109,47 @@ class App extends Component {
                 lang={this.state.lang}
                 changeStyle={this.changeStyle}
 								theme={1} />} />
+
 							<Route
                 exact path='/family-planning'
                 component={(props) => <FamilyPlanning {...props}
                 lang={this.state.lang}
                 changeStyle={this.changeStyle}
 								theme={2} />} />
+
 							<Route
                 exact path='/pregnancy-newborn'
                 component={(props) => <PregnancyNewborn {...props}
                 lang={this.state.lang}
                 changeStyle={this.changeStyle}
 								theme={3} />} />
+
 							<Route
                 exact path='/sexual-health'
                 component={(props) => <SexualHealth {...props}
                 lang={this.state.lang}
                 changeStyle={this.changeStyle}
 								theme={4} />} />
+
 							<Route
                 exact path='/community-health'
                 component={(props) => <FamilyHealth {...props}
                 lang={this.state.lang}
                 changeStyle={this.changeStyle}
 								theme={5} />} />
+
 							<Route
                 exact path='/clinics'
                 component={(props) => <MapContainer {...props} />} />
+
+              <Route 
+                exact path='/privacy'
+                component={(props) => <PrivacyPolicy />} />
+
               <Route render={function() {
                 return <p>Not Found</p>
               }} />
+
             </Switch>
           </div>
           <Footer lang={this.state.lang}></Footer>
