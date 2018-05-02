@@ -176,7 +176,14 @@ class App extends Component {
               <Route
                 exact
                 path="/clinics"
-                component={props => <MapContainer {...props} />}
+                component={props => (
+                  <MapContainer
+                    {...props}
+                    lang={this.state.lang}
+                    changeStyle={this.changeStyle}
+                    theme={6}
+                  />
+                )}
               />
               <Route
                 render={function() {
