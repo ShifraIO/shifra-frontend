@@ -13,6 +13,7 @@ import axios from 'axios'
 import './App.css';
 
 import PrivacyPolicy from './privacy-policy/PrivacyPolicy';
+import TermsOfUse from './terms-of-use/TermsOfUse';
 
 var ReactRouter = require('react-router-dom');
 var Router = ReactRouter.BrowserRouter;
@@ -145,6 +146,10 @@ class App extends Component {
               <Route 
                 exact path='/privacy'
                 component={(props) => <PrivacyPolicy />} />
+
+              <Route 
+                exact path='/termsofuse'
+                component={(props) => <TermsOfUse />} />
 
               <Route render={function() {
                 return <p>Not Found</p>
