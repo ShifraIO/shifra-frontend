@@ -23,6 +23,7 @@ class Footer extends Component {
               <li><a href="http://www.madapt.org/contact/">Contact</a></li>
 
               <li><a href="/privacy">Privacy Policy</a></li>
+              <li><a href="/termsofuse">Terms of Use</a></li>
             </ul>
           </div>
 
