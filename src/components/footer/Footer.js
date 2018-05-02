@@ -21,6 +21,8 @@ class Footer extends Component {
               <li><Link to="/about">About Shifra</Link></li>
               {/* <li><a>All Topics</a></li> */}
               <li><a href="http://www.madapt.org/contact/">Contact</a></li>
+
+              <li><a href="/privacy">Privacy Policy</a></li>
             </ul>
           </div>
 
