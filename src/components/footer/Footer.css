@@ -34,6 +34,19 @@
   padding: 5px;
 }
 
+.footerItem2 {
+}
+
+.footerLogos{
+  margin: auto;
+  width: 71%;
+}
+
+.footerLogos li{
+  float: left;
+  padding-bottom: 10px;
+}
+
 .footerItem a{
   font-size: 12px;
 }
