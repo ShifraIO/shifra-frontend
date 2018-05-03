@@ -1,0 +1,47 @@
+.language-selector {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.language-selector_button {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 2px;
+  max-width: 100px;
+  min-width: 75px;
+
+  color: white;
+  background: #2f444e;
+
+  font-family: arial;
+  font-size: 18px;
+  letter-spacing: 1px;
+
+  border: none;
+  border-radius: 10px;
+
+  transition: all 0.1s ease-in-out;
+  cursor: pointer;
+}
+
+.language-selector_button:hover {
+  background: #436170;
+}
+
+.language-selector_button:active {
+  transform: scale(1.025);
+}
+
+.language-selector_button:focus {
+  outline: 0;
+}
+
+.language-selector_button:disabled {
+  opacity: 0.3;
+}
