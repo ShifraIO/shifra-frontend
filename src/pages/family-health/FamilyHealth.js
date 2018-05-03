@@ -35,7 +35,7 @@ class FamilyHealth extends Component {
           theme: this.props.theme,
           titleText: {
             'en': 'Teen Health',
-            'ar': 'صحة الأطفال' 
+            'ar': 'صحة الأطفال'
           },
           linkUrl: '/community-health/teen-health'
         },
@@ -53,7 +53,7 @@ class FamilyHealth extends Component {
           theme: this.props.theme,
           titleText: {
             'en': 'Mental Health',
-            'ar': 'الصحة العقلية' 
+            'ar': 'الصحة العقلية'
           },
           linkUrl: '/community-health/mental-health'
         },
@@ -62,7 +62,7 @@ class FamilyHealth extends Component {
           theme: this.props.theme,
           titleText: {
             'en': 'Violence',
-            'ar': 'العنف' 
+            'ar': 'العنف'
           },
           linkUrl: '/community-health/violence'
         }

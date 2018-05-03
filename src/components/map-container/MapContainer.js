@@ -187,6 +187,10 @@ class MapContainer extends Component {
 		}
 	}
 
+	componentDidMount() {
+		this.props.changeStyle(6);
+	}
+
 	render() {
 		var coords = this.state.coords
 		var zoomLevel = this.state.zoomLevel
@@ -198,7 +202,7 @@ class MapContainer extends Component {
 
 		/*this.state.mapMarkers.forEach(mkr => {
 			console.log(mkr)
-		})*/ 
+		})*/
 
 		return (
 			<div className="sf-map-container">
