@@ -1,12 +1,12 @@
 # Shifra Web App ( Front End )
 
-[![Build Status](https://travis-ci.org/RHoKAustralia/madapt-react-frontend.svg?branch=master)](https://travis-ci.org/RHoKAustralia/madapt-react-frontend)
+[![Build Status](https://api.travis-ci.org/ShifraIO/shifra-frontend.svg?branch=master)](https://travis-ci.org/ShifraIO/shifra-frontend)
 
 ## About
 
 ### ShifraIO
 
-[ShifraIO](http://shifra.io/) will use mobile technology to provide refugees with information concerning their most pressing reproductive health needs.
+[ShifraIO][urlMaster] will use mobile technology to provide refugees with information concerning their most pressing reproductive health needs.
 
 mAdapt will also collect anonymous data that can help inform service delivery and policy development by mapping what services are being sought, in what region, and how often.
 
@@ -20,8 +20,15 @@ This repository contains the code for the web app front end written in React usi
 
 Continuous integration and deployment are provided through [Travis CI](https://travis-ci.org/). This happens automatically through the [.travis.yml](.travis.yml) file.
 
-This has anonymised Amazon Web Services credentials -- do not change these.
+Travis currently runs tests, compiles down to optimised JS, and sends these to an S3 bucket.
 
-Travis currently runs tests, compiles down to optimised JS, and sends these to a public S3 bucket. The deployed site can then be accessed [here](http://madapt.s3-website-ap-southeast-2.amazonaws.com/).
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) branching model is used in this project. And only two branches (master and develop) are deployed. If a push was made in the develop branch, only the develop branch is built and deployed; This statement can also be said about the master branch. The branch will not deploy if it does not build, so check `npm run build` locally and fix any errors before merging a hotfix or feature branch to develop or master.
 
-Only master is built and deployed. It will not deploy if it does not build, so check `npm run build` locally and fix any errors before merging to master.
+The deployed website for both the master branch and the develop branch can be viewed in links provided in the table below.
+
+| Master                         | Develop                    |
+| -------------                  |:-------------:             |
+| [Website Link][urlMaster]      | [Website Link][urlDevelop] |
+
+[urlMaster]: http://shifra.io/
+[urlDevelop]:http://shifra-frontend-develop.s3-website-ap-southeast-2.amazonaws.com
