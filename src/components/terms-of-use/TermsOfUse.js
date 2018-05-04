@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import "./TermsOfUse.css";
 
 export default class TermsOfUse extends React.Component {
 
 	render () {
 		return (
-		<div>
+		<div className={"tou-container"}>
 			<h1>Terms of Use</h1>
 
 			<p>
