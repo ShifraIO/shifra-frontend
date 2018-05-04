@@ -1,13 +1,14 @@
 import React, {Component} from 'react';
 
-export default class PrivacyPolicy extends React.Component {
+import "./PrivacyPolicy.css";
 
+export default class PrivacyPolicy extends React.Component {
 	render () {
 		return (
-		<div>
+		<div className={'privacy-policy-container'}>
 			<h1>Privacy Policy</h1>
 			<p>
-				This Privacy Policy pertains to the website(s) hosted by Shifra ("Shifra"), <strong>ABN: a company headquartered</strong>. This includes www.shifra.io and additional produced and managed websites by Shifra (together, the "Site").
+				This Privacy Policy pertains to the website(s) hosted by Shifra ("Shifra"), ABN: 90 794 036 744. This includes www.shifra.io and additional produced and managed websites by Shifra (together, the "Site").
 				Shifra reserves the right, at its sole discretion, to alter and update this Privacy Policy from time to time; therefore, we urge visitors to our Site to review the current version of the Privacy Policy each time they return to our Site. The date of the more recent update is reflected at the bottom of this document.
 			</p>
 			<p>
