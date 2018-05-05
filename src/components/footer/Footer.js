@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import { SocialIcon } from 'react-social-icons';
 import IoPhone from 'react-icons/lib/io/ios-telephone-outline';
 import './Footer.css'
-import Logo from "../logo/Logo";
 import swinburneLogo from "../../images/swinburne.png";
 import monashLogo from "../../images/monash.png";
 import ygapLogo from "../../images/ygap.png";
@@ -39,13 +38,19 @@ class Footer extends Component {
             </ul>
           </div>
 
-          <div className="footerItem2">
-            <ul className="footerLogos">
-              <li><Logo src={swinburneLogo} alt="Swinburne Logo" /></li>
-              <li><Logo src={ygapLogo} alt="YGAP Logo" /></li>
-              <li><Logo src={monashLogo} alt="Monash Logo" /></li>
-              <li><Logo src={gcgLogo} alt="GCG Logo" /></li>
-            </ul>
+          <div className="banner">
+            <div className="inline-block">
+              <img src={swinburneLogo} alt="Swinburne Logo"/>
+            </div>
+            <div className="inline-block">
+              <img src={ygapLogo} slt="YGAP Logo"/>
+            </div>
+            <div className="inline-block">
+              <img src={monashLogo} alt="Monash Logo"/>
+            </div>
+            <div className="inline-block">
+              <img src={gcgLogo} alt="GCG Logo"/>
+            </div>
           </div>
 
           <div className="footerCopyright footerItem">
