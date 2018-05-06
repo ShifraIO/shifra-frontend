@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import "./NavMenu.css";
-import MediaQuery from 'react-responsive';
 
 import iconAccess from "../../images/icons/access/access.png";
 import iconFamilyPlanning from "../../images/icons/familyplanning/family-planning.png";
