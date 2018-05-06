@@ -14,6 +14,7 @@ class NavMenu extends Component {
     super(props);
     // State
     this.state = {
+      windowWidth: window.innerWidth,
       menu: true,
       menuItems: [
         {
@@ -82,6 +83,19 @@ class NavMenu extends Component {
     return !this.state.menu ? "nav-menu_item_hidden" : "";
   }
 
+  handleResize() {
+  this.setState({windowWidth: window.innerWidth});
+  }
+
+  componentDidMount() {
+    this.handleResize();
+    window.addEventListener('resize', this.handleResize.bind(this));
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.handleResize.bind(this));
+  }
+
   buildMenuItem(index, item, selectedLanguage) {
     return (
       <Link
@@ -107,14 +121,21 @@ class NavMenu extends Component {
   render() {
     let lang = this.props.lang;
     let style = this.props.style;
-    return (
+
+    if(this.state.windowWidth < 768) {
+      return (
       <div className={`nav-menu nav-menu_${style}`} onClick={this.showMenu}>
         <button className="menu-toggle" onClick={this.toggleMenu}>
           {this.getHideShowText(this.state.menu)}
         </button>
-        {this.mapMenuItems(this.state.menuItems, lang)}
+        <span className="inline" onClick={this.toggleMenu}>{this.mapMenuItems(this.state.menuItems, lang)}</span>
       </div>
-    );
+    );}
+    return (
+    <div className={`nav-menu nav-menu_${style}`}>
+      <span className="inline">{this.mapMenuItems(this.state.menuItems, lang)}</span>
+    </div>
+  );
   }
 }
 
