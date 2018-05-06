@@ -4,10 +4,22 @@
   width: 100%;
 }
 
+.inline{
+  display: flex;
+  width: 100%;
+}
+
 @media only screen and (max-width: 768px) {
   .nav-menu {
     flex-direction: column;
   }
+
+  .inline{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+
 }
 
 .nav-menu_1 {
