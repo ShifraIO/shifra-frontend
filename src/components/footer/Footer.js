@@ -1,8 +1,12 @@
-import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import { SocialIcon } from "react-social-icons";
-import IoPhone from "react-icons/lib/io/ios-telephone-outline";
-import "./Footer.css";
+import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
+import { SocialIcon } from 'react-social-icons';
+import IoPhone from 'react-icons/lib/io/ios-telephone-outline';
+import './Footer.css'
+import swinburneLogo from "../../images/swinburne.png";
+import monashLogo from "../../images/monash.png";
+import ygapLogo from "../../images/ygap.png";
+import gcgLogo from "../../images/gcgmonash.png";
 
 class Footer extends Component {
   render() {
@@ -31,9 +35,10 @@ class Footer extends Component {
                 <Link to="/about">About Shifra</Link>
               </li>
               {/* <li><a>All Topics</a></li> */}
-              <li>
-                <a href="mailto:info@shifra.io">Contact</a>
-              </li>
+              <li><a href="http://www.madapt.org/contact/">Contact</a></li>
+
+              <li><a href="/privacy">Privacy Policy</a></li>
+              <li><a href="/termsofuse">Terms of Use</a></li>
             </ul>
           </div>
 
@@ -59,6 +64,21 @@ class Footer extends Component {
                 />
               </li>
             </ul>
+          </div>
+
+          <div className="banner">
+            <div className="inline-block">
+              <img src={swinburneLogo} alt="Swinburne Logo"/>
+            </div>
+            <div className="inline-block">
+              <img src={ygapLogo} slt="YGAP Logo"/>
+            </div>
+            <div className="inline-block">
+              <img src={monashLogo} alt="Monash Logo"/>
+            </div>
+            <div className="inline-block">
+              <img src={gcgLogo} alt="GCG Logo"/>
+            </div>
           </div>
 
           <div className="footerCopyright footerItem">

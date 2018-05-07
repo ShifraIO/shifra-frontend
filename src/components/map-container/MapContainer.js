@@ -54,7 +54,6 @@ class MapContainer extends Component {
 	getResults(e) {
 		if (e.key === 'Enter') {
 			const postcode = e.target.value
-			console.log(`${postcode} entered`)
 			this.makeSearchRequest(postcode)
 		}
 	}
@@ -68,7 +67,6 @@ class MapContainer extends Component {
 
 	onServicesChange(e) {
 		const type = e.target.dataset.type
-		console.log(type)
 		const checked = e.target.checked
 		const state = this.state
 
@@ -98,7 +96,6 @@ class MapContainer extends Component {
 		Object.keys(this.state.services).forEach(service => {
 			if (this.state.services[service]) this.makeSearchRequest(postcode, service)
 		})
-		console.log(this.state)
 	}
 
 	parseStreetAddress(location) {
@@ -107,7 +104,7 @@ class MapContainer extends Component {
 	}
 
 	onMarkerClick(idx) {
-		console.log(`onMarkerClick ${idx}`)
+		/*console.log(`onMarkerClick ${idx}`)*/
 		this.state.resultContainers.forEach(cont => {
 			if (cont && typeof cont.close === 'function') cont.close()
 		})
@@ -142,7 +139,6 @@ class MapContainer extends Component {
 	}
 
 	makeSearchRequest(postcode, service) {
-		console.log(service)
 		var baseUrl = 'https://api.serviceseeker.com.au'
 		var endpoint = '/api/v3/search'
 		var url = baseUrl + endpoint
@@ -160,11 +156,11 @@ class MapContainer extends Component {
 		}
 		axios(config)
 			.then(res => {
-				console.log(res.data)
 				res.data.objects && this.setState(prevState => {
 					res.data.objects.map(obj => {
 						return obj['marker_type'] = service
 					})
+
 					return {
 						results: res.data.objects.concat(prevState.results),
 						coords: {
@@ -177,12 +173,37 @@ class MapContainer extends Component {
 			})
 	}
 
+	//for some reason, some results are nullified, temp fix this issue
+	removeNullMapMarkers() {
+		let max = this.state.mapMarkers.length;
+		let thisMkr = null;
+		for (let i = 0; i < max; i++) {
+			thisMkr = this.state.mapMarkers[i];
+			console.log(thisMkr);
+			if (!thisMkr) {
+				this.state.mapMarkers.splice(i, 1);
+				//--i;
+			}
+		}
+	}
+
+	componentDidMount() {
+		this.props.changeStyle(6);
+	}
+
 	render() {
 		var coords = this.state.coords
 		var zoomLevel = this.state.zoomLevel
 		var results = this.state.results
 		var services = this.state.services
-		console.log(this.state)
+		/*console.log(this.state)*/
+
+		this.removeNullMapMarkers();
+
+		/*this.state.mapMarkers.forEach(mkr => {
+			console.log(mkr)
+		})*/
+
 		return (
 			<div className="sf-map-container">
 				<div className="sf-map-sidebar">
@@ -209,7 +230,7 @@ class MapContainer extends Component {
 				<div className="sf-map-view">
 					<GoogleMapReact
 						bootstrapURLKeys={{
-							key: "AIzaSyCBlA8RrGJKeWPM52vPQFASHZmpVCmuIdo",
+							key: "AIzaSyDptJE8QzCZsetmJzepgvqRFWY0J0dt1bA"
 						}}
 						center={coords}
 						zoom={zoomLevel}

@@ -34,6 +34,28 @@
   padding: 5px;
 }
 
+.banner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 100px;
+}
+
+.inline-block img{
+  width: 71%;
+  height: 60px;
+}
+
+/* .footerLogos{
+  margin: auto;
+  width: 71%;
+}
+
+.footerLogos li{
+  float: left;
+  padding-bottom: 10px;
+} */
+
 .footerItem a{
   font-size: 12px;
 }
@@ -73,6 +95,50 @@
   display: inline-block;
   padding: 0px 5px;
 }
+
+/* @media screen and (min-width: 300px) {
+  .banner{
+    display: block;
+    padding-left: 30%;
+    padding-bottom: 5px;
+  }
+
+  .inline-block img{
+    width: 50%;
+    height: auto;
+    padding-bottom: 5px;
+  }
+} */
+
+@media screen and (min-width: 300px) {
+  .banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 5%;
+    padding-bottom: 10px;
+  }
+
+  .inline-block img{
+    width: 90%;
+    height: auto;
+  }
+}
+
+/* @media screen and (min-width: 600px) {
+  .banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 5%;
+    padding-bottom: 10px;
+  }
+
+  .inline-block img{
+    width: 90%;
+    height: auto;
+  }
+} */
 
 @media screen and (max-width: 600px) {
 	.footerEmergencyBanner a {
