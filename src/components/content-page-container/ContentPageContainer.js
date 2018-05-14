@@ -23,7 +23,7 @@ class ContentPageContainer extends Component {
 		this.props.changeStyle(this.props.style)
 		global.logUserLocation()
   }
-  
+
   getData() {
     // get data from JSON
     axios.get(this.props.filePath)
@@ -39,7 +39,7 @@ class ContentPageContainer extends Component {
     const localisedData = data[lang] ? data[lang] : data['en']
     return localisedData
   }
-  
+
   getTabs() {
     var data = this.state.data.tab
     return data.map((item, index) => ({
