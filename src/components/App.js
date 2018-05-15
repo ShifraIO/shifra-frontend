@@ -11,8 +11,10 @@ import Footer from "./footer/Footer";
 import MapContainer from "./map-container/MapContainer";
 import axios from "axios";
 import "./App.css";
+import PrivacyPolicy from './privacy-policy/PrivacyPolicy';
+import TermsOfUse from './terms-of-use/TermsOfUse';
 
-var ReactRouter = require("react-router-dom");
+var ReactRouter = require('react-router-dom');
 var Router = ReactRouter.BrowserRouter;
 var Route = ReactRouter.Route;
 var Switch = ReactRouter.Switch;
@@ -113,83 +115,65 @@ class App extends Component {
                   );
                 })}
 
-              <Route
-                exact
-                path="/healthcare-australia"
-                component={props => (
-                  <HealthcareAustralia
-                    {...props}
-                    lang={this.state.lang}
-                    changeStyle={this.changeStyle}
-                    theme={1}
-                  />
-                )}
-              />
-              <Route
-                exact
-                path="/family-planning"
-                component={props => (
-                  <FamilyPlanning
-                    {...props}
-                    lang={this.state.lang}
-                    changeStyle={this.changeStyle}
-                    theme={2}
-                  />
-                )}
-              />
-              <Route
-                exact
-                path="/pregnancy-newborn"
-                component={props => (
-                  <PregnancyNewborn
-                    {...props}
-                    lang={this.state.lang}
-                    changeStyle={this.changeStyle}
-                    theme={3}
-                  />
-                )}
-              />
-              <Route
-                exact
-                path="/sexual-health"
-                component={props => (
-                  <SexualHealth
-                    {...props}
-                    lang={this.state.lang}
-                    changeStyle={this.changeStyle}
-                    theme={4}
-                  />
-                )}
-              />
-              <Route
-                exact
-                path="/community-health"
-                component={props => (
-                  <FamilyHealth
-                    {...props}
-                    lang={this.state.lang}
-                    changeStyle={this.changeStyle}
-                    theme={5}
-                  />
-                )}
-              />
-              <Route
-                exact
-                path="/clinics"
-                component={props => (
-                  <MapContainer
-                    {...props}
-                    lang={this.state.lang}
-                    changeStyle={this.changeStyle}
-                    theme={6}
-                  />
-                )}
-              />
-              <Route
-                render={function() {
-                  return <p>Not Found</p>;
-                }}
-              />
+							{routes && routes.map((route, index) => {
+								return (
+									<Route
+										key={index}
+										exact path={route.displayUrl}
+										component={(props) => <ContentPageContainer {...props} filePath={route.contentUrl} lang={this.state.lang} changeStyle={this.changeStyle} style={route.style} />} />
+								)
+							})}
+							
+							<Route
+                exact path='/healthcare-australia'
+                component={(props) => <HealthcareAustralia {...props}
+                lang={this.state.lang}
+                changeStyle={this.changeStyle}
+								theme={1} />} />
+
+							<Route
+                exact path='/family-planning'
+                component={(props) => <FamilyPlanning {...props}
+                lang={this.state.lang}
+                changeStyle={this.changeStyle}
+								theme={2} />} />
+
+							<Route
+                exact path='/pregnancy-newborn'
+                component={(props) => <PregnancyNewborn {...props}
+                lang={this.state.lang}
+                changeStyle={this.changeStyle}
+								theme={3} />} />
+
+							<Route
+                exact path='/sexual-health'
+                component={(props) => <SexualHealth {...props}
+                lang={this.state.lang}
+                changeStyle={this.changeStyle}
+								theme={4} />} />
+
+							<Route
+                exact path='/community-health'
+                component={(props) => <FamilyHealth {...props}
+                lang={this.state.lang}
+                changeStyle={this.changeStyle}
+								theme={5} />} />
+
+							<Route
+                exact path='/clinics'
+                component={(props) => <MapContainer {...props} />} />
+
+              <Route 
+                exact path='/privacy'
+                component={(props) => <PrivacyPolicy />} />
+
+              <Route 
+                exact path='/termsofuse'
+                component={(props) => <TermsOfUse />} />
+
+              <Route render={function() {
+                return <p>Not Found</p>
+              }} />
             </Switch>
           </div>
           <Footer lang={this.state.lang} />
