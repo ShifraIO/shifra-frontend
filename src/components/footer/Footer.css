@@ -71,7 +71,7 @@
   padding: 0px 5px;
   width: 100%;
   text-align: center;
-  margin-right: -168px;
+  margin-right: -78px;
 }
 
 .footer ul {
@@ -97,8 +97,7 @@
 }
 
 .footerIcons li {
-  display: inline-block;
-  padding: 0px 5px;
+  padding: 5px 5px;
 }
 
 @media screen and (min-width: 300px){
