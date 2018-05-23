@@ -32,9 +32,7 @@ class Footer extends Component {
         <div className="footerCore">
           <div className="footerItem">
             <ul>
-              <li>
-                <Link to="/about">About Shifra</Link>
-              </li>
+              <li className="focusItem"><Link to="/about">About Shifra</Link></li>
               {/* <li><a>All Topics</a></li> */}
               <li><a href="mailto:info@shifra.io">Contact</a></li>
 
@@ -84,7 +82,6 @@ class Footer extends Component {
 
           <div className="footerCopyright footerItem">
             <p>&copy; 2017 Shifra. All rights reserved.</p>
-            <p style={lang === 'en' ? {direction: 'ltr', textAlign: 'left'} : {direction: 'rtl'}} className="disclaimer">{lang === 'en' ? 'This website and the resources to which it refers are intended to provide educational and general information only. They do not provide comprehensive medical or legal advice. Please seek specific medical or legal advice in relation to individual circumstances. Shifra accepts no responsibility or legal liability for reliance on the information contained on this site, or other sites to which this site links.' : 'ويهدف هذا الموقع والموارد التي يشير إليها إلى توفير المعلومات التعليمية والعامة فقط. وهي لا تقدم المشورة الطبية أو القانونية الشاملة. يرجى طلب المشورة الطبية أو القانونية المحددة فيما يتعلق بالظروف الفردية. Shifra لا تتحمل أي مسؤولية أو مسؤولية قانونية عن الاعتماد على المعلومات الواردة في هذا الموقع، أو المواقع الأخرى التي يرتبط بها هذا الموقع.'}</p>
             <p
               style={
                 lang === "en"
