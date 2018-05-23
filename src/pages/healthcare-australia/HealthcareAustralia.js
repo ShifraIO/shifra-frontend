@@ -72,7 +72,7 @@ class HealthcareAustralia extends Component {
           theme: this.props.theme,
           titleText: {
             'en': 'Translating and Interpreting Services',
-            'ar': ''
+            'ar': 'ترجمة وخدمات الترجمة'
           },
           linkUrl: '/healthcare-australia/translating-interpreting'
 				},
@@ -81,7 +81,7 @@ class HealthcareAustralia extends Component {
           theme: this.props.theme,
           titleText: {
             'en': 'Private Health Insurance',
-            'ar': ''
+            'ar': 'التامين الصحي الخاص'
           },
           linkUrl: '/healthcare-australia/private-health'
 				},
@@ -90,7 +90,7 @@ class HealthcareAustralia extends Component {
           theme: this.props.theme,
           titleText: {
             'en': 'Community Based Services',
-            'ar': ''
+            'ar': 'الخدمات المجتمعية'
           },
           linkUrl: '/healthcare-australia/community-services'
         }
