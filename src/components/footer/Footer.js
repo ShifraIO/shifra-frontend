@@ -46,7 +46,7 @@ class Footer extends Component {
                   url="https://www.facebook.com/mAdapt-1777571399195093/"
                   network="facebook"
                   color="white"
-                  style={{ height: 69, width: 69 }}
+                  style={{ height: 35, width: 35 }}
                 />
               </li>
               {/* <li><SocialIcon url="https://twitter.com/mAdapt_app" network="twitter" color="white" style={{ height:23, width:23 }}/></li>
@@ -56,7 +56,7 @@ class Footer extends Component {
                   url="https://www.instagram.com/Shifra_au/"
                   network="instagram"
                   color="white"
-                  style={{ height: 69, width: 69 }}
+                  style={{ height: 35, width: 35 }}
                 />
               </li>
             </ul>
