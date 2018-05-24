@@ -30,20 +30,15 @@ class Footer extends Component {
         </div>
 
         <div className="footerCore">
-          <div className="footerItem">
-            <ul>
-              <li>
-                <Link to="/about">About Shifra</Link>
-              </li>
+          <div className="footerItem about">
+            <ul className="footerAbout">
+              <li><a href="/about">About Shifra</a></li>
               {/* <li><a>All Topics</a></li> */}
               <li><a href="mailto:info@shifra.io">Contact</a></li>
-
-              <li><a href="/privacy">Privacy Policy</a></li>
-              <li><a href="/termsofuse">Terms of Use</a></li>
-            </ul>
-          </div>
-
-          <div className="footerItem social">
+			</ul>
+		  </div>
+		  
+		  <div className="footerItem social">
             {/* <h4>{lang === 'en' ? 'Save our website on your phone!' : 'حفظ موقعنا على الهاتف الخاص بك!'}</h4> */}
             <ul className="footerIcons">
               <li>
@@ -51,7 +46,7 @@ class Footer extends Component {
                   url="https://www.facebook.com/mAdapt-1777571399195093/"
                   network="facebook"
                   color="white"
-                  style={{ height: 23, width: 23 }}
+                  style={{ height: 35, width: 35 }}
                 />
               </li>
               {/* <li><SocialIcon url="https://twitter.com/mAdapt_app" network="twitter" color="white" style={{ height:23, width:23 }}/></li>
@@ -61,12 +56,19 @@ class Footer extends Component {
                   url="https://www.instagram.com/Shifra_au/"
                   network="instagram"
                   color="white"
-                  style={{ height: 23, width: 23 }}
+                  style={{ height: 35, width: 35 }}
                 />
               </li>
             </ul>
           </div>
-
+		  
+		  <div className="footerItem privacy">
+			<ul className="footerPrivacy">
+              <li><a href="/privacy">Privacy Policy</a></li>
+              <li><a href="/termsofuse">Terms of Use</a></li>
+            </ul>
+          </div>
+          
           <div className="banner">
             <div className="inline-block">
               <img src={swinburneLogo} alt="Swinburne Logo"/>
@@ -93,10 +95,11 @@ class Footer extends Component {
               }
               className="disclaimer"
             >
-              {lang === "en"
+			{/*{lang === "en"
                 ? "This website and the resources to which it refers are intended to provide educational and general information only. They do not provide comprehensive medical or legal advice. Please seek specific medical or legal advice in relation to individual circumstances. Shifra accepts no responsibility or legal liability for reliance on the information contained on this site, or other sites to which this site links."
                 : "ويهدف هذا الموقع والموارد التي يشير إليها إلى توفير المعلومات التعليمية والعامة فقط. وهي لا تقدم المشورة الطبية أو القانونية الشاملة. يرجى طلب المشورة الطبية أو القانونية المحددة فيما يتعلق بالظروف الفردية. Shifra لا تتحمل أي مسؤولية أو مسؤولية قانونية عن الاعتماد على المعلومات الواردة في هذا الموقع، أو المواقع الأخرى التي يرتبط بها هذا الموقع."}
-            </p>
+            */}
+			</p>
           </div>
         </div>
       </div>
