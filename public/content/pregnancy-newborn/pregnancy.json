@@ -1,5 +1,5 @@
 {
-	"arabicComplete": false,
+	"arabicComplete": true,
 	"style": 3,
 	"title": {
 		"en": "Pregnancy",
@@ -7,9 +7,10 @@
 	},
 	"summary": {
 		"en": "<h3>Right to Respectful Maternity Care</h3><ul><li>The midwife and any other medical staff who are present should talk with you throughout your labour and birth.</li><li>If you are unsure of anything that is happening to you, you have a right to ask them to stop and explain what is happening.</li><li>You also have a right to say no to care or to ask for more information before saying yes to any procedure or intervention. This is called informed consent.</li><li>You have a right to an interpreter during your birth and to request that the interpreter be a woman, if possible.</li></ul><p><img src=\"/img/pregnancy/right-to-care.png\" alt=\"Right to Care\"></p><p><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/10/Final_RMC_Charter.pdf\">Respectful Maternity Care Charter</a></p><p><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/05/5-Approaches-to-RMC.pdf\">5 Approaches to Respectful Maternity Care</a></p><p><a href=\"https://www.youtube.com/playlist?list=PLlpvwXkLP8h5LZWSsNQkCtpsK2CQn6kl0\">Video: Respectful Maternity Care</a></p><ul><li>You have the right to decide when to get pregnant.</li><li>It is important to think about this before you decide when and if you want to have children.</li><li>If you do wish to become pregnant your health is important, so make sure your body is getting the nutrients it needs to sustain a healthy pregnancy.</li><li>If you do not wish to become pregnant it is important to know your options regarding <a href=\"/family-planning/contraception\">birth control and unplanned pregnancy</a>.</li></ul><p><a href=\"http://raisingchildren.net.au/articles/pregnancy_multicultural_services_video.html/context/1548\">Raising Children Network - Multilingual Services</a></p>",
-		"ar": ""
+		"ar": "<h3>خدمة لائقة ومحترمة عند رعاية المرأة الحامل:</h3><ul><li>يجب على كل من القابلة والموظفين الطبيين التحدث معك أثناء المخاض والولادة.</li><li>إذا كنت غير متأكدة من  شيء ما يحدث معك، لديك الحق في مطالبتهم بالتوقف وشرح ما يحدث</li><li>لدیك الحق في قول لا أو طلب المزید من المعلومات قبل قول نعم لأي إجراء أو تدخل علاجي. وهذا ما يسمى الموافقة الواضحة والصريحة.</li><li>لديك الحق في الحصول على مترجم فوري أثناء ولادتك وأن تكون المترجمة امرأة، إن أمكن.</li></ul><p><img src=\"/img/pregnancy/right-to-care.png\" alt=\"Right to Care\"></p><p><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/10/Final_RMC_Charter.pdf\">ميثاق رعاية واحترام الأمومة</a></p><p><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/05/5-Approaches-to-RMC.pdf\">5 معايير لرعاية واحترام الأمومة</a></p><p><a href=\"https://www.youtube.com/playlist?list=PLlpvwXkLP8h5LZWSsNQkCtpsK2CQn6kl0\">فيديو: رعاية واحترام الأمومة</a></p><ul><li>لدیك الحق في اتخاذ القرار بشأن الحمل.</li><li>من المهم التفكير قبل اتخاذ القرار بالحمل وإنجاب الأطفال</li><li>عندما ترغبين بالحمل من الهام جدا متابعة الصحة الجسدية والحصول على المواد الغذائية التي سوف تحتاجينها للحفاظ على حمل صحي .</li><li>إذا كنت لا ترغبين بالحمل، فمن المهم أن تعرفي خياراتك فيما يتعلق بتحديد النسل والحمل غير المخطط له.</li></ul><p><a href=\"(http://raisingchildren.net.au/articles/pregnancy_multicultural_services_video.html/context/1548\">رفع شبكة الأطفال - خدمات متعددة اللغات</a></p>"
 	},
-	"tab": [{
+	"tab": [
+		{
 			"title": {
 				"en": "Preparing for Pregnancy",
 				"ar": ""
@@ -29,7 +30,8 @@
 				"en": "<p><ul><li>Pregnancy is usually confirmed after you have missed your period.</li><li>To determine how many weeks pregnant you are (this is known as your “gestation”) the doctor or nurse will ask you of the first day of your last menstrual period (monthly bleed).</li><li>Normal pregnancies last 40 weeks and most babies are born between 38-42 weeks.</li><li>Some women will take a home pregnancy test and then confirm this with a blood test and an ultrasound with their local GP.</li><li>If this pregnancy is unplanned and you would like to talk about your pregnancy options you can visit Shifra’s <a href=\"/family-planning/unplanned-pregnancy\">Unplanned Pregnancy</a> section and also speak to your local doctor or maternal child health nurse.</li></ul><p><img src=\"/img/pregnancy/weeks.png\" alt=\"Weeks\"></p></p>",
 				"ar": ""
 			},
-			"links": [{
+			"links": [
+				{
 					"title": {
 						"en": "How to Use a Home Pregnancy Test",
 						"ar": ""
@@ -54,7 +56,8 @@
 				"en": "<p><ul><li>The first trimester consists of the first three months (12 weeks) of pregnancy.</li><li>The first trimester often brings with it uncomfortable symptoms like nausea (feeling sick), vomiting, and tiredness due to changes with your hormone and blood circulation.</li></ul><p><img src=\"/img/pregnancy/6-weeks.png\" alt=\"6 Weeks Pregnant\"><img src=\"/img/pregnancy/12-weeks.png\" alt=\"12 Weeks Pregnant\"></p></p>",
 				"ar": ""
 			},
-			"links": [{
+			"links": [
+				{
 					"title": {
 						"en": "Raising Children Network - Pregnancy: Week by Week",
 						"ar": ""
@@ -80,20 +83,22 @@
 				"en": "<p><ul><li>The second trimester consists of weeks 13-26 of pregnancy.</li><li>During this time period some symptoms from the first trimester should get better.</li><li>You will also begin to develop a bump as the baby and uterus grow upward into the abdomen (your tummy).</li></ul><p><img src=\"/img/pregnancy/20-weeks.png\" alt=\"20 Weeks Pregnant\"></p></p>",
 				"ar": ""
 			},
-			"links": [{
-				"title": {
-					"en": "Raising Children Network - Pregnancy: Week by Week",
-					"ar": ""
+			"links": [
+				{
+					"title": {
+						"en": "Raising Children Network - Pregnancy: Week by Week",
+						"ar": ""
+					},
+					"url": "http://raisingchildren.net.au/week_by_week/weekly_pregnancy_guide.html"
 				},
-				"url": "http://raisingchildren.net.au/week_by_week/weekly_pregnancy_guide.html"
-			},
-			{
-				"title": {
-					"en": "Raising Children Network Video: Second Trimester",
-					"ar": ""
-				},
-				"url": "http://raisingchildren.net.au/articles/changes_second_trimester_video.html"
-			}],
+				{
+					"title": {
+						"en": "Raising Children Network Video: Second Trimester",
+						"ar": ""
+					},
+					"url": "http://raisingchildren.net.au/articles/changes_second_trimester_video.html"
+				}
+			],
 			"video": ""
 		},
 		{
@@ -105,27 +110,29 @@
 				"en": "<p><ul><li>The third trimester of pregnancy starts at week 27 and continues to birth.</li><li>During this trimester it is normal to be uncomfortable due to the extra weight and you may have difficulty sleeping.</li><li>Sleeping on your left side helps you and your baby’s blood and oxygen flow.</li></ul><p><img src=\"/img/pregnancy/30-weeks.png\" alt=\"30 Weeks Pregnant\"><img src=\"/img/pregnancy/40-weeks.png\" alt=\"40 Weeks Pregnant\"></p></p>",
 				"ar": ""
 			},
-			"links": [{
-				"title": {
-					"en": "Raising Children Network - Pregnancy: Week by Week",
-					"ar": ""
+			"links": [
+				{
+					"title": {
+						"en": "Raising Children Network - Pregnancy: Week by Week",
+						"ar": ""
+					},
+					"url": "http://raisingchildren.net.au/week_by_week/weekly_pregnancy_guide.html"
 				},
-				"url": "http://raisingchildren.net.au/week_by_week/weekly_pregnancy_guide.html"
-			},
-			{
-				"title": {
-					"en": "Raising Children Network Video: Third Trimester",
-					"ar": ""
+				{
+					"title": {
+						"en": "Raising Children Network Video: Third Trimester",
+						"ar": ""
+					},
+					"url": "http://raisingchildren.net.au/articles/changes_third_trimester_video.html"
 				},
-				"url": "http://raisingchildren.net.au/articles/changes_third_trimester_video.html"
-			},
-			{
-				"title": {
-					"en": "Raising Children Network - Pelvic Floor Care",
-					"ar": ""
-				},
-				"url": "http://raisingchildren.net.au/articles/pelvic_floor_care_pip.html/context/1546"
-			}],
+				{
+					"title": {
+						"en": "Raising Children Network - Pelvic Floor Care",
+						"ar": ""
+					},
+					"url": "http://raisingchildren.net.au/articles/pelvic_floor_care_pip.html/context/1546"
+				}
+			],
 			"video": ""
 		},
 		{
