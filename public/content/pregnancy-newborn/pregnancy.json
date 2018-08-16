@@ -81,20 +81,20 @@
 			},
 			"text": {
 				"en": "<p><ul><li>The second trimester consists of weeks 13-26 of pregnancy.</li><li>During this time period some symptoms from the first trimester should get better.</li><li>You will also begin to develop a bump as the baby and uterus grow upward into the abdomen (your tummy).</li></ul><p><img src=\"/img/pregnancy/20-weeks.png\" alt=\"20 Weeks Pregnant\"></p></p>",
-				"ar": ""
+				"ar": "<p><ul><li>المرحلة الثانية تتكون من الأسبوع 13حتى الأسبوع 26 من الحمل.</li><li>خلال هذه الفترة الزمنية بعض الأعراض من الأشهر الثلاثة الأولى يجب أن تتحسن.</li><li>يبدأ أيضا نمو الطفل والرحم صعودا في البطن.</li></ul><p><img src=\"/img/pregnancy/20-weeks.png\" alt=\"20 Weeks Pregnant\"></p></p>"
 			},
 			"links": [
 				{
 					"title": {
 						"en": "Raising Children Network - Pregnancy: Week by Week",
-						"ar": ""
+						"ar": "شبكة تربية الأطفال - الحمل: أسبوعا أسبوعيا"
 					},
 					"url": "http://raisingchildren.net.au/week_by_week/weekly_pregnancy_guide.html"
 				},
 				{
 					"title": {
 						"en": "Raising Children Network Video: Second Trimester",
-						"ar": ""
+						"ar": "شبكة تربية الأطفال الفيديو: الثلث الثاني"
 					},
 					"url": "http://raisingchildren.net.au/articles/changes_second_trimester_video.html"
 				}
