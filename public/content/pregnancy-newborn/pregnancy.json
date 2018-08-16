@@ -24,11 +24,11 @@
 		{
 			"title": {
 				"en": "Finding out you’re pregnant",
-				"ar": ""
+				"ar": "معرفة أنك حامل"
 			},
 			"text": {
 				"en": "<p><ul><li>Pregnancy is usually confirmed after you have missed your period.</li><li>To determine how many weeks pregnant you are (this is known as your “gestation”) the doctor or nurse will ask you of the first day of your last menstrual period (monthly bleed).</li><li>Normal pregnancies last 40 weeks and most babies are born between 38-42 weeks.</li><li>Some women will take a home pregnancy test and then confirm this with a blood test and an ultrasound with their local GP.</li><li>If this pregnancy is unplanned and you would like to talk about your pregnancy options you can visit Shifra’s <a href=\"/family-planning/unplanned-pregnancy\">Unplanned Pregnancy</a> section and also speak to your local doctor or maternal child health nurse.</li></ul><p><img src=\"/img/pregnancy/weeks.png\" alt=\"Weeks\"></p></p>",
-				"ar": ""
+				"ar": "<p><ul><li>يتم تأكيد الحمل عادة بعد غياب الدورة الشهرية الخاصة بك.</li><li> لتحديد عدد أسابيع الحمل  سوف  يسألك الطبيب أو الممرضة عن اليوم الأول لآخر دورة شهرية.</li><li>الحمل العادي يستمر 40 أسبوعا ويولد معظم الأطفال بين 38-42 أسبوعا.</li><li>ستخضع بعض النساء لاختبار الحمل المنزلي ثم تؤكد ذلك باختبار الدم والموجات فوق الصوتية مع الطبيب المختص .</li><li>إذا كان هذا الحمل غير مخطط له وكنت ترغبين  في الحديث عن خيارات الحمل يمكنك زيارة شيفرة قسم الحمل غير المخطط له وأيضا التحدث إلى الطبيب المختص أو ممرضة صحة الطفل والأمهات.</li></ul><p><img src=\"/img/pregnancy/weeks.png\" alt=\"Weeks\"></p>"
 			},
 			"links": [
 				{
@@ -41,7 +41,7 @@
 				{
 					"title": {
 						"en": "Pregnancy and birth, now you are pregnant",
-						"ar": ""
+						"ar": "الحمل والولادة، والآن أنت حام"
 					},
 					"url": "https://www.thewomens.org.au/health-information/pregnancy-and-birth/now-you-are-pregnant"
 				}
@@ -50,24 +50,24 @@
 		{
 			"title": {
 				"en": "First Trimester",
-				"ar": "الثلث الأول من الحمل"
+				"ar": "الثلث  الأول"
 			},
 			"text": {
 				"en": "<p><ul><li>The first trimester consists of the first three months (12 weeks) of pregnancy.</li><li>The first trimester often brings with it uncomfortable symptoms like nausea (feeling sick), vomiting, and tiredness due to changes with your hormone and blood circulation.</li></ul><p><img src=\"/img/pregnancy/6-weeks.png\" alt=\"6 Weeks Pregnant\"><img src=\"/img/pregnancy/12-weeks.png\" alt=\"12 Weeks Pregnant\"></p></p>",
-				"ar": ""
+				"ar": "<p><ul><li>تتكون المرحلة الأولى من الأشهر الثلاثة الأولى (12 أسبوعا) من الحمل.</li><li>في الأشهر الثلاثة الأولى غالبا ما يظهر أعراض غير مريحة مثل الغثيان (الشعور بالمرض)، والتقيؤ، والتعب بسبب التغيرات بالهرمونات والدورة الدموية.</li></ul><p><img src=\"/img/pregnancy/6-weeks.png\" alt=\"6 Weeks Pregnant\"><img src=\"/img/pregnancy/12-weeks.png\" alt=\"12 Weeks Pregnant\"></p></p>"
 			},
 			"links": [
 				{
 					"title": {
 						"en": "Raising Children Network - Pregnancy: Week by Week",
-						"ar": ""
+						"ar": "شبكة تربية الأطفال - الحمل: أسبوعا أسبوعيا"
 					},
 					"url": "http://raisingchildren.net.au/week_by_week/weekly_pregnancy_guide.html"
 				},
 				{
 					"title": {
 						"en": "Raising Children Network Video: First Trimester",
-						"ar": ""
+						"ar": "شبكة تربية الأطفال الفيديو: الربع الأول"
 					},
 					"url": "http://raisingchildren.net.au/articles/changes_first_trimester_video.html"
 				}
