@@ -1,5 +1,5 @@
 {
-  "arabicComplete": false,
+  "arabicComplete": true,
   "style": 3,
   "title": {
     "en": "Postnatal",
@@ -160,11 +160,11 @@
     {
       "title": {
         "en": "Family Planning and Contraception Choices",
-        "ar": ""
+        "ar": "خيارات تنظيم الأسرة ومنع الحمل"
       },
       "text": {
         "en": "<p><ul><li><p>After you have your baby it is important to give your body the appropriate time it needs to heal before you get pregnant again.</p></li><li><p>Even if you are breastfeeding there is still a chance that you could become pregnant after birth if you have unprotected sex (sex without using a condom or birth control).</p></li><li><p>Most women in Australia wait 6-12 weeks before having sex after their baby is born.</p></li><li><p>It is good to know your family planning options so that you can choose what works best for you and plans for having more children in the future.</p></li><li><p>Contraception can help you avoid pregnancy resulting from unprotected sex.</p></li><li><p>If you are breastfeeding, you may want to use the “Mini-Pill” as it has less hormones than the regular pill.</p></li><li><p>There are several other methods of contraception that are safe, effective and easy to use prior to having sex such as:</p><ul><li>condoms;</li><li>the oral contraceptive pill (known as “the pill”);</li><li>hormonal implants (e.g. Implanon, Nexplanon);</li><li>hormonal injections (e.g. Depo Provera);</li><li>intrauterine devices (IUDs);</li><li>diaphragms and cervical caps;</li><li>vaginal rings (e.g. Nuva Ring)</li><li>Lactational Amenorrhea Method (LAM)</li></ul></li><li><p>Additionally, you may use emergency contraception (also called, the morning after pill) up to 5 days after engaging in unprotected sex.</p></li><li><p>See Shifra’s <a href=\"/family-planning/contraception\">Contraception Types</a> section for more and speak to your midwife, maternal child health nurse or GP if you want to use any of these methods so you don’t get pregnant again too soon.</p></li></ul><p><strong>Only the condom will protect you from sexually transmissible infections.</strong></p></p>",
-        "ar": ""
+        "ar": "<p><ul><li><p>بعد الولادة من المهم إعطاء جسمك الوقت المناسب الذي يحتاجه  للشفاء والراحة قبل أن تحملين  مرة أخرى.</p></li><li><p>حتى إذا كنت ترضعين  إرضاع طبيعي، لا تزال هناك فرصة لتحملين بعد الولادة إذا كنت تمارسين الجنس غير المحمي ( الجنس دون استخدام الواقي الذكري أو تحديد النسل ).</p></li><li><p>معظم النساء في أستراليا ينتظرن 6-12 أسبوعا قبل ممارسة الجنس بعد الولادة.</p></li><li><p>من الجيد معرفة خيارات تنظيم الأسرة بحيث يمكنك اختيار أفضل ما يناسبك والتخطيط لإنجاب المزيد من الأطفال في المستقبل</p></li><li><p>يمكن أن تساعدك موانع الحمل على تجنب الحمل الناجم عن ممارسة الجنس دون وقاية.</p></li><li><p>إذا كنت ترضعين ، قد ترغبين في استخدام \"حبوب منع الحمل البسيطة\" حيث أن هرموناتها أقل من حبوب منع الحمل العادية.</p></li><li><p>هناك عدة طرق أخرى لمنع الحمل تكون آمنة وفعالة وسهلة تستخدم قبل ممارسة الجنس مثل:</p><ul><li>الواقي الذكري.</li><li> حبوب منع الحمل عن طريق الفم (المعروفة باسم \"حبوب منع الحمل\")</li><li>زرع الهرمونات (على سبيل المثال إمبلانون، نيكسلانون)</li><li>الحقن الهرمونية (على سبيل المثال ديبو بروفيرا)؛</li><li>الأجهزة داخل الرحم (اللولب).</li><li>الحجاب الحاجز وقبعات عنق الرحم.</li><li>حلقات مهبلية (مثل حلقة نوفا)</li><li>طريقة انقطاع الطمث </li></ul></li><li><p>بالإضافة إلى ذلك، يمكنك استخدام وسائل منع الحمل في حالات الطوارئ (وتسمى أيضا، حبة صباحية عند الجماع) تستمر فعاليتها إلى 5 أيام يمكن ممارسة  الجنس فيها دون وقاية.</p></li><li><p>انظري قسم أنواع وسائل منع الحمل في شيفرة المزيد من المعلومات والتحدث إلى القابلة أو ممرضة صحة  أو الطبيب العام إذا كنت ترغبين في استخدام أي من هذه الطرق حتى لا تحصلين على الحمل مرة أخرى في وقت قريب جدا.</p></li></ul><p><strong> فقط الواقي الذكري سوف يحميك من العدوى المنقولة جنسيا.</strong></p>"
       },
       "image": "",
       "video": "",
