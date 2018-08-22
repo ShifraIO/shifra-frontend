@@ -1,212 +1,218 @@
 {
-  "arabicComplete": false,
+  "arabicComplete": true,
   "style": 3,
   "title": {
     "en": "Birth",
-    "ar": "المخاض والولادة"
+    "ar": "الولادة"
   },
   "summary": {
     "en": "",
     "ar": ""
   },
-  "topLevelVideo": ["https://www.youtube.com/embed/khH61DutfUY"],
+  "topLevelVideo": [
+    "https://www.youtube.com/embed/khH61DutfUY"
+  ],
   "tab": [
-		{
+    {
       "title": {
         "en": "Preparing for birth",
-        "ar": ""
+        "ar": "التحضير للولادة"
       },
       "text": {
         "en": "<p><ul><li>Most women give birth between 38 and 42 weeks of pregnancy.</li><li>If you have your baby before this time, your baby may need to be placed in the special care nursery (SCN) or newborn intensive care centre (NICU) for more specialised care.</li><li>Some women will feel like they are having contractions from 34 weeks of pregnancy but most do not go into labour until 38 weeks or beyond.<ul><li>These contractions are often called tightenings and should not be painful, although they may be uncomfortable.</li></ul></li></ul><p><img style=\"width: 100%;\" src=\"/img/pregnancy/hospital-me.png\" alt=\"What do I take to the hospital for me?\"></p><p><img style=\"width: 100%;\" src=\"/img/pregnancy/hospital-baby.png\" alt=\"What do I take to the hospital for my baby?\"></p></p>",
-        "ar": ""
+        "ar": "<p><ul><li>تلد معظم النساء بين الأسبوع 38 و الأسبوع 42 من الحمل.</li><li>إذا تمت الولادة قبل هذا الوقت، قد يحتاج طفلك إلى  رعاية خاصة في مركز رعاية  حديثي الولادة (للحصول على رعاية أكثر تخصصا).</li><li>تشعر بعض النساء بأنهن يعانين من تقلصات في الأسبوع  34  من الحمل ولكن معظمهن لا يبدأ لديهم المخاض حتى الأسبوع 38  أو ما بعده.<ul><li> هذه التقلصات غالبا ما تسمى التثبيت وينبغي ألا تكون مؤلمة، على الرغم من أنها قد تكون غير مريحة.</li></ul></li></ul><p><img style=\"width: 100%;\" src=\"/img/pregnancy/hospital-me.png\" alt=\"What do I take to the hospital for me?\"></p><p><img style=\"width: 100%;\" src=\"/img/pregnancy/hospital-baby.png\" alt=\"What do I take to the hospital for my baby?\"></p></p>"
       },
       "image": "",
-      "video" : "",
+      "video": "",
       "links": [
-				{
+        {
           "title": {
             "en": "Huggies: Pre Labour",
-            "ar": "" 
+            "ar": ""
           },
           "url": "https://www.huggies.com.au/childbirth/labour/pre-labour"
-				},
-				{
+        },
+        {
           "title": {
             "en": "Royal Women's Hospital-Stages of Labour",
-            "ar": "" 
+            "ar": ""
           },
           "url": "https://www.thewomens.org.au/health-information/pregnancy-and-birth/labour-birth/stages-of-labour/"
-				},
-				{
+        },
+        {
           "title": {
             "en": "What to Pack for the Hospital",
-            "ar": "" 
+            "ar": ""
           },
           "url": "http://www.kidspot.com.au/birth/labour/preparing-for-labour/what-to-pack-for-hospital/news-story/0e94307c483ddc13788899a2f8b6db47"
         },
-				{
+        {
           "title": {
             "en": "Royal Women's Hospital-Preparing for labour",
-            "ar": "" 
+            "ar": ""
           },
           "url": "https://www.thewomens.org.au/health-information/pregnancy-and-birth/labour-birth/preparing-for-labour/"
         }
-			]
+      ]
     },
-		{
+    {
       "title": {
         "en": "What is Early Labour?",
-        "ar": "ما الذي يتوجب فعله في حالة وجود الأعراض أو بعض منها -" 
+        "ar": "ما هو المخاض المبكر؟"
       },
       "text": {
         "en": "<p><ul><li>In early labour, your body is preparing for birth. During this time you can:<ul><li>stay at home for as long as you can</li><li>have regular snacks so that you keep up your energy</li><li>rest as much as possible; if it is night time, you can try to sleep</li><li>try relaxing in a bath or a shower</li><li>go to the toilet regularly and empty your bowels (do a poo) if you can</li></ul></li></ul></p>",
-        "ar": ""
+        "ar": "<p><ul><li>في المخاض المبكر، الجسم يستعد للولادة. وخلال هذا الوقت يمكن:<ul><li>البقاء في المنزل طالما يمكنك ذلك</li><li>الوجبات الخفيفة العادية بحيث يمكنك تعويض الطاقة</li><li>الراحة قدر الإمكان. إذا كان الوقت ليلا، يمكنك محاولة النوم</li><li> حاولي الاسترخاء في حوض استحمام </li><li>الذهاب إلى المرحاض بانتظام وتفريغ الأمعاء إن أمكن  ( التبرز)</li></ul></li></ul></p>"
       },
       "image": "",
-      "video" : "",
-      "links": [ ]
+      "video": "",
+      "links": []
     },
     {
       "title": {
         "en": "Signs of Early Labour",
-        "ar": "علامات الولادة المبكرة" 
+        "ar": "علامات المخاض المبكر"
       },
       "text": {
         "en": "<p><ul><li>Here are some signs that you might notice when going into early labour:<ul><li>a blood-stained, yellow or white discharge on your underwear. This discharge is called a ‘show’</li><li>lower back pain</li><li>period-like pain that comes and goes</li><li>loose bowel motions/diarrhoea</li><li>a sudden gush or a slow leak of ﬂuid from the vagina when your waters break<ul><li>this is also called “membranes rupture”.</li><li>ahe ‘waters’ should be clear or slightly pink.</li><li>a greenish or brown colour can indicate a problem with the baby and you will need to see a doctor or contact your hospital immediately.</li></ul></li></ul></li></ul></p>",
-        "ar": ""
+        "ar": "<p><ul><li>إليك بعض العلامات التي قد تلاحظينها عند الدخول إلى المخاض المبكر:<ul><li>لطاخة دم، مفرزات صفراء أو بيضاء على الملابس الداخلية الخاصة بك.</li><li>آلام أسفل الظهر</li><li>الألم يأتي ويذهب بين حين وآخر</li><li>الإسهال</li><li>تسرب بطيء من سوائل المهبل <ul><li>ويسمى هذا أيضا \" تمزق الأغشية\".</li><li>السوائل يجب أن تكون واضحة أو وردية اللون.</li><li>اللون الأخضر أو البني يمكن أن يشير إلى مشكلة مع الطفل، وسوف تحتاجين  لرؤية الطبيب أو الاتصال بالمستشفى  على الفور.</li></ul></li></ul></li></ul></p>"
       },
       "image": "",
-      "video" : "",
-      "links": [ ]
-		},
-		{
+      "video": "",
+      "links": []
+    },
+    {
       "title": {
-				"en": "The First Stage of Labour",
-				"ar": ""
+        "en": "The First Stage of Labour",
+        "ar": "المرحلة الأولى من المخاض"
       },
       "text": {
         "en": "<p><ul><li>Labour pain come like waves, starting small and building to a peak and then falling away again. These are known as contractions.<ul><li>Contractions will come more often as you progress in labour.</li><li>They will make you want moan and make noises that may seem unusual but this is normal.</li><li>When your contractions are lasting about a minute and coming every 3-4 minutes, it is time to go to the hospital.</li><li>Many women don’t want to be touched or to talk during a contraction and just try to sleep in between them.</li><li>Some of these positions might help you during labour. The more you move around and sway your hips, the easier it is for your baby to move down lower and for labour to progress</li></ul></li></ul><p><img src=\"/img/pregnancy/first-stages-labour.png\" alt=\"First Stage of Labour\"></p><p>Image courtesy of <a href=\"https://www.ontarioprenataleducation.ca/labour-support/\">Best Start: The Ontario Maternal, Newborn, and Early Childhood Resource Center</a></p><ul><li>At  the end of the first stage of labour:<ul><li>you will start feeling a little more restless (it will be hard to sit still or lie down)</li><li>you will feel tired and your pain will become more intense</li><li>as you move closer to second stage, the time between each wave will be smaller.</li><li>When there is less than three to five minutes between each wave it is time to go to the hospital.</li></ul></li></ul></p>",
-        "ar": ""
+        "ar": "<p><ul><li>ألم المخاض يأتي مثل الأمواج، يبدأ صغير ويزداد ليصل  إلى الذروة ثم يختفي مرة أخرى. وهذا ما يعرف باسم الانقباضات أو التقلصات.<ul><li>سوف تحدث الانقباضات بشكل متكرر أثناء المخاض.</li><li> سوف ترغبين بالأنين  والصراخ و قد يبدو ذلك غير عادي ولكن هذا أمر طبيعي.</li><li>عندما تستمر التقلصات  حوالي دقيقة وتأتي كل 3-4 دقائق، عندها يحين الوقت للذهاب إلى المستشفى.</li><li>العديد من النساء لا يرغبن أن  يلمسن أو يتحدثن أثناء التقلصات ويحاولن النوم بين هذه التقلصات.</li><li>هذه بعض المواقف قد تساعدك أثناء المخاض. و تسهل حركة الطفل إلى أسفل </li></ul></li></ul><p><img src=\"/img/pregnancy/first-stages-labour.png\" alt=\"First Stage of Labour\"></p><p>Image courtesy of <a href=\"https://www.ontarioprenataleducation.ca/labour-support/\">Best Start: The Ontario Maternal, Newborn, and Early Childhood Resource Center</a></p><ul><li> في نهاية المرحلة الأولى من المخاض:<ul><li>الشعور المؤلم سيزداد أكثر   (سيكون من الصعب الجلوس  أو الاستلقاء)</li><li>سوف تشعرين بالتعب وسوف يصبح الألم أكثر كثافة</li><li>عندما تقتربين من المرحلة الثانية، فإن الوقت بين كل تقلص وآخر سيكون أصغر.</li><li>إذا أصبح الشعور بين كل تقلص وآخر أقل من ثلاث إلى خمس دقائق هنا سيكون قد حان الوقت للذهاب إلى المستشفى.</li></ul></li></ul></p>"
       },
       "image": "",
-      "video" : "",
-      "links": [ ]
+      "video": "",
+      "links": []
     },
     {
       "title": {
         "en": "When to go to Hospital",
-        "ar": "لوقت المناسب للذهاب إلى المستشفى-" 
+        "ar": "متى تذهبين إلى المستشفى"
       },
       "text": {
         "en": "<p><ul><li>It is not always clear whether labour has started. If you are not sure or you are worried, call your hospital.</li><li>Sometimes a process of talking through your symptoms with the midwife, is enough to help you relax and stay home a little longer.</li><li>If you or your midwife thinks labour has established (started to progress regularly) they will ask you to come into the hospital.</li><li>The midwife will ask you how and where you feel your contractions, how often the contractions come and how long they last. This will help the midwife to know how much your labour has progressed.</li><li>If you have strong signs of labour, such as your waters breaking, regular contractions or blood loss, it is a good idea to contact the hospital.</li><li>Depending on your specific situation, if you are not in established labour it is generally better to stay at home.</li><li>Women often feel better at home in the early stages of labour. If this is OK by you and your midwife, it should be encouraged so you can rest in your own surroundings.</li><li>Pain relief in labour should be discussed during your pregnancy.</li><li>You have a right to ask for pain relief in labour.</li><li>You have a right to decline pain relief and to ask staff not to offer you any if you would like a medication-free labour and birth.</li><li>Some common options include:<ul><li>Massage and acupressure</li><li>TENS machines</li><li>Water immersion (e.g. bath/shower)</li><li>Sterile water injections (these are placed in your lower back)</li><li>Nitrous oxide gas (also called “gas and air”)</li><li>Morphine injection (depending on the hospital, this may be pethidine)</li><li>Epidural</li></ul></li></ul></p>",
-				"ar": ""
+        "ar": "<p><ul><li>ليس من الواضح دائما ما إذا كان المخاض قد بدأ. إذا لم تكونين متأكدة أو كنت قلقة، اتصلي بالمستشفى.</li><li>في بعض الأحيان  التحدث عن الأعراض الخاصة بك مع القابلة، يكفي لمساعدتك على الاسترخاء والبقاء في المنزل لفترة أطول قليلا.</li><li>إذا کنت أنت أو القابلة تعتقدان أن المخاض قد بدأ (یبدأ التقدم بشکل منتظم) فسوف یطلب منك الحضور إلی المستشفی. </li><li>سوف تسألك القابلة كيف وأين تشعرين بالتقلصات، ومدى تكرار التقلصات ومدة استمرارها. وسيساعد ذلك القابلة على معرفة مقدار تقدم المخاض.</li><li>إذا كان لديك علامات قوية على المخاض، مثل خروج المزيد من السوائل، تقلصات منتظمة أو فقدان الدم، فمن الجيد أن تتصلي بالمستشفى.</li><li>اعتمادا على وضعك الخاص، وإذا لم يكن المخاض مكتمل فمن الأفضل البقاء في المنزل.</li><li>غالبا ما تشعر النساء بأنهن أفضل في المنزل في المراحل المبكرة من المخاض.</li><li>يجب مناقشة تخفيف ألم المخاض أثناء الحمل.</li><li> لديك الحق في طلب تخفيف ألم المخاض.</li><li>لديك الحق في رفض تخفيف الألم وطلب عدم تقديم أي شيء إذا كنت ترغبين  بولادة خالية من الأدوية .</li><li>تشمل بعض الخيارات الشائعة ما يلي:<ul><li>التدليك والعلاج بالإبر</li><li>آلات TENS</li><li>الغمر بالماء (مثل الحمام / الدش)</li><li> حقن المياه المعقمة (توضع  أسفل الظهر)</li><li>استعمال غاز أكسيد النيتروز</li><li>حقن المورفين (اعتمادا على المستشفى، وهذا قد يكون البيثيدين)</li><li>التخدير فوق الجافية</li></ul></li></ul></p>"
       },
       "image": "",
-      "video" : "",
+      "video": "",
       "links": [
-				{
-					"title": {
-						"en": "Royal Women's Hospital - Labour and Birth",
-						"ar": ""
-					},
-					"url": "https://www.thewomens.org.au/patients-visitors/clinics-and-services/pregnancy-birth/labour-birth/"
-				}
-			]
-		},
-		{
+        {
+          "title": {
+            "en": "Royal Women's Hospital - Labour and Birth",
+            "ar": ""
+          },
+          "url": "https://www.thewomens.org.au/patients-visitors/clinics-and-services/pregnancy-birth/labour-birth/"
+        }
+      ]
+    },
+    {
       "title": {
         "en": "Birth Support",
-        "ar": "" 
+        "ar": "دعم الولادة"
       },
       "text": {
         "en": "<p><ul><li>You have a right to have a support person with you in labour. This may be your partner, a family member or friend, or a  doula (trained birth companion).</li><li>Professional doulas charge fees for their service.<ul><li>In Victoria, Birth for Humankind offers a free doula service for women who are economically disadvantaged and meet at least one following criteria:<ul><li>at risk of perinatal depression and anxiety</li><li>under 25 years of age</li><li>experiencing homelessness</li><li>a refugee, asylum seeker or newly arrived migrant (within 5 years)</li><li>has a history of mental illness, drug and alcohol misuse, trauma and abuse issues</li><li>of Aboriginal or Torres Strait Islander descent</li><li>lacking a birth support person</li></ul></li></ul></li><li>You can make a referral for yourself or someone else <a href=\"http://www.birthforhumankind.org/services/referrals-to-bfh/\">here</a>.</li></ul><p><img src=\"/img/pregnancy/birth-for-humankind.png\" alt=\"Birth for Humankind\"></p></p>",
-				"ar": ""
+        "ar": "<p><ul><li>لدیك الحق في الحصول علی شخص للدعم أثناء المخاض. قد يكون  شريك حياتك، أحد أفراد العائلة أو صديق، أو  (المدربة مرافقة الولادة).</li><li>يتم دفع الأجور للشخص الخبير المكلف بخدمتك .<ul><li>في فيكتوريا، يقدم برنامج الولادة من أجل الجنس البشري خدمة الدعم المجاني للنساء الفقيرات  والتي لديها  أحد هذه المعايير  على الأقل:<ul><li>في خطر الاكتئاب والقلق في الفترة المحيطة بالولادة</li><li>أقل من 25 عاما من العمر</li><li>المعاناة من التشرد</li><li>لاجئة أو طالبة لجوء أو مهاجرة وصلت مؤخرا (في غضون 5 سنوات)</li><li> لديها تاريخ من الأمراض العقلية، المخدرات والكحول ، الصدمات النفسية وسوء المعاملة</li><li>أصلها من السكان الأصليين أو سكان جزر مضيق توريس</li><li>تفتقر إلى شخص يدعمها أثناء الولادة</li></ul></li></ul></li><li>يمكنك إجراء إحالة لنفسك أو لشخص آخر عن طريق زيارة: <a href=\"http://www.birthforhumankind.org/services/referrals-to-bfh/\">here</a>.</li></ul><p><img src=\"/img/pregnancy/birth-for-humankind.png\" alt=\"Birth for Humankind\"></p></p>"
       },
       "image": "",
-      "video" : "",
+      "video": "",
       "links": []
     },
     {
       "title": {
         "en": "The Second Stage of Labour",
-        "ar": "لمرحلة الثانية من الولادة-" 
+        "ar": "المرحلة الثانية من المخاض"
       },
       "text": {
         "en": "<p><ul><li>Second stage describes the period of time from when the cervix (the opening of the uterus) reaches 10cm to when your baby is born.</li><li>In second stage you may experience:<ul><li>longer and stronger contractions, with a one to two minute break in between</li><li>increased pressure in your bottom</li><li>the desire or urge to push</li><li>shaky cramps, feeling sick and vomiting</li><li>stretching and burning feelings in your vagina.</li></ul></li><li>The following video is helpful to better understanding the experiencing of labour and birth.<ul><li>Please note, that episiotomies (cuts to make the birth opening bigger) are not best practice and the parents are often offered the opportunity to cut the cord instead of the midwife or doctor.</li></ul></li></ul></p>",
-        "ar": "" 
+        "ar": "<p><ul><li>المرحلة الثانية هي الفترة الزمنية التي  يصل فيها فتحة عنق الرحم إلى 10 سم حتى تتم الولادة .</li><li>في المرحلة الثانية قد تواجهين:<ul><li>تقلصات أطول وأقوى، مع فارق زمني من 1-2 دقيقة</li><li>زيادة الضغط في الحوض</li><li>الرغبة أو الإحساس  بالدفع</li><li>تشنجات عابرة، والشعور بالمرض والرغبة بالتقيؤ</li><li>شعور حرقة في المهبل.</li></ul></li><li>الفيديو التالي هو مفيد لفهم أفضل تجارب المخاض والولادة.<ul><li>یرجی ملاحظة أن بضع الفرج (تؤدي إلی جعل منطقة الفرج أکبر) لیست أفضل الممارسات، وغالبا ما یتم منح الآباء الفرصة لقطع الحبل السري بدلا من القابلة أو الطبیب.</li></ul></li></ul></p>"
       },
       "image": "",
-      "video" : ["https://www.youtube.com/embed/jFdXx35VR-o"],
-      "links": [ ]
-		},
-		{
+      "video": [
+        "https://www.youtube.com/embed/jFdXx35VR-o"
+      ],
+      "links": []
+    },
+    {
       "title": {
         "en": "Taking care of yourself in labour",
-        "ar": ""
+        "ar": "رعاية نفسك أثناء المخاض"
       },
       "text": {
         "en": "<p><p>For many first time mothers, labour can take between 6-20 hours before it’s time to push and this can also take a few hours so it is important to take care of yourself and rest as much as possible. Try:</p><ul><li>to concentrate on your contractions and rest in between</li><li>to let go and allow your body to do what it needs to do</li><li>different positions – sitting, standing or walking</li><li>a cold face washer if you get too hot, this can be very soothing</li><li>a bath or shower to help you to relax and to manage the pain</li></ul><p><img src=\"/img/pregnancy/first-stages-labour.png\" alt=\"Labour\"></p><ul><li>Remember to keep drinking water or sucking ice and  rest as much as you can.</li><li>Some of these positions above might help you during labour. The more you move around and sway your hips, the easier it is for your baby to move down lower and for labour to progress</li></ul></p>",
-        "ar": "" 
+        "ar": "<p><p>بالنسبة لكثير من الأمهات لأول مرة، يمكن أن يستغرق المخاض ما بين 6-20 ساعة قبل أن يحين الوقت للولادة وهذا يمكن أن يستغرق أيضا بضع ساعات لذلك فمن المهم رعاية  نفسك والراحة قدر الإمكان. ومحاولة:</p><ul><li>التركيز أثناء التقلص والراحة بين التقلصات </li><li> ترك جسمك القيام بما يحتاج إليه</li><li>مواقف مختلفة - الجلوس، والوقوف أو المشي</li><li>غسل الوجه بالماء البارد إذا كان جسمك ساخن، وهذا يمكن أن يكون مهدئا جدا</li><li>حمام أو دش لمساعدتك على الاسترخاء والسيطرة على الألم</li></ul><p><img src=\"/img/pregnancy/first-stages-labour.png\" alt=\"Labour\"></p><ul><li>تذكري المحافظة على شرب الماء ويمكن استخدام الثلج معه والإسترخاء بقدر المستطاع.</li><li>بعض هذه المواقف أعلاه قد تساعدك أثناء المخاض. وكلما تحركت سيؤثر ذلك على الحوض، ويسهل  لطفلك  التحرك إلى أسفل و تسهيل  تقدم الولادة</li></ul></p>"
       },
       "image": "",
-      "video" : [],
-      "links": [ ]
+      "video": [],
+      "links": []
     },
     {
       "title": {
         "en": "Pushing",
-        "ar": "الدفع-" 
+        "ar": "الدفع"
       },
       "text": {
         "en": "<p><ul><li>When the urge to push arrives it can be overwhelming.</li><li>The pushing phase varies for each woman but can last for up to 2-3 hours, usually less if you have had a baby before.</li><li>Aside from the urge to push, you are likely to feel:<ul><li>pressure, and a strong urge to go to the toilet</li><li>stretching and burning in your vagina</li><li>the baby’s head moving down.</li></ul></li><li>The best thing you can do during this phase is to try and breathe deeply, relax and follow your body’s urge to push.</li><li>Trust and listen to your midwife or doctor who will guide you.</li><li>The following video is helpful to better understanding the experiencing of labour and birth. Please note, that episiotomies (cuts to make the birth opening bigger) are not best practice and the parents are often offered the opportunity to cut the cord instead of the midwife or doctor.</li></ul></p>",
-        "ar": ""
+        "ar": "<p><ul><li>الرغبة في الدفع  يمكن أن تكون مؤلمة.</li><li>تختلف مرحلة الدفع لكل امرأة ولكن يمكن أن تستمر لمدة تصل إلى 2-3 ساعات، وعادة تكون أقل إذا كان هناك ولادة سابقة .</li><li>وعندالانتقال من مرحلة الاستعجال إلى الدفع، فالمرجح أنك تشعرين:<ul><li>بالضغط، والحاجة القوية للذهاب إلى المرحاض</li><li>شعورحرقة في المهبل</li><li>تحرك رأس الطفل لأسفل.</li></ul></li><li>أفضل شيء يمكنك القيام به خلال هذه المرحلة هو محاولة التنفس بعمق، والاسترخاء ومتابعة الرغبة في الدفع.</li><li>الثقة والاستماع إلى القابلة أو الطبيب الذي سوف يرشدك.</li><li>الفيديو التالي هو مفيد لفهم أفضل التجارب في المخاض والولادة. يرجى ملاحظة أن تلك الممارسات (المساعدات لجعل فتحة عنق الرحم أكبر) ليست أفضل الممارسات وغالبا ما يتم منح الآباء الفرصة لقطع الحبل بدلا من القابلة أو الطبيب.</li></ul></p>"
       },
       "image": "",
-      "video" : ["https://www.youtube.com/embed/jFdXx35VR-o"],
-      "links": [ ]
+      "video": [
+        "https://www.youtube.com/embed/jFdXx35VR-o"
+      ],
+      "links": []
     },
     {
       "title": {
         "en": "The Third Stage of Labour",
-        "ar": "لمرحلة الثالثة من الولادة-" 
+        "ar": "المرحلة الثالثة من المخاض"
       },
       "text": {
-        "en": "<p><ul><li>The third stage begins after your baby is born and finishes when the placenta has also been pushed out (usually within about 5-30 minutes after birth).</li><li>In the third stage you may have:<ul><li>more contractions to push the placenta down and out of your vagina</li><li>a feeling of fullness in your vagina or like you need to do a poo.</li></ul></li><li>The midwife will usually pull on the cord to deliver the placenta but may ask you to help by gently pushing.</li><li>You should be able to cuddle with and breastfeed your baby immediately after birth.</li></ul><p><img src=\"/img/pregnancy/stages-of-labour.png\" alt=\"Stages of Labour\"></p><p>Image coutrsy of: <a href=\"http://balkanopathy.com/en/blog-eng/109-blog-homeopathic-remedies-for-third-stages-of-labour.html\">http://balkanopathy.com/en/blog-eng/109-blog-homeopathic-remedies-for-third-stages-of-labour.html</a></p></p>",
-        "ar": ""
+        "en": "<p><ul><li>The third stage begins after your baby is born and finishes when the placenta has also been pushed out (usually within about 5-30 minutes after birth).</li><li>In the third stage you may have:<ul><li>more contractions to push the placenta down and out of your vagina</li><li>a feeling of fullness in your vagina or like you need to do a poo.</li></ul></li><li>The midwife will usually pull on the cord to deliver the placenta but may ask you to help by gently pushing.</li><li>You should be able to cuddle with and breastfeed your baby immediately after birth.</li></ul><p><img src=\"/img/pregnancy/stages-of-labour.png\" alt=\"Stages of Labour\"></p><p>Image courtesy of: <a href=\"http://balkanopathy.com/en/blog-eng/109-blog-homeopathic-remedies-for-third-stages-of-labour.html\">http://balkanopathy.com/en/blog-eng/109-blog-homeopathic-remedies-for-third-stages-of-labour.html</a></p></p>",
+        "ar": "<p><ul><li>تبدأ المرحلة الثالثة بعد ولادة الطفل وتنتهي عندما يتم دفع المشيمة أيضا (عادة في غضون  5-30  دقيقة بعد الولادة).</li><li>في المرحلة الثالثة قد يكون لديك:<ul><li>المزيد من الانقباضات لدفع المشيمة إلى الأسفل والخروج من المهبل</li><li>شعور بالامتلاء في المهبل  كالحاجة إلى  التبرز.</li></ul></li><li>تقوم القابلة عادة بسحب الحبل لتحرير المشيمة ولكن قد يتطلب ذلك منك المساعدة من خلال الدفع برفق.</li><li> يجب أن تكوني قادرة على احتضان طفلك وإرضاعه مباشرة بعد الوالدة.</li></ul><p><img src=\"/img/pregnancy/stages-of-labour.png\" alt=\"Stages of Labour\"></p><p>Image courtesy of: <a href=\"http://balkanopathy.com/en/blog-eng/109-blog-homeopathic-remedies-for-third-stages-of-labour.html\">http://balkanopathy.com/en/blog-eng/109-blog-homeopathic-remedies-for-third-stages-of-labour.html</a></p></p>"
       },
       "image": "",
-      "video" : "",
-      "links": [ ]
-		},
-		{
+      "video": "",
+      "links": []
+    },
+    {
       "title": {
         "en": "Forceps and Vacuum Delivery",
-        "ar": ""
+        "ar": "استعمال الملاقط والشفط أثناء الولادة"
       },
       "text": {
         "en": "<p><ul><li>Sometimes during the end of the second stage, you or your baby may get too tired to keep pushing</li><li>If your baby’s position is making pushing difficult or your baby’s heart rate drops and doesn’t return to normal, your doctor may ask you for consent to use forceps or a vacuum (this is also called a ventouse).</li><li>They may also need to make a cut along the birth passage,called an episiotomy. This gives your baby more room to come out but is not a routine procedure and you should always be asked before this occurs.</li><li>Most women will have some grazes or small tearing during birth. First and second degree tears tend to heal better than episiotomies but if they medical staff are worried the tear might be bigger then they may ask to do an episiotomy.</li><li>It is your right to ask questions and find out if there are alternatives to these interventions. If you don’t understand what is happening, you can ask for an interpreter or ask the medical team to slow down and explain things simply.</li><li>Some people like to consider the following questions when making their decision. This is something you can discuss with your midwife or doctor during your pregnancy also if you are nervous or unsure of anything.</li><li>Remember, it is your right to understand everything that is happening to you, your body and your baby at this time.</li></ul><p><img src=\"/img/pregnancy/brain.png\" alt=\"BRAIN\"></p><p>Table courtesy of: <a href=\"http://www.ontarioprenataleducation.ca/interventions/\">Best Start: The Ontario Maternal, Newborn, and Early Childhood Resource Center</a></p></p>",
-        "ar": ""
+        "ar": "<p><ul><li>في بعض الأحیان أثناء نھایة المرحلة الثانیة، قد تشعرين أنت و طفلك بالتعب الشديد للحفاظ علی الدفع</li><li>ذا كان وضع طفلك يجعل عملية الدفع صعبة أو انخفض معدل ضربات قلبه ولم يعد إلى وضعه الطبيعي، قد يطلب منك طبيبك اعطاء الموافقة الخطية على استخدام الملاقط أو الشفط.</li><li>قد تحتاج أيضا إلى إجراء قطع في ممر الولادة أو ما يدعى بضع الفرج. هذا يعطي طفلك مجالا أكبر للخروج ولكنه ليس إجراء روتيني ويجب دائما أن يطلب موافقتك قبل حدوث ذلك.</li><li>معظم النساء سيعانين من بعض السحجات أو تمزيق صغير أثناء الولادة. تميل السحجات من الدرجة الأولى والثانية إلى الشفاء بشكل أفضل من بضع الفرج ولكن إذا كان الموظفون الطبيون يشعرون بالقلق من كبر منطقة التمزقات في الرحم ومنطقة المهبل فإنهم  قد يطلبون إجراء بضع الفرج.</li><li> من حقك طرح الأسئلة ومعرفة ما إذا كانت هناك بدائل لهذه المداخلات. إذا كنت لا تفهم ما يحدث، يمكنك طلب مترجم أو اطلب من الفريق الطبي لإبطاء وشرح الأشياء ببساطة.</li><li>یحب بعض الأشخاص النظر في الأسئلة التالیة عند اتخاذ قرارھم. هذا شيء يمكنك مناقشته مع القابلة أو الطبيب أثناء الحمل أيضا إذا كنت قلقة أو غير متأكدة من أي شيء.</li><li>تذكر أنه من حقك أن تفهم كل ما يحدث لك ولجسمك وطفلك في هذا الوقت. </li></ul><p><img src=\"/img/pregnancy/brain.png\" alt=\"BRAIN\"></p><p>Table courtesy of: <a href=\"http://www.ontarioprenataleducation.ca/interventions/\">Best Start: The Ontario Maternal, Newborn, and Early Childhood Resource Center</a></p></p>"
       },
       "image": "",
-      "video" : "",
-      "links": [ ]
-		},
-		{
+      "video": "",
+      "links": []
+    },
+    {
       "title": {
         "en": "Caesarean Section",
-        "ar": ""
+        "ar": "عملية قيصرية"
       },
       "text": {
         "en": "<p><p>Some babies are born by caesarean section (c-section).</p><ul><li>This can be an emergency during or before labour if there is a complication with you or your baby.</li><li>It may also be something you choose to do for any number of reasons.</li><li>Your reasons are your own and you should not feel judged for this decision.</li><li>If you wish for c-section you will need to discuss this with your doctor in advance.</li><li>Planned/Elective c-sections are usually performed around 38-39 weeks if your pregnancy is uncomplicated.</li><li>You can breastfeed after a c-section.</li><li>Having had a c-section does not mean you have to have another one the next time you are pregnant.</li></ul><p><img src=\"/img/pregnancy/caesarean.png\" alt=\"caesarean\"></p></p>",
-        "ar": ""
+        "ar": "<p><p>يولد بعض الأطفال عن طريق العملية القيصرية .</p><ul><li>قد يكون هناك حالة طارئة قبل المخاض أو أثناءه إذا كان هناك أي خطر أو اختلاط  معك أو مع طفلك.</li><li>قد يكون أيضا شيئا اخترت القيام به لأي سبب من الأسباب.</li><li>الأسباب الخاصة بك هي الخاصة بك، ويجب أن لا يتدخل أحد بهذا القرار.</li><li>إذا كنت ترغب في الولادة القيصرية  سوف تحتاج إلى مناقشة هذا مع طبيبك في وقت مبكر.</li><li>عادة ما يتم عمل  الولادة القيصرية في حوالي 38-39 أسبوعا إذا كان الحمل طبيعي وبلا اختلاطات.</li><li>يمكنك الرضاعة الطبيعية بعد الولادة القيصرية.</li><li>إذا كان لديك ولادة قيصرية فذلك لا يعني أنه محتم عليك الولادة القيصرية في الولادات القادمة.</li></ul><p><img src=\"/img/pregnancy/caesarean.png\" alt=\"caesarean\"></p></p>"
       },
       "image": "",
-      "video" : "",
-      "links": [ ]
+      "video": "",
+      "links": []
     }
   ],
   "notes": {
     "en": "<h3>Right to Respectful Maternity Care</h3><ul><li>The midwife and any other medical staff who are present should talk with you throughout your labour and birth.</li><li>If you are unsure of anything that is happening to you, you have a right to ask them to stop and explain what is happening.</li><li>You also have a right to say no to care or to ask for more information before saying yes to any procedure or intervention. This is called informed consent.</li><li>You have a right to an interpreter during your birth and to request that the interpreter be a woman, if possible.</li></ul><p><img src=\"/img/pregnancy/right-to-care.png\" alt=\"Respectful Maternity Care\"></p><ul><li><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/10/Final_RMC_Charter.pdf\">Respectful Maternity Care Charter</a></li><li><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/05/5-Approaches-to-RMC.pdf\">5 Approaches to Respectful Maternity Care</a></li><li><a href=\"https://www.youtube.com/playlist?list=PLlpvwXkLP8h5LZWSsNQkCtpsK2CQn6kl0\">Videos: Respectful Maternity Care</a></li></ul>",
-    "ar": ""
+    "ar": "<h3>حقوقك في الحصول على رعاية الأمومة والطفولة محترمة:</h3><ul><li>يجب على القابلة وأي موظفين طبيين آخرين حاضرين التحدث معك أثناء المخاض والولادة.</li><li>إذا كنت غير متأكدة من أي شيء، لديك الحق  بمطالبتهم بالتوقف وشرح ما يحدث.</li><li>لدیك أیضا الحق في قول لا أو طلب المزید من المعلومات قبل قول نعم لأي إجراء أو تدخل. وهذا ما يسمى الموافقة الصريحة والواضحة.</li><li>لديك الحق في الحصول على مترجم فوري أثناء ولادتك وطلب أن يكون المترجم امرأة، إن أمكن.</li></ul><p><img src=\"/img/pregnancy/right-to-care.png\" alt=\"Respectful Maternity Care\"></p><ul><li><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/10/Final_RMC_Charter.pdf\">Respectful Maternity Care Charter</a></li><li><a href=\"http://whiteribbonalliance.org/wp-content/uploads/2013/05/5-Approaches-to-RMC.pdf\">5 Approaches to Respectful Maternity Care</a></li><li><a href=\"https://www.youtube.com/playlist?list=PLlpvwXkLP8h5LZWSsNQkCtpsK2CQn6kl0\">Videos: Respectful Maternity Care</a></li></ul>"
   }
 }
